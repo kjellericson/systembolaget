@@ -1,0 +1,769 @@
+nr	PrisPerLiter	fyllighet	stravhet	fruktsyra	Namn	desc
+7249201	118.67	7	6	9	Escada	Mycket fruktig smak med liten sötma och fatkaraktär, inslag av blåbär, björnbär, viol, mjölkchoklad, peppar
+642008	93.00	8	6	9	Apothic Red	Generöst fruktig smak med fatkaraktär och viss sötma, inslag av plommon, vanilj, blåbär, mjölkchoklad
+7496001	145.33	8	8	10	Barbera del Monferrato	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, örter, lavendel, björnbär, choklad
+306501	126.67	10	9	9	Château La Bourrée	Fruktig smak med tydlig rostad fatkaraktär, inslag av plommon, kakao, svarta vinbär, ceder, blåbär, kaffe, vanilj
+7599801	118.67	9	9	9	Cigarra Gran Passo	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, plommon, kryddpeppar, vanilj
+7570701	225.33	10	9	9	Castelmare	Kryddig, nyanserad smak med inslag av mörka körsbär, choklad, russin, vanilj, kryddnejlika
+7642001	252.00	8	10	10	Barolo	Kryddig, nyanserad smak med inslag av fat, torkade körsbär, choklad, rosor, nypon, lakrits, kanel
+277101	158.67	10	10	10	Oinoz	Utvecklad, kryddig smak med tydlig fatkaraktär, inslag av plommon, kakao, torkade körsbär, kaffe, tobak, vanilj
+632801	201.33	6	6	9	Ata Rangi	Kryddig, nyanserad smak med fatkaraktär, inslag av hallon, jordgubbar, sandelträ, ingefära, kanel, mynta, choklad
+641801	132.00	10	9	9	Jacob's Creek	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, mynta, björnbär, choklad, plommon, kaffe
+7659801	118.67	7	6	9	Villa Valentina	Fruktig smak med liten sötma, inslag av fat, körsbär, lakrits, vanilj
+274002	253.33	9	9	9	Amarone della Valpolicella Classico	Kryddig, utvecklad smak med fatkaraktär, inslag av russin, plommon, kakao, pinjenötter, vanilj
+252101	105.33	7	7	10	Eco Rojo	Fruktig smak med inslag av björnbär, mörka körsbär, skogshallon och  färska örter.
+236101	132.00	8	8	9	Rigogolo Chianti Riserva	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, lakrits, kanel, choklad, hallon, salvia
+7912501	145.33	7	7	10	Ecoltura	Kryddig smak med inslag fat, körsbär, russin, choklad, hallon, vanilj
+255301	278.67	10	10	10	Roquette & Cazes	Nyanserad smak med fatkaraktär, inslag av björnbär, mörka körsbär, lagerblad, vanilj, kakao, peppar
+228801	105.33	8	8	9	Alva	Kryddig smak med inslag av fat, björnbär, blåbär, vitpeppar, rosmarin, viol, kakao
+1267001	113.33	7	7	9	El Coto	Kryddig smak med fatkaraktär, inslag av mörka körsbär, choklad, jordgubbar, vanilj, kanel
+229801	158.67	9	8	10	Domaine des Pasquiers	Kryddig, nyanserad smak med inslag av björnbär, svartpeppar, lagerblad, skogshallon, lakritsrot, blåbär
+7278201	145.33	6	6	10	Piemonte	Bärig, nyanserad smak med inslag av blåbär, viol, hallon, färska örter, anis
+7083401	132.00	6	6	9	Barrels & Drums	Kryddig smak med inslag av blåbär, peppar, skogshallon, sötlakrits
+7630802	186.67	8	8	10	Villa Righetti	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, kanel, tobak, choklad, plommon, vanilj
+1651001	78.67	6	6	9	Viña Maipo	Ungdomlig, fruktig smak med inslag av svarta vinbär, hallon, lakrits, örter
+661101	145.33	6	5	9	Noble Vines 667	Nyanserad, balanserad smak med fatkaraktär, inslag av jordgubbar, mynta, mörka körsbär, kardemumma, choklad
+272501	332.00	10	10	10	Pardelasses	Smakrikt vin med fatkaraktär, inslag av plommon, björnbär, viol, örter, kakao, kryddor, kaffe
+282201	92.00	9	8	9	Terra Tangra	Mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, mörka körsbär, kaffe, kakao
+236608	66.33	8	8	9	El Gran Botánico	Mycket fruktig, ungdomlig smak med inslag av blåbär, viol, björnbär, skogshallon, örter
+200401	158.67	9	8	10	Cannonau di Sardegna	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rosor, pomerans, kakao, tobak, sandelträ, vitpeppar
+203101	116.00	7	7	9	Bilogía	Fruktig, kryddig smak med fatkaraktär, inslag av körsbär, lagerblad, björnbär, kanel, lakrits
+7357001	132.00	9	9	9	Ca'Marrone	Kryddig smak med fatkaraktär, inslag av chokladpraliner, svartpeppar, vanilj, körsbär, russin
+7520801	118.67	6	5	9	Pazzione by Pernilla Wahlgren	Fruktig smak med inslag av fat, körsbär, mjölkchoklad, jordgubbar, vanilj
+7554306	252.67	8	8	9	Xavier	Kryddig, nyanserad smak med inslag av björnbär, örter, peppar, hallon, lakrits, lagerblad
+7301801	158.67	7	7	9	Santa Duc	Kryddig, fruktig smak med inslag av fat, plommon, lavendel, skogshallon, peppar, lagerblad
+7263801	78.67	6	5	9	Casa Nostra	Fruktig smak med inslag körsbär, sötlakrits, skogshallon, viol
+463801	172.00	10	10	10	Stellenbosch Reserve	Fruktig, balanserad smak med tydlig, rostad fatkaraktär, inslag av svarta vinbär, mörka körsbär, ceder, kaffe, choklad, kryddor
+214001	198.67	5	5	10	Misty Cove	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, ingefära, körsbär, nougat, kryddpeppar, hallon
+645501	109.33	7	7	9	Reyneke Vinehugger	Mycket fruktig, ungdomlig smak med inslag av fat, svarta vinbär, skogshallon, örter, mjölkchoklad
+624201	212.00	7	6	9	Murdoch James Estate	Kryddig, nyanserad smak med fatkaraktär, inslag av plommon, sandelträ, ingefära, jordgubbar, kanel, choklad
+7178501	118.67	9	7	9	Gran Appasso	Kryddig, fruktig smak med liten sötma, inslag av fat, russin, körsbärspraliner, kryddnejlika, vanilj
+7648501	105.33	7	6	9	Borgi	Fruktig smak med inslag av körsbär, jordgubbar, lakrits
+464101	132.00	6	5	10	Cono Sur	Kryddig smak med fatkaraktär, inslag av jordgubbar, choklad, kanel, hallon, lakrits, örter
+3105001	265.33	5	5	11	Gutevin	Bärig smak med fatkaraktär, inslag av blåbär, slånbär, vanilj, örter
+233901	225.33	9	10	10	Torraccia del Piantavigna	Mogen, nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, kakao, nypon, rosor, kanel, pomerans, nougat
+321101	132.00	8	8	9	Imago	Fruktig, ungdomlig smak med inslag av blåbär, viol, svarta vinbär, lakrits, kryddor, örter
+236802	237.33	9	11	11	Langhe Nebbiolo	Nyanserad, kryddig smak med inslag av fat, mörka körsbär, nypon, rosor, kakao, nötter, ceder, vanilj
+239901	145.33	7	7	10	Langhe Rosso	Kryddig, nyanserad smak med inslag av fat, körsbär, sandelträ, hallon, kryddnejlika, pomerans
+233408	79.67	8	8	9	Ciù Ciù di Bartolomei	Fruktig smak med inslag av fat, mörka körsbär, choklad, lakrits, kanel
+360101	158.67	9	9	9	Château Quinsac	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, mörk choklad, plommon, kaffe, ceder
+362602	346.67	10	9	9	Château Plantier Rose	Nyanserad, fruktig smak med tydlig rostad fatkaraktär, inslag av svarta vinbär, kokos, plommon, ceder, kaffe och kakao. Severas vid cirka 18°C till rätter av mörkt kött.
+222801	145.33	8	8	9	Baron de Saint Jean	Fruktigt, smakrikt vin med inslag av hallon, blåbär, viol, lakrits, körsbär och färska örter.
+7241301	132.00	9	7	9	Grillo	Mycket fruktig smak med inslag av fat, björnbär, mörka körsbär, blåbär, muskot, örter och svarta vinbär.
+243508	79.67	8	8	9	Footsteps	Fruktig, ungdomlig smak med rostad fatkaraktär, inslag av svarta vinbär, björnbär, choklad, smörkola, vanilj
+279401	118.67	8	8	9	Bikandi	Fruktig smak med fatkaraktär, inslag av plommon, björnbär, mörka körsbär, vanilj, choklad
+297401	105.33	5	4	9	Ruppertsberger	Bärig smak med inslag av jordgubbar, körsbär, kryddor, pomerans
+7443501	109.33	7	7	10	Primo	Kryddig smak med fatkaraktär, inslag av torkade tranbär, mjölkchoklad, pinjenötter, pomerans
+7178401	305.33	9	7	9	Chateauneuf-du-Pape	Kryddigt, smakrikt vin med inslag av hallon, vitpeppar, lagerblad, körsbär, örter
+216301	172.00	10	9	10	Tamaral	Nyanserad smak med rostad fatkaraktär, inslag av mörka körsbär, plommon, kokos, kardemumma, kaffe, choklad
+244102	210.67	9	9	9	Alto	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, mynta, plommon, ceder, choklad, kaffe
+244208	79.67	7	7	9	Sangre de Toro	Fruktig smak med inslag av fat, plommon, lakrits, björnbär, kryddor, viol
+244401	198.67	10	8	9	Groot Constantia	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av björnbär, örter, choklad, svartpeppar, örter, körsbär
+548901	265.33	5	5	10	Mercurey Premier Cru	Kryddig, nyanserad smak med fatkaraktär, inslag av skogshallon, kanel, körsbär, sandelträ, pomerans
+7569601	118.67	7	7	10	Hacienda López de Haro	Kryddig smak med fatkaraktär, inslag av körsbär, svarta vinbär, choklad, örter
+217401	65.33	8	8	9	Dão Outeiro	Fruktig, kryddig smak med inslag av fat, björnbär, rosépeppar, plommon, lavendel, örter, vanilj
+7180201	172.00	10	9	10	Corniolo	Nyanserad, utvecklad smak med fatkaraktär, inslag av svarta vinbär, korinter, tobak, choklad, lagerblad, pomerans, nötter
+643001	96.00	7	6	9	Lindemans	Fruktig smak med inslag av svarta vinbär, björnbär, örter, lakrits
+7550601	118.67	8	7	9	Grande Alberone	Kryddig smak med fatkaraktär, inslag av katrinplommon, mintchoklad, kaffe, vanilj
+7460401	238.67	8	8	9	Châteauneuf-du-Pape	Kryddig smak med inslag av fat, hallon, vitpeppar, mörka körsbär, kanel, lagerblad
+601101	166.67	9	8	9	Robert Mondavi	Mycket fruktig smak med rostad fatkaraktär, inslag av plommon, mynta, mörka körsbär, svartpeppar, vanilj
+620301	172.00	10	9	9	Chateau Ste Michelle	Fruktig, balanserad smak med rostad fatkaraktär, inslag av mörka körsbär, tobak, svarta vinbär, kakao, plommon, vanilj
+681601	105.33	9	8	9	The Great Bonza	Mycket fruktig smak med rostad fatkaraktär, inslag av mörka bär, plommon, pepparmynta, choklad, lakrits
+1235701	372.00	9	9	10	Brunello di Montalcino	Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, ceder, torkade tranbär, kakao, nypon, kanel, salvia
+280401	145.33	10	10	10	Alamos	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, choklad, plommon, kaffe, peppar, vanilj
+7419001	153.33	8	7	9	Masi Bell'Ovile	Fruktig smak med fatkaraktär, inslag av plommon, mörka körsbär, lavendel, choklad, örter
+231501	145.33	6	5	9	Donovan-Parke	Kryddig smak med rostad fatkaraktär, inslag av jordgubbar, nougat, körsbär, sandelträ, örter, vanilj
+214301	105.33	7	7	9	Sense Cap	Ungdomlig, fruktig smak med inslag av hallon, viol, körsbär, mynta, lakrits, kryddor
+687401	105.33	8	8	9	Canepa Famiglia	Fruktig smak med inslag av svarta vinbär, ceder, blåbär, örter, lakrits
+244501	79.00	7	7	9	Chill Out	Mycket fruktig smak med inslag av fat, körsbär, björnbär, choklad, kryddor, plommon
+363501	265.33	10	10	10	Mas Sinén Negre	Smakrikt vin med rostad fatkaraktär, inslag av mörka körsbär, örter, svartpeppar, plommon, kaffe, svarta oliver, kakao
+7900001	305.33	10	8	9	Amarone della Valpolicella	Kryddig smak med fatkaraktär, inslag av körsbär, romrussin, vanilj, choklad
+7653501	132.00	9	7	9	Piemonte Barbera	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, vanilj, blåbärssylt, mynta, hallon
+237601	185.33	9	9	10	Quercia al Poggio	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, kanel, nougat, hallon, vanilj
+233601	532.00	11	10	10	La Fontanina	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, chokladpraliner, ceder, pomerans, vanilj
+7837501	200.00	10	9	9	Jacob's Creek	Generöst fruktig smak med tydlig fatkaraktär, inslag av björnsbärssylt, choklad, vanilj, lakrits, plommon
+7572201	145.33	7	6	10	Barbera d'Alba	Fruktig smak med inslag av fat, mörka körsbär, blåbär, örter, lakrits, hallon
+7837701	105.33	8	8	10	Barbera	Kryddig smak med fatkaraktär, inslag av blåbär, körsbär, salvia, russin och svart te.
+7180501	145.33	8	7	10	Valpolicella Ripasso	Kryddig smak med fatkaraktär, inslag av körsbär, kryddnejlika, hallon, kanel, vanilj
+1236301	278.67	9	9	9	Amarone Classico	Kryddig, aningen utvecklad smak med inslag av fat, torkade körsbär, choklad, nougat, russin, kanel
+7861401	198.67	4	4	10	Bourgogne	Bärig smak med inslag av fat, hallon, lingon, muskot, örter
+1236601	260.00	10	10	10	Capitel de'Roari	Kryddig, aningen utvecklad smak med fatkaraktär, inslag av torkade körsbär, salvia, romrussin, kryddpeppar, kanel, kakao
+7203201	109.33	8	7	9	Vanitá	Mycket fruktig smak med inslag av fat, mörka körsbär, björnbär, hallon, vanilj och mynta. 
+1269701	145.33	9	8	9	Torres Gran Coronas	Fruktig, aningen utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, choklad, mörka körsbär, korinter, tobak
+7851101	132.00	8	6	8	Tom Legend	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av björnbär, vanilj, jordgubbar, mynta, choklad
+1260101	198.67	9	8	9	Conde de Valdemar	Utvecklad, kryddig, nyanserad smak med fatkaraktär, inslag av torkad frukt, dill, korinter, tobak, kakao
+285201	141.33	10	10	10	Château Pineraie	Nyanserad, fruktig smak med fatkaraktär, inslag av blåbär, örter, hallon, kakao, svarta vinbär, lagerblad, peppar
+307101	372.00	9	9	9	Château Capbern Gasqueton	Nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, kaffe, plommon, choklad, svart te, ceder
+233401	105.33	8	8	9	Ciù Ciù di Bartolomei	Fruktig smak med inslag av fat, mörka körsbär, choklad, lakrits, kanel
+7882501	145.33	8	8	9	Côtes-du-Rhône Villages	Kryddig, fruktig smak med inslag av skogshallon, kryddpeppar, mörka körsbär, lagerblad, örter
+313401	114.67	9	10	10	Domaine Laougué	Fruktig smak med fatkaraktär, inslag av svarta vinbär, kaffe, rosépeppar, slånbär, björnbär, kakao
+7270401	105.33	7	7	9	Espiritu de Chile	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, vanilj, skogshallon, lakrits, örter
+310401	92.00	6	6	9	Alma do Tejo	Fruktig, kryddig smak med inslag av björnbär, viol, blåbär, oregano
+464201	105.33	6	5	8	Yellow Tail	Mycket fruktig smak med inslag av mörka bär, sötlakrits
+464301	92.00	4	4	8	JP Chenet	Bärig smak med inslag av skogshallon, blåbär, lakrits
+464304	120.00	4	4	8	JP Chenet	Bärig smak med inslag av skogshallon, blåbär, lakrits
+464501	118.67	8	6	8	Dark Horse	Generöst fruktig smak med inslag av fat, blåbärssylt, björnbär, mynta, peppar, vanilj
+7354601	89.00	7	7	9	Massimo	Kryddig smak med inslag av fat, körsbär, kryddnejlika, russin, smörkola
+7010901	198.67	9	8	10	Mille 1	Mycket fruktig smak med inslag av fat, blåbär, mörka körsbär, skogshallon, choklad
+7934201	52.00	7	7	10	Gran Real	Fruktig, något kryddig smak med inslag av fat, mörka körsbär, korinter, kakao, vanilj
+7366101	358.67	8	10	10	Borgogno	Nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, nypon, tobak, kanel, pomerans, sandelträ
+204701	132.00	5	5	10	Highland Heritage Estate	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, jordgubbar, sandelträ, lingon, kanel, mineral
+7072501	198.67	8	8	10	Brancaia	Nyanserad, kryddig smak med inslag av körsbär, kryddnejlika, hallon, salvia
+7636501	132.00	7	5	8	Prescription	Mycket fruktig smak med fatkaraktär, inslag av blåbärssylt, mynta, skogshallon, vanilj
+689401	105.33	9	8	9	Hope	Fruktig, kryddig smak med inslag av fat, björnbär, lavendel, lakrits, peppar, hallon, plommon
+628601	212.00	5	5	10	Kings Ridge	Kryddig, bärig smak med fatkaraktär, inslag av körsbär, skogshallon, sandelträ, örter, kanel, vanilj
+271901	92.00	8	7	9	Zola	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, kryddor, choklad, plommon, kaffe
+221302	266.67	9	9	9	Domaine du Grand Montmirail	Balanserad, kryddig smak med inslag av fat, björnbär, mynta, hallon, tobak, ceder, örter
+272201	93.33	7	7	9	Eger	Fruktig smak med inslag av körsbär, kryddnejlika, blåbär, lakrits
+238808	83.00	7	7	9	Monlusso	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, choklad, plommon, viol, örter
+561901	252.00	6	5	9	Rully Premier Cru Cuvée Signature	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, skogshallon, choklad, örter, jordgubbar
+549101	398.67	9	9	9	La Dame de Malescot	Komplex smak med rostad fatkaraktär, inslag av plommon, tobak, svarta vinbär, kaffe, kardemumma, kakao, ceder
+1238501	184.00	8	7	9	Zenato	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, kardemumma, mynta, plommon, choklad
+315601	158.67	8	8	10	Château Haut Brandey	Fruktig smak med inslag av svarta vinbär, körsbär, ceder, blåbär, örter
+237401	206.67	8	10	10	Alta Mora	Kryddig, nyanserad smak med inslag av fat, körsbär, kryddnejlika, kanel, jordgubbar, choklad, mineral, sandelträ
+7419201	133.33	8	7	9	Victoria	Mycket fruktig smak med rostad fatkaraktär, inslag av mörka körsbär, mjölkchoklad, kaffe, vanilj
+7130001	118.67	7	7	9	Anciano	Mogen, kryddig smak med tydlig fatkaraktär, inslag av torkade körsbär, vanilj, korinter, mjölkchoklad, kaffe
+7361901	118.67	8	7	9	Roccamozzi	Fruktig smak med inslag av fat, mörka körsbär, blåbär, färska örter, peppar, lakrits
+7909701	185.33	7	7	10	Brigaldara	Kryddig smak med inslag av fat, körsbär, kanel, vanilj, skogshallon, mjölkchoklad, peppar
+7985201	132.00	8	8	9	57 on Main	Fruktig smak med fatkaraktär, inslag av svarta vinbär, skogshallon, choklad, viol, vanilj
+7910701	172.00	10	8	9	Cashmere	Mycket fruktig, kryddig smak med fatkaraktär, inslag av plommon, choklad, fikon, björnbär, vanilj, kokos
+7218101	526.67	9	11	10	Barolo	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rosor, nougat, svart te, pomerans, kanel
+464608	73.00	8	7	9	Bosman	Mycket fruktig smak med fatkaraktär, inslag av plommon, choklad, svarta vinbär, lakrits och vanilj. 
+683301	92.00	7	7	9	Santa Inés	Fruktig smak med inslag av fat, svarta vinbär, örter, plommon, lagerblad, lakrits
+220501	118.67	9	9	10	Errazuriz Estate Series	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, plommon, färska örter, choklad, kaffe, vanilj, ceder
+657101	92.00	8	8	9	Santa Ana Classic	Fruktig smak med inslag av fat, björnbär, svarta vinbär, färska örter, körsbär, vanilj
+7026801	145.33	7	7	10	Maison Robert Olivier	Fruktig smak med inslag av svarta vinbär, örter, blåbär, ceder, slånbär
+280701	74.67	7	7	9	Arniston Bay	Fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, kanel, kaffe, choklad
+7144106	166.00	8	7	10	Mandrarossa Timperosse	Fruktig smak med inslag av fat, blåbär, mörka körsbär, peppar, basilika, lakrits, skogshallon
+686801	158.67	10	8	9	WaraWara	Fruktigt, smakrikt vin med fatkaraktär, inslag av svarta vinbär, mörk choklad, ceder, plommon, kaffe, mynta
+7260001	145.33	8	8	9	Côtes-du-Rhône	Kryddig smak med inslag av fat, plommon, blåbär, svartpeppar, lagerblad, hallon, lakritsrot
+216608	76.33	7	6	9	Castelrosso	Fruktig smak med inslag av fat, blåbär, choklad, körsbär, kanel, örter
+7681101	172.00	9	8	9	Amicone	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, kryddnejlika, choklad, kaffe, vanilj
+237708	59.67	6	6	9	Levante	Fruktig smak med inslag av körsbär, mörka bär, örter, lakrits
+535501	252.00	5	5	10	Sivas-Sonoma	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, kryddnejlika, jordgubbar, choklad, hallon, kaffe, mynta
+499601	105.33	9	8	9	The City Runner	Fruktig smak med inslag av fat, svarta vinbär, björnbär, vanilj, lakrits
+226101	92.00	7	7	9	Anciano	Fruktig smak med inslag av fat, blåbär, skogshallon, örter, vanilj
+549301	132.00	4	4	10	Beaujolais Villages	Bärig, nyanserad smak med inslag av hallon, örter, körsbär, blåbär, muskot, viol
+208401	158.67	9	9	9	Quinta do Cachão	Nyanserad, fruktig smak med fatkaraktär, inslag av björnbär, lagerblad, lavendel, plommon, mörka körsbär, peppar, choklad
+7897701	220.00	8	8	9	Crozes-Hermitage	Kryddig, nyanserad smak med inslag av fat, björnbär, peppar, lagerblad, lakrits, ceder, hallon
+230301	265.33	9	9	9	Il Sasso	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, plommon, viol, svarta oliver, choklad, ceder, kaffe, lakrits
+7238901	132.00	7	7	9	Castelgufo	Kryddig smak med fatkaraktär, inslag av torkade körsbär, kanel, jordgubbar, nougat, lagerblad
+7585401	118.67	8	6	9	L'Affarone	Mycket fruktig smak med liten sötma, inslag av fat, körsbärspraliner, kryddor, russin, vanilj
+230601	212.00	9	10	10	Rosso di Montalcino	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, jordgubbar, rosor, kanel, rosmarin och kakao. 
+271208	63.00	7	7	9	Castillo La Mancha	Mycket, fruktig smak med inslag av fat, mörka bär, plommon, vanilj och choklad. 
+287501	278.67	9	9	9	Saint-Joseph	Nyanserad, kryddig smak med fatkaraktär, inslag av plommon, eneträ, blåbär, peppar, muskot, vanilj, lakrits
+7528501	132.00	7	6	9	Villarini	Fruktig smak med fatkaraktär, inslag av körsbär, plommon, mintchoklad, hallon, vanilj
+7668601	166.67	9	9	9	Ca'Marrone	Kryddig smak med inslag av fat, torkade körsbär, choklad, pomerans, romrussin, kanel
+7036901	132.00	8	7	9	High Kick King	Mycket fruktig smak med liten sötma, inslag av fat, mörka körsbär, russin, kryddor, mogna jordgubbar, vanilj
+7275001	132.00	9	8	9	Fortellino	Fruktig smak med inslag av fat, mörka körsbär, skogshallon, nougat, sötlakrits, vanilj
+7418901	172.00	8	8	9	Zecci	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, choklad, salvia, kanel, vanilj
+7341501	118.67	6	4	8	Prohibition Bootleg	Mycket fruktig smak med sötma, inslag av hallon, mynta, jordgubbssylt
+7529401	132.00	9	7	9	Villa Puccini	Fruktig, kryddig smak med fatkaraktär, inslag av korinter, choklad, torkade körsbär, viol, sötlakrits
+1261501	113.33	5	5	9	Viña Herminia	Bärig, aningen kryddig smak med inslag av blåbär, skogshallon, lakrits, örter
+2231001	80.00	5	-1	8	Lambrusco Reggiano	Något spritsigt vin med ungdomlig, bärig smak med sötma, inslag av blåbär, körsbär, mandel och örter. Serveras kyld som sällskapsdryck.
+1655401	118.67	8	8	9	Trapiche	Mycket fruktig smak med fatkaraktär, inslag av björnbär, choklad, peppar, korinter, örter, vanilj
+1252001	77.33	8	7	9	Dão	Kryddig smak med inslag av blåbär, kryddpeppar, lagerblad, körsbär, örter
+2265201	118.67	9	8	9	Navajas	Kryddig, utvecklad smak med fatkaraktär, inslag av mörka körsbär, tobak, korinter, choklad, kaffe, vanilj
+1280808	66.33	4	4	9	JP Chenet	Bärig smak med inslag av skogshallon, svarta vinbär, lakrits, örter
+2235001	393.33	10	9	9	Tommasi	Kryddig, nyanserad smak med liten sötma, inslag av fat, torkade körsbär, romrussin, nötter, vanilj, choklad
+679202	170.67	8	7	9	Campolieti	Kryddig smak med fatkaraktär, inslag av mörka körsbär, russin, choklad, kaffe, kanel, vanilj
+203701	132.00	8	8	9	Gran Feudo	Kryddig smak med rostad fatkaraktär, inslag av körsbär, blåbär, kaffe, kanel, peppar
+206601	105.33	7	7	9	Jacob's Creek	Fruktig smak med inslag av fat, mörka körsbär, björnbär, lakrits, örter, peppar
+207701	112.00	7	7	10	Copertino	Mogen, kryddig smak med inslag av torkade körsbär, nypon, tobak, pomerans, läder
+1267002	125.33	7	7	9	El Coto	Kryddig smak med fatkaraktär, inslag av mörka körsbär, choklad, jordgubbar, vanilj, kanel
+1275501	105.33	5	4	9	Torres San Valentín	Ungdomlig, bärig smak med inslag av körsbär, blåbär, sötlakrits
+645002	157.33	10	9	9	Novas Gran Reserva	Fruktig smak med fatkaraktär, inslag av svarta vinbär, blåbär, plommon, lakrits, mörk choklad, vanilj
+645001	132.00	10	9	9	Novas Gran Reserva	Fruktig smak med fatkaraktär, inslag av svarta vinbär, blåbär, plommon, lakrits, mörk choklad, vanilj
+7241101	132.00	8	8	9	Ecoltura	Kryddig, fruktig smak med inslag av russin, kanel, plommon, pinjenötter
+1632001	318.67	10	10	10	Penfolds Kalimna Bin 28	Smakrikt, mycket fruktigt vin med tydlig rostad fatkaraktär, inslag av björnbär, plommon, eukalyptus, svartpeppar, vanilj och mörk choklad.
+268602	146.67	8	8	9	Torres Gran Sangre de Toro	Kryddig smak med fatkaraktär, inslag av plommon, mörka körsbär, choklad, kaffe, vanilj
+1667601	86.67	6	5	9	Sunrise	Mycket fruktig, ungdomlig smak med inslag av fat, svarta vinbär, körsbär, lakrits, gräs
+395801	132.00	8	8	9	Château de Seguin	Fruktig smak med fatkaraktär, inslag av svarta vinbär, örter, choklad, plommon, ceder
+756408	65.67	6	6	9	Gato Negro	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, björnbär och grön paprika.
+234401	105.33	7	6	9	Fantini	Fruktig smak med inslag av mörka körsbär, kryddor, björnbär, lakrits
+1279701	66.00	4	4	9	Castillo de Gredos	Bärig smak med inslag av körsbär, blåbär, kryddor
+1237801	65.00	5	4	9	Prego Rosso	Bärig smak med inslag av körsbär, blåbär, örter
+2266201	109.33	7	7	9	Faustino VII	Kryddig smak med fatkaraktär, inslag av torkade körsbär, tobak, korinter, vanilj
+230001	200.00	9	9	9	Villa Antinori	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, svarta vinbär, tobak, choklad, kaffe
+230501	358.67	9	10	10	Barolo	Kryddig, nyanserad smak med fatkaraktär, inslag av torkade körsbär, kakao, rosor, salvia, nougat, pomerans, nypon
+1236602	266.67	10	10	10	Capitel de'Roari	Kryddig, aningen utvecklad smak med fatkaraktär, inslag av torkade körsbär, salvia, romrussin, kryddpeppar, kanel, kakao
+231001	118.67	5	5	9	Ruffino	Bärig smak med inslag av hallon, körsbär, kryddor, lakrits
+231002	130.67	5	5	9	Ruffino	Bärig smak med inslag av hallon, körsbär, kryddor, lakrits
+201001	100.00	7	7	9	Cacadu Ridge	Fruktig smak med inslag av fat, blåbär, viol, svarta vinbär, lakrits och färska örter.
+277301	118.67	7	7	10	Briccotondo	Fruktig smak med inslag av fat, blåbär, örter, hallon, vanilj
+270501	172.00	9	9	10	Brolio	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, rosmarin, kakao, hallon, vanilj
+272701	118.67	7	7	10	Cappello di Prete	Kryddig, något utvecklad smak med inslag av fat, torkade körsbär, kanel, rosmarin, choklad
+1236302	290.67	9	9	9	Amarone Classico	Kryddig, aningen utvecklad smak med inslag av fat, torkade körsbär, choklad, nougat, russin, kanel
+234501	398.67	11	10	10	Masi	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, örter, sandelträ, romrussin, och kakao.
+2267401	92.00	6	6	9	Viña Albali	Kryddig, utvecklad smak med inslag av fat, torkade körsbär, lagerblad, nypon, vanilj
+270801	118.67	7	6	10	Azabache	Kryddig smak med fatkaraktär, inslag av mörka körsbär, örter, skogshallon, peppar, choklad
+2267901	92.00	7	7	9	Señorío de los Llanos	Kryddig, utvecklad smak med fatkaraktär, inslag av torkad frukt, kanel, nötter, choklad
+8319201	1465.33	5	5	10	Chambolle-Musigny	Kryddig smak med fatkaraktär, inslag av körsbär, hallon, choklad, lakritsrot, sandelträ
+261201	206.67	8	8	9	Marqués de Murrieta	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, tobak, choklad, plommon, kanel, dill, vanilj
+682308	66.33	5	4	9	Rosemount	Fruktig smak med inslag av blåbär, björnbär, lakrits, vanilj
+241901	532.00	11	10	10	Serego Alighieri Vaio Armaron	Komplex, kryddig smak med fatkaraktär, inslag av torkade körsbär, katrinplommon, choklad, nötter, fikon
+2600101	158.67	8	6	8	Ravenswood	Mycket fruktig smak med inslag av fat, björnbär, lakrits, hallon, vanilj, svartpeppar
+2262001	185.33	9	8	9	Bonterra	Generöst fruktig smak med fatkaraktär, inslag av mörka körsbär, björnbär, svartpeppar, mynta, vanilj
+252501	158.67	9	9	9	Baron de Ley	Nyanserad, kryddig, utvecklad smak med fatkaraktär, inslag av mörka körsbär, tobak, choklad, kanel, korinter, dill
+694208	86.33	8	7	9	Rawson's Retreat	Mycket fruktig smak med inslag av fat, svarta vinbär, eukalyptus, björnbär, vanilj
+3993601	265.33	7	6	8	Högberga	Fruktig smak med inslag av fat, plommon, björnbär, lakrits, vanilj
+257301	198.67	9	9	9	Marqués de Riscal	Utvecklad, kryddig smak med fatkaraktär, inslag av mörka körsbär, korinter, dill, kanel, tobak och mörk choklad.
+257401	105.33	6	6	9	Periquita	Kryddig smak med inslag av mörka körsbär, björnbär, muskot, och örter.
+685301	105.33	6	6	9	Adobe	Fruktig smak med inslag av fat, svarta vinbär, färska örter, hallon, lakrits
+262001	92.00	4	3	8	La Revedere	Bärig smak med liten sötma, inslag av skogsbär, vanilj, örter
+273401	118.67	8	8	9	Marqués de Cáceres	Kryddig smak med fatkaraktär, inslag av mörka körsbär, plommon, choklad, kanel, vanilj
+699802	162.67	6	5	9	Masi	Bärig smak med inslag av skogshallon, svarta vinbär, lakrits, örter
+601808	93.00	7	6	9	Côtes-du-Rhône	Kryddig smak med inslag av björnbär, viol, peppar, lakrits
+730601	220.00	8	10	10	Langhe	Nyanserad, kryddig smak med inslag av fat, torkade tranbär, kakao, nypon, kryddnejlika, läder
+8125401	225.33	9	9	10	Poggio Teo	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, salvia, tranbär, pinjenötter, choklad, pomerans
+3236402	106.67	7	7	9	Mauro	Mycket fruktig smak med inslag av fat, blåbär, björnbär, vanilj
+221101	292.00	8	8	9	Domaine du Vieux Lazaret	Kryddig, nyanserad smak med inslag av fat, jordgubbar, lagerblad, peppar, hallon
+2266202	122.67	7	7	9	Faustino VII	Kryddig smak med fatkaraktär, inslag av torkade körsbär, tobak, korinter, vanilj
+267801	246.67	8	8	9	Faustino I	Nyanserad, utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, nougat, kanel, peppar, lagerblad, vanilj
+268601	132.00	8	8	9	Torres Gran Sangre de Toro	Kryddig smak med fatkaraktär, inslag av plommon, mörka körsbär, choklad, kaffe, vanilj
+227001	105.33	6	5	9	Le Bistro	Bärig, ungdomlig smak med inslag björnbär, svarta vinbär, lakrits, örter
+745108	86.33	8	6	9	Roodeberg	Fruktig smak med inslag av fat, hallon, björnbär, lakrits
+613908	83.00	8	7	9	Ramos	Fruktig smak med inslag av plommon, kryddor, hallon, lakrits
+500301	118.67	4	4	9	Beaujolais-Villages	Ungdomlig, bärig smak med inslag av blåbär, skogshallon, viol, jordgubbar
+227601	132.00	8	7	9	Madai	Smakrikt, fruktigt vin med inslag av björnbär, viol, mörka körsbär, färska örter, lakrits, peppar, hallon
+208101	185.33	9	9	9	Org de Rac	Nyanserad smak med fatkaraktär, inslag av svarta vinbär, örter, körsbär, ceder, choklad, kryddor, mynta
+271001	172.00	9	8	9	Marqués de Arienzo	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, choklad, plommon, vanilj, kaffe
+271002	184.00	9	8	9	Marqués de Arienzo	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, choklad, plommon, vanilj, kaffe
+651901	86.67	7	7	9	Sunrise	Mycket fruktig, ungdomlig smak med inslag av mörka bär, lakrits och grön paprika.
+653201	74.67	6	6	9	Santa Helena	Fruktig smak med inslag av svarta vinbär, lakrits, björnbär, örter
+512306	170.00	7	7	10	Masi Campofiorin	Kryddig smak med inslag av fat, körsbär, korinter, blåbär, choklad, tranbär
+296204	120.00	7	7	9	Casillero del Diablo	Mycket fruktig smak med inslag av fat, svarta vinbär, blåbär, choklad, örter
+1215701	105.33	8	6	9	Foot of Africa	Mycket fruktig, något rökig smak med inslag av fat,  björnbär, svarta vinbär, vanilj
+1667604	100.00	6	5	9	Sunrise	Mycket fruktig, ungdomlig smak med inslag av fat, svarta vinbär, körsbär, lakrits, gräs
+278601	105.33	6	6	9	Campo Viejo	Kryddig smak med inslag av fat, mörka bär, dill, kanel, vanilj
+631201	145.33	8	6	9	Elvis The King	Mycket fruktig smak med inslag av fat, svarta vinbär, drottningssylt, vanilj, lakrits
+658101	118.67	7	6	9	Cameleon	Mycket fruktig smak med inslag av fat, blåbär, lakrits, björnbär, viol, örter
+658102	130.67	7	6	9	Cameleon	Mycket fruktig smak med inslag av fat, blåbär, lakrits, björnbär, viol, örter
+202601	332.00	9	9	9	Meerlust	Balanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, tobak, kakao, torkade körsbär, rosmarin
+1601501	172.00	5	5	10	Saint Clair	Kryddig smak med rostad fatkaraktär, inslag av skogshallon, körsbär, ingefära, pomerans, vanilj
+659701	145.33	7	6	9	Gnarly Head	Generöst fruktig smak med inslag av fat, blåbärsylt, plommon, kryddpeppar, mynta, vanilj
+645101	69.00	6	5	9	AUSSIE Kangarouge	Ungdomlig, fruktig smak med inslag av björnbär, sötlakrits
+281106	343.33	9	9	9	Château Mont-Redon	Kryddig, balanserad smak med inslag av fat, björnbär, vitpeppar, lagerblad, körsbär, lavendel, eneträ
+281102	370.67	9	9	9	Château Mont-Redon	Kryddig, balanserad smak med inslag av fat, björnbär, vitpeppar, lagerblad, skogshallon, lavendel, eneträ
+206602	125.33	7	7	9	Jacob's Creek	Fruktig smak med inslag av fat, mörka körsbär, björnbär, lakrits, örter, peppar
+532801	158.67	7	6	10	Monti Garbi	Kryddig, något utvecklad smak med inslag av fat, torkade körsbär, kryddnejlika, hallon, vanilj, kanel
+532902	266.67	8	-1	9	Delitia	Kryddig, söt smak med inslag av fat, blåbär, plommon, salvia, choklad, vanilj
+1230008	76.33	7	6	9	Barone Ricasoli	Kryddig smak med inslag av fat, körsbär, färska örter, blåbär, vanilj
+7344501	798.67	9	9	9	Château La Grave à Pomerol	Komplex, utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, plommon, mörk choklad, tobak, ceder
+395806	132.67	8	8	9	Château de Seguin	Fruktig smak med fatkaraktär, inslag av svarta vinbär, örter, choklad, plommon, ceder
+238601	105.33	5	4	9	Masi	Ungdomlig, bärig smak med inslag av körsbär, björnbär, örter
+512302	178.67	7	7	10	Masi Campofiorin	Kryddig smak med inslag av fat, körsbär, korinter, blåbär, choklad, tranbär
+221102	304.00	8	8	9	Domaine du Vieux Lazaret	Kryddig, nyanserad smak med inslag av fat, jordgubbar, lagerblad, peppar, lagerblad, hallon
+1279708	53.00	4	4	9	Castillo de Gredos	Bärig smak med inslag av körsbär, blåbär, kryddor
+270502	210.67	9	9	10	Brolio	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, rosmarin, kakao, hallon, vanilj
+223301	145.33	9	9	10	Château Pech-Latt	Fruktig smak med inslag av fat, blåbär, örter, björnbär, svarta oliver, vanilj
+296201	105.33	7	7	9	Casillero del Diablo	Mycket fruktig smak med inslag av fat, svarta vinbär, blåbär, choklad, örter
+296202	106.67	7	7	9	Casillero del Diablo	Mycket fruktig smak med inslag av fat, svarta vinbär, blåbär, choklad, örter
+247301	105.33	9	9	9	Foot of Africa	Mycket fruktig smak med fatkaraktär,  inslag av svarta vinbär, mynta, plommon, choklad, blåbär, peppar
+297101	118.67	9	8	9	Sister's Run Old Testament	Mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, plommon, örter, choklad, fikon, peppar, vanilj
+220701	158.67	10	10	10	Trivento Golden Reserve	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, viol, plommon, choklad, björnbär och svarta oliver.
+266801	145.33	6	5	9	Mantra	Nyanserad, kryddig smak med inslag av fat, körsbär, skogshallon, nougat, kanel, sandelträ, örter
+8253101	113.33	6	5	10	Bouchard Aîné	Kryddig smak med fatkaraktär, inslag av körsbär, hallon, färska örter, sandelträ
+237501	225.33	9	9	10	Casaloste	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, tobak, kakao, salvia, korinter, pinjenötter
+299301	118.67	8	8	10	Sant 'Ilarione	Kryddig, nyanserad smak med fatkaraktär, inslag av korinter, tobak, körsbär, choklad, kanel, apelsinskal
+266501	132.00	8	8	9	Roccamozzi	Fruktig, nyanserad smak med inslag av fat, körsbär, örter, choklad, skogshallon, lakrits
+273208	79.67	9	9	9	Montes	Smakrikt, fruktigt vin med fatkaraktär, inslag av svarta vinbär, plommon, kryddpeppar, färska örter, kaffe, choklad
+458608	83.00	7	7	10	Rocca di Montemassi	Fruktig smak med inslag av fat, körsbär, lakrits, pomerans, jordgubbar
+232201	92.00	6	5	9	il Conte	Mycket fruktig smak med inslag av fat, körsbär, lavendel, blåbär, sötlakrits
+235501	132.00	6	6	10	Valle Reale	Kryddig, fruktig smak med inslag av fat, mörka körsbär, salvia, korinter, choklad ocj vanilj.
+230402	424.00	8	-1	9	Domìni Veneti	Mycket söt, fruktig smak med inslag av fat, mörka körsbär, fikon, choklad, blåbär, russin, vanilj
+572601	665.33	6	6	10	Corton Grand Cru Monopole	Komplex, kryddig smak med inslag av fat, jordgubbar, kanel, sandelträ, nougat, lingon, örter, pomerans
+205008	66.33	8	8	9	Castaño	Fruktig, kryddig smak med inslag av björnbär, svarta vinbär, kryddnejlika, kanel
+296901	185.33	8	8	9	Nipozzano Chianti Rúfina	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, tobak, kaffe, nougat, pomerans
+225701	118.67	8	8	9	Les Fleurs Sauvages	Fruktig smak med fatkaraktär, inslag av plommon, vanilj, björnbär, svartpeppar, kakao
+546001	198.67	5	5	10	Bourgogne Hautes Côtes de Nuits	Kryddig, nyanserad smak med inslag av fat, körsbär, skogshallon, muskot, örter
+392501	518.67	9	9	9	Château Belgrave	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, ceder, mörk choklad, lakrits.
+205607	112.67	8	7	9	Bellingham	Mycket fruktig smak med fatkaraktär, inslag av björnbär, plommon, peppar, vanilj, choklad
+3236401	100.00	7	7	9	Mauro	Mycket fruktig smak med inslag av fat, blåbär, björnbär, vanilj
+3236701	105.33	8	6	9	Canaletto	Mycket fruktig smak med fatkaraktär, inslag av björnbär, mynta, choklad, kryddnejlika
+7238701	145.33	9	7	9	Lynx	Fruktigt, smakrikt vin med fatkaraktär, inslag av björnbär, vanilj, blåbär, viol, kaffe, lakrits
+2233508	63.00	6	6	9	Candidato Ecologico	Fruktig smak med inslag av blåbär, färska örter, körsbär
+220401	198.67	10	11	11	Château Bouscassé	Smakrikt vin med fatkaraktär, inslag av svarta vinbär, lagerblad, plommon, viol, peppar, svart te, lakrits
+272301	206.67	8	8	9	Rocca Guicciarda	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, skogshallon, nougat, choklad
+272302	224.00	8	8	9	Rocca Guicciarda	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, skogshallon, nougat, choklad
+1203808	69.67	5	5	9	Drostdy-Hof	Bärig smak med inslag av skogsbär, färska örter, lakrits
+637401	102.67	6	5	9	Lindemans Bin 50	Mycket fruktig, ungdomlig smak med inslag av björnbär, peppar, hallon och färska örter.
+1235501	105.33	8	6	9	Inycon	Mycket fruktig smak med inslag av björnbär, lakrits, örter
+694202	130.67	8	7	9	Rawson's Retreat	Mycket fruktig smak med inslag av fat, svarta vinbär, eukalyptus, björnbär, vanilj
+232202	106.67	6	5	9	il Conte	Mycket fruktig smak med inslag av fat, körsbär, lavendel, blåbär, sötlakrits
+1651008	64.00	6	6	9	Viña Maipo	Ungdomlig, fruktig smak med inslag av svarta vinbär, hallon, lakrits, örter
+668501	78.67	6	6	9	Viña Maipo	Fruktig smak med inslag av fat, svarta vinbär, färska örter, hallon, vanilj
+308302	237.33	9	9	9	Château la Tour de By	Nyanserat, stramt vin med rostad fatkaraktär, inslag av svarta vinbär, kakao, tobak, blåbär, ceder
+355001	185.33	9	9	9	Château Labadie	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, kakao, tobak, kaffe
+625302	157.33	9	9	9	Penfolds Koonunga Hill	Mycket fruktig smak med fatkaraktär, inslag av björnbär, svarta vinbär, plommon, kaffe, mynta, vanilj och mörk choklad.
+3215201	932.00	10	10	10	Tignanello	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, tobak, kaffe, katrinplommon, ceder, kakao
+2232801	185.33	9	9	10	Chianti Classico Riserva	Kryddig smak med fatkaraktär, inslag av körsbär, salvia, kakao, pomerans, pinjenötter
+498001	158.67	5	5	9	Camino de Navaherreros	Bärig, nyanserad smak med inslag av hallon, färska örter, kryddor, körsbär, viol
+373801	305.33	10	11	10	Dorivm	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av plommon, kaffe, svarta vinbär, tobak, örter, kakao, vanilj
+7447501	132.00	8	8	8	Maxale	Kryddig, något fruktig smak med inslag av fat, mörka körsbär, russin, sötlakrits, choklad, vanilj
+3245208	83.00	9	8	9	Raccolto	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, örter, kaffe, vanilj
+4230201	345.33	9	10	10	Brunello di Montalcino	Nyanserad, något utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, nypon, kanel, ceder, kakao, nötter
+7904701	158.67	5	4	9	Louis Jadot	Bärig smak med inslag av fat, skogshallon, blåbär, örter, lakrits, björnbär
+3172102	340.00	6	6	10	Torsebro Röda	Fruktig smak med inslag av björnbär, skogsbär, viol, kryddor, örter
+650601	286.67	10	9	9	Kevin Arnold	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av  björnbär, plommon, kaffe, mörk choklad och ceder..
+278801	105.33	7	8	9	Viña Albali	Utvecklad, kryddig smak med fatkaraktär, inslag av mörka bär, lakrits, tobak, kakao, vanilj
+226201	252.00	9	10	10	La Bastide Blanche	Nyanserad smak med fatkaraktär, inslag av björnbär, mörka körsbär, peppar, kakao, rosmarin, blåbär, lagerblad
+1234302	290.67	10	9	9	A	Kryddigt, smakrikt vin med fatkaraktär, inslag av russin, katrinplommon, choklad, pinjenötter, pomerans, vanilj
+1234301	265.33	10	9	9	A	Kryddigt, smakrikt vin med fatkaraktär, inslag av russin, katrinplommon, choklad, pinjenötter, pomerans, vanilj
+2230001	158.67	7	9	10	Fontanafredda Ebbio	Kryddig smak med fatkaraktär, inslag av körsbär, kanel, hallon, ceder, salvia, vanilj, lakrits
+273701	278.67	10	10	10	Finca el Puig	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av plommon, björnbär, kokos, ceder och mörk choklad.
+3245202	133.33	9	8	9	Raccolto	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, örter, kaffe, vanilj
+1235702	424.00	9	9	10	Brunello di Montalcino	Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, ceder, torkade tranbär, kakao, nypon, kanel, salvia
+279601	69.00	4	4	8	Husets Röda	Bärig smak med liten sötma, inslag av skogsbär, gräs
+280002	210.67	9	9	9	Delas Les Launes	Nyanserad, kryddig smak med inslag av fat, björnbär, blåbär, lavendel, svartpeppar, hallon, charkuterier, lagerblad
+357001	185.33	8	8	9	Château de Seguin	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, plommon, kaffe, choklad, örter
+464708	63.00	7	7	9	Taverna d'El Rei	Fruktig smak med inslag av blåbär, viol, lakrits, kryddor, körsbär
+279201	105.33	9	8	9	Altos d'Oliva	Utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, plommon, nougat, svarta vinbär, kryddnejlika, kaffe
+232901	198.67	9	9	9	Vacqueyras	Nyanserad, kryddig smak med inslag av fat, björnbär, viol, plommon, lagerblad, lakrits, svartpeppar, hallon
+244301	398.67	9	11	11	Borgogno Barolo	Komplex, kryddig, något utvecklad smak med inslag av fat, torkade körsbär, oregano, kanel, tobak, bergamott, rosor
+235401	133.33	9	9	10	Tsantali Naoussa	Kryddig, nyanserad smak med fatkaraktär, inslag av korinter, lagerblad, choklad, kanel, körsbär, peppar och tobak..
+274401	132.00	10	10	10	Carodorum	Smakrikt, fruktigt vin med fatkaraktär, inslag av plommon, svartpeppar, mörka körsbär, mörk choklad, färska örter, ceder, kaffe
+2235002	413.33	10	9	9	Tommasi	Kryddig, nyanserad smak med liten sötma, inslag av fat, torkade körsbär, romrussin, nötter, vanilj, choklad
+3241201	113.33	7	6	9	Allegro	Mycket fruktig smak med inslag av fat, mörka körsbär, färska örter, skogsbär, vanilj
+655601	105.33	9	8	9	Trio	Generöst fruktig smak med fatkaraktär, inslag av svarta vinbär, blåbär, peppar, plommon, örter, lakrits
+510601	145.33	5	5	9	Morgon	Bärig, ungdomlig smak med inslag av skogshallon, slånbär, lakrits, viol
+512301	166.67	7	7	10	Masi Campofiorin	Kryddig smak med inslag av fat, körsbär, korinter, blåbär, choklad, tranbär
+669001	198.67	10	8	9	7 Deadly Zins	Generöst fruktig smak med rostad fatkaraktär, inslag av drottningsylt, choklad, kryddnejlika, vanilj
+669401	198.67	6	5	9	Irony	Kryddig, nyanserad smak med fatkaraktär, inslag av jordgubbar, pomerans, muskot, kanel
+256001	132.00	8	8	10	Periquita	Kryddig, mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, plommon, kakao, mynta, kaffe, vanilj
+239301	172.00	5	5	10	Musella	Bärig, något kryddig smak med inslag av fat, körsbär, salvia, lingon, kanel
+218002	130.67	6	6	9	Troppo	Kryddig smak med inslag av fat, körsbär, plommon, kryddnejlika, lakrits
+3241701	118.67	8	8	9	Villa Puccini	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, kaffe, vanilj, örter
+2232001	158.67	8	8	10	Bolla Le Poiane	Kryddig, nyanserad smak med inslag av fat, mörka körsbär, örter, pomerans, kanel, choklad
+540801	105.33	3	3	9	Beaujolais Royal	Bärig smak med inslag av skogsbär och färska örter.
+540802	122.67	3	3	9	Beaujolais Royal	Bärig smak med inslag av skogsbär och färska örter.
+542101	158.67	4	4	10	La Vignée	Bärig smak med inslag av hallon, lingon och färska örter.
+547501	158.67	4	4	9	Bourgogne Rouge	Bärig smak med inslag av skogshallon, jordgubbar, lingon, örter
+547502	184.00	4	4	9	Bourgogne Rouge	Bärig smak med inslag av skogshallon, jordgubbar, lingon, örter
+253401	158.67	10	9	9	8 Keys	Nyanserad, fruktig smak med tydlig fatkaraktär, inslag av mörka körsbär, peppar, björnbär, choklad, plommon, kaffe, lagerblad, vanilj
+7083801	158.67	9	8	9	Buena Vista	Mycket fruktig smak med fatkaraktär, inslag av björnbär, blåbär, vanilj, choklad, plommon, kokos
+274001	253.33	10	9	10	Amarone della Valpolicella	Kryddig, utvecklad smak med fatkaraktär, inslag av russin, plommon, kakao, pinjenötter, vanilj
+3236408	73.00	7	7	9	Mauro	Mycket fruktig smak med inslag av fat, blåbär, björnbär, vanilj
+601801	105.33	7	6	9	Côtes-du-Rhône	Kryddig smak med inslag av björnbär, viol, peppar, lakrits
+426101	93.33	8	8	10	Castelo	Kryddig smak med inslag av fat, mörka körsbär, örter, blåbär, peppar, kanel, lakrits
+450001	153.33	10	10	10	Saint Auriol Chatelaine	Smakrikt, fruktigt, kryddigt vin med fatkaraktär, inslag av björnbär, vitpeppar, örter, plommon, choklad, kaffe
+450002	173.33	10	10	10	Saint Auriol Chatelaine	Smakrikt, fruktigt, kryddigt vin med fatkaraktär, inslag av björnbär, vitpeppar, örter, plommon, choklad, kaffe
+3215301	92.00	5	5	9	Claude Val Rouge	Ungdomlig, bärig smak med inslag av skogsbär, lakrits, peppar, örter
+236901	105.33	8	7	9	Cafê Culture	Smakrikt vin med påtaglig karaktär av rostade ekfat, inslag av kaffekaramell, mjölkchoklad, mörka bär, vanilj
+207208	63.00	8	7	9	Umbala	Mycket fruktig smak med inslag av fat, svarta vinbär, lakrits, skogshallon, rosmarin, peppar
+7448001	572.00	7	6	9	Marimar Estate	Kryddig, fruktig smak med fatkaraktär, inslag av mogna jordgubbar, körsbär, kanel, pomerans, sandelträ, kaffe
+4233401	252.00	8	8	9	La Grola	Nyanserad, kryddig smak med fatkaraktär, inslag av svarta vinbär, mörka körsbär, basilika, choklad
+7464601	305.33	10	10	10	Beringer	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, kaffe, mörka körsbär, choklad, mynta, vanilj
+650401	118.67	9	8	9	Raza	Generöst fruktig smak med fatkaraktär, inslag av plommon, björnbär, mjölkchoklad, blåbär, kryddor, vanilj
+381401	238.67	9	10	10	Les Hauts de Granget	Fruktig, stram smak med karaktär av rostade ekfat, inslag av svarta vinbär, korinter, tobak, kaffe, kakao
+1200201	180.00	9	8	9	Allesverloren	Kryddig smak med fatkaraktär, inslag av björnbär, plommon, kanel, mörka körsbär, choklad, kaffe
+234506	399.33	10	10	10	Masi	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, örter, sandelträ, romrussin, och kakao.
+1267901	145.33	8	8	9	Lat 42	Mogen, kryddig smak med fatkaraktär, inslag av torkade körsbär, plommon, dill, choklad, tobak, vanilj
+278408	66.22	6	5	9	Zafrica	Bärig smak med liten sötma, inslag av fat, blåbär, lakrits, körsbär, rosmarin
+271801	78.67	5	4	9	Campos de Luz	Bärig smak med inslag av björnbär, blåbär, kryddor, jordgubbar
+3220501	92.00	6	6	9	il Nostro	Mycket fruktig smak med inslag av björnbär, kryddor, hallon, lakrits
+1232401	265.33	9	8	9	Zenato	Kryddig smak med fatkaraktär, inslag av mörka bär, plommon, kryddnejlika, choklad, peppar
+7552701	145.33	7	7	9	Scaia	Kryddig, utvecklad smak med inslag av fat, torkade körsbär, kryddnejlika, mogna jordgubbar, pinjenötter
+7520701	398.67	9	8	9	Les Sinards	Nyanserad, kryddig smak med inslag av fat, hallon, lagerblad, körsbär, peppar, lakritsrot
+280001	212.00	9	9	9	Delas Les Launes	Nyanserad, kryddig smak med inslag av fat, björnbär, blåbär, lavendel, svartpeppar, hallon, charkuterier, lagerblad
+659101	172.00	9	9	9	Tapiz	Generöst fruktig smak med rostad fatkaraktär, inslag av björnbär, plommon, lakrits, choklad
+662007	106.00	7	7	9	Santa Inés	Mycket fruktig smak med inslag av fat, svarta vinbär, lakrits, kakao, örter
+206202	120.00	7	6	9	Robertson	Fruktig, aningen rökig smak med inslag av fat, mörka bär, rosmarin, peppar, vanilj
+601001	158.67	9	8	9	Allegrini	Nyanserad, kryddig smak med inslag av fat, mörka bär, lakrits, choklad, vanilj
+533301	65.00	5	5	9	Cape Heights	Bärig smak med inslag av svarta vinbär, blåbär, lakrits
+687308	69.67	5	4	9	Chill Out	Bärig smak med inslag av svarta vinbär, björnbär, viol, sötlakrits
+1212601	126.67	6	6	9	Beronia	Kryddig smak med fatkaraktär, inslag av mörka körsbär, blåbär, nougat, kryddnejlika
+256501	92.00	7	7	9	Cigarra	Kryddig smak med inslag av fat, torkade körsbär, kanel, choklad, lagerblad
+2655401	100.00	7	6	8	Ecologica El Condor	Fruktig smak med inslag av fat, svarta vinbär, björnbär, peppar, choklad
+626701	332.00	10	9	9	Xavier	Nyanserad, kryddig, fruktig smak med fatkaraktär, inslag av viol, jordgubbar, körsbär, vitpeppar och mörk choklad.
+282502	152.00	9	8	9	Les Remparts des Ceps Dorés	Fruktig, kryddig smak  med inslag av fat, mörka bär, peppar, lagerblad, blåbär, lakrits
+1651002	98.67	6	6	9	Viña Maipo	Ungdomlig, fruktig smak med inslag av svarta vinbär, hallon, lakrits, örter
+2265304	100.00	5	4	8	Åkesson	Bärig smak med inslag av muskot, körsbär
+7575106	299.33	10	9	9	Le Volte	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, örter, mörka körsbär, kakao, kaffe, ceder
+1646008	79.67	6	6	9	Lindemans	Mycket fruktig smak med inslag av svarta vinbär, sötlakrits, hallon
+219401	160.00	10	8	9	Fox Creek	Generöst fruktig smak med fatkaraktär, inslag av björnbär, svartvinbärssylt, mintchoklad, vanilj, kaffe
+2228301	132.00	7	5	8	Cline	Generöst fruktig smak med inslag av skogsbär, mogna jordgubbar, mynta, vanilj
+679201	153.33	8	7	9	Campolieti	Kryddig smak med fatkaraktär, inslag av mörka körsbär, russin, choklad, kaffe, kanel, vanilj
+1639401	158.67	5	5	10	Stoneleigh	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av jordgubbar, ingefära, körsbär, örter, nougat
+652001	145.33	10	8	9	McManis	Generöst fruktig smak med tydlig fatkaraktär, inslag av blåbär, vanilj, björnbär, choklad, kaffe, mynta
+203402	130.67	8	8	9	Kleine Zalze	Mycket fruktigt, något rökig smak med fatkaraktär, inslag av björnbär, hallon, tobak, viol, lakrits
+651801	118.67	8	8	9	Cameleon	Fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, choklad, lagerblad, vanilj
+3245201	129.33	9	8	9	Raccolto	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, örter, kaffe, vanilj
+221401	153.33	8	7	9	Lirac	Kryddig smak med inslag av hallon, lavendel, blåbär, rosépeppar, lagerblad, örter
+2229708	59.67	7	7	9	Appasanto	Fruktig smak med inslag av fat, körsbär, lakrits, viol, vanilj
+667001	132.00	8	8	9	Alamos	Kryddig smak med fatkaraktär, inslag av mörka körsbär, kanel, jordgubbar, kryddpeppar, vanilj
+533701	225.33	9	10	10	Barbaresco	Kryddig, nyanserad smak med inslag av fat, torkade körsbär, tobak, nypon, svarta oliver, kakao, kanel
+7368401	145.33	8	7	9	Il Segreto	Fruktig smak med fatkaraktär, inslag av mörka körsbär, mintchoklad, kaffe, kanel
+7487101	118.67	5	4	10	Vivaldi	Bärig smak med inslag av blåbär, muskot, hallon, örter
+399201	252.00	6	6	9	Erath	Kryddig, nyanserad smak med fatkaraktär, inslag av jordgubbar, körsbär, nougat, pomerans, örter, kaffe
+450101	132.00	10	9	9	Plan B!	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rökta charkuterier, björnbär, viol, ceder, peppar
+217001	132.00	9	8	9	Navarro Correas	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av plommon, mörk choklad, viol, blåbär, örter, vanilj
+217002	157.33	9	8	9	Navarro Correas	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av plommon, mörk choklad, viol, blåbär, örter, vanilj
+210301	198.67	5	4	10	1865 Pinot Noir	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, nougat, lingon, sandelträ, blodapelsin, peppar
+538001	158.67	6	5	9	Küdaw Nativo	Nyanserad, bärig smak med inslag av blåbär, körsbär, färska örter, svartpeppar, skogshallon, lakrits
+537001	197.33	10	10	10	Pampa Mía	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, mynta, fikon, viol, peppar, kakao, lakrits
+7584001	145.33	9	9	10	Biferno Rosso Riserva	Kryddig smak med fatkaraktär, inslag av körsbär, mörk choklad, svartpeppar, örter
+7337901	132.00	9	7	9	Le Passole	Fruktig smak med fatkaraktär, inslag av katrinplommon, choklad, fikon, kaffe, körsbär, vanilj
+2229901	100.00	6	6	9	Domaine Lalande Réserve	Fruktig smak med inslag av svarta vinbär, plommon, örter
+2900202	184.00	7	7	9	Allesverloren	Fruktig smak med fatkaraktär, inslag av björnbär, lagerblad, sötlakrits, peppar, kaffe
+2246701	113.33	5	5	9	Piccini	Bärig smak med inslag av körsbär, lingon, kryddor
+3222401	197.33	9	8	9	Zenato	Fruktig smak med fatkaraktär, inslag av plommon, mörka körsbär, choklad, kryddor, salvia
+7916701	92.00	7	7	10	Tommolo Organic	Kryddig smak med inslag av körsbär, kanel, korinter och torkade örter.
+1638101	180.00	10	9	9	Peter Lehmann Portrait Barossa	Mycket fruktig smak med fatkaraktär, inslag av björnbär, svarta vinbär, lakrits, svartpeppar, hallon, lagerblad, vanilj
+7249708	96.33	8	5	9	Casa Marrone	Generöst fruktig smak med fatkaraktär, inslag av plommon, körsbär, choklad, smörkola
+7950701	132.00	7	7	8	Borgi	Fruktig smak med liten sötma, inslag av fat, drottningsylt, mintchoklad, vanilj
+7527301	132.00	5	4	10	La Bella Barbera	Bärig smak med inslag av mörka körsbär, blåbär, örter, skogshallon
+212401	132.00	10	9	9	Prohibition	Generöst fruktig smak med inslag av fat, svarta vinbär, lakrits, kakao, nötter, plommon, örter
+222301	252.00	10	9	9	Brutocao	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, hallon, ceder, mörka körsbär, kaffe, kakao, örter
+284301	252.00	10	9	9	Château Charmail	Nyanserad smak med rostad fatkaraktär, inslag av plommon, tobak, fikon, svarta vinbär, kaffe
+209001	505.33	10	9	9	Côte-Rôtie Les Jumelles	Komplex, kryddig smak med fatkaraktär, inslag av katrinplommon, lagerblad, lakrits, kryddpeppar, björnbär, charkuterier, hallon
+210701	132.00	9	10	10	Irpinia Aglianico	Smakrikt vin med inslag av fat, mörka körsbär, kryddnejlika, katrinplommon, svarta oliver, lakrits, tjära
+202501	132.00	7	8	9	Colline Novaresi Nebbiolo	Nyanserad, kryddig smak med inslag av fat, nypon, rosor, torkade körsbär, multna löv, nötter, pomerans
+202701	118.67	8	9	9	Nederburg	Fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, kaffe, plommon, ceder, lakrits
+201301	158.67	10	9	9	Fairview	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, peppar, plommon, ceder, mörka körsbär, kaffe
+211808	79.67	9	7	9	Pieter Carstens	Mycket fruktig smak med inslag av fat, svarta vinbär, björnbär, mjölkchoklad, lakrits, örter
+7081201	158.67	8	10	10	Langhe Nebbiolo	Kryddig, nyanserad smak med inslag av fat, körsbär, kryddnejlika, hallon, kanel, lingon, nötter, pomerans
+7543201	133.33	6	5	9	Zonnebloem	Bärig smak med inslag av skogshallon, färska örter, lakrits, jordgubbar
+202901	198.67	9	9	9	Morellino di Scansano Riserva	Nyanserad, utvecklad smak med rostad fatkaraktär, inslag av korinter, tobak, choklad, kaffe, kanel, nougat
+7365101	145.33	8	7	9	Esprit Barville	Kryddig smak med inslag av björnbär, muskot, torkade körsbär, vitpeppar, lagerblad
+200108	69.67	8	7	9	Foot of Africa	Mycket fruktig smak med inslag av fat, björnbär, peppar, plommon, örter, lakrits
+3222801	105.33	8	6	9	Selvarossa	Kryddig smak med liten sötma, inslag av fat, körsbär, korinter, vanilj, kryddpeppar
+3243101	126.67	7	6	10	Boira'	Fruktig smak med inslag av fat, körsbär, kanel, örter, vanilj
+2240901	158.67	9	8	9	i Castei	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, kanel, nougat, pomerans, salvia
+3247201	225.33	10	9	9	Le Volte	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, örter, mörka körsbär, kakao, kaffe, ceder
+2256201	278.67	10	8	9	Seghesio	Mycket fruktig smak med tydlig fatkaraktär, inslag av björnbär, blåbär, plommon, mynta, choklad, peppar, vanilj
+3222901	185.33	9	10	10	Fonterutoli	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, tobak, plommon, kaffe, örter, kakao
+7748801	158.67	8	10	10	Langhe Nebbiolo	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, kanel, hallon, bergamott, nötter
+652301	400.00	11	9	9	Pascual Toso	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, vanilj, plommon, lakrits, svarta vinbär, kaffe
+637601	105.33	6	5	9	Lindemans Bin 40	Mycket fruktig smak med inslag av mörka bär, örter, sötlakrits
+622608	89.67	8	7	9	Lindemans Bin 45	Mycket fruktig smak med inslag av fat, svarta vinbär, mynta, plommon, choklad
+651701	69.00	5	5	8	Fair & Square	Bärig smak med inslag av fat, skogsbär, lakrits
+683101	92.00	8	6	9	Lindeman's	Mycket fruktig smak med inslag av fat, björnbär, vanilj, örter, sötlakrits, blåbär
+625101	198.67	10	9	9	Fox Creek	Mycket fruktigt, smakrikt vin med rostad fatkaraktär, inslag av björnbär, mörk choklad, plommon, kaffe, peppar, kokos
+549601	193.33	6	5	10	Château de Melin	Kryddig, nyanserad smak med fatkaraktär, inslag av kanel, körsbär, jordgubbar, nougat, pomerans
+7550101	182.67	7	7	10	Brancaia	Nyanserad, kryddig smak med fatkaraktär, inslag av skogshallon, basilika, körsbär, choklad och vanilj. Serveras 16-18°C till rätter av lamm- eller nötkött.
+281401	118.67	9	8	10	Ops	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, peppar, örter, skogshallon, lakrits
+8728201	366.67	6	5	9	Calera	Kryddig, bärig smak med fatkaraktär, inslag av mogna jordgubbar, körsbär, örter, peppar, vanilj
+200901	92.00	8	6	9	Palazzo	Mycket fruktig smak med inslag av fat, mörka körsbär, hallon, choklad, vanilj
+1280802	112.00	4	4	9	JP Chenet	Bärig smak med inslag av skogshallon, svarta vinbär, lakrits, örter
+629708	66.33	5	5	9	Gosa	Bärig smak med inslag av fat, blåbär, örter, körsbär, lakrits
+215601	133.33	8	8	9	Senda de las Rochas	Nyanserad, fruktig smak med inslag av plommon, skogsbär, peppar, lakrits, körsbär, viol
+206301	158.67	9	9	9	Jade	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, lagerblad, viol, skogshallon, peppar, choklad
+218301	198.67	5	5	10	Rings	Kryddig, nyanserad smak med inslag av fat, skogshallon, mörka körsbär, choklad, mynta, lingon, kardemumma
+277001	206.67	10	9	10	GR-174	Nyanserad, fruktig smak med fatkaraktär, inslag av björnbär, mörka körsbär, lavendel, hallon, choklad, peppar
+204101	158.67	9	9	9	Saperavi	Nyanserad smak med fatkaraktär, inslag av katrinplommon, körsbär, tobak, kakao, kryddnejlika, kaffe
+3241706	106.00	8	8	9	Villa Puccini	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, kaffe, vanilj, örter
+3241702	130.67	8	8	10	Villa Puccini	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, plommon, kaffe, vanilj, örter
+204301	132.00	9	8	9	Rabisco Reserva	Mycket fruktig smak med rostad fatkaraktär, inslag av plommon, choklad, viol, svarta vinbär, blåbär, vanilj
+3185301	238.67	7	7	9	Winery Red	Fruktig smak med inslag av svarta vinbär, körsbär, skogshallon, kryddor
+630201	105.33	9	6	9	Gurra Gurra Creek	Mycket fruktig smak med inslag av fat, björnbär, blåbär, eukalyptus, sötlakrits, vanilj
+7209401	225.33	10	8	9	Petite Petit	Generöst fruktig smak med rostad fatkaraktär, inslag av blåbär, svarta vinbär, choklad, björnbär, mynta, kaffe
+256008	86.33	8	8	10	Periquita	Kryddig, mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, plommon, kakao, mynta, kaffe, vanilj
+7253101	145.33	9	9	9	Biferno Rosso Riserva	Kryddig smak med fatkaraktär, inslag av körsbär, plommon, örter, kaffe, choklad
+682301	92.00	5	4	9	Rosemount	Fruktig smak med inslag av blåbär, björnbär, lakrits, vanilj
+7977901	75.00	6	6	9	Prego	Fruktig smak med inslag av fat, körsbär, oregano, jordgubbar, mjölkchoklad
+2281701	225.33	8	8	9	Villa Cafaggio	Kryddig smak med fatkaraktär, inslag av torkade körsbär, nötter, choklad, kanel, korinter
+271006	139.33	9	8	9	Marqués de Arienzo	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, choklad, plommon, vanilj, kaffe
+608301	132.00	7	7	9	Campo Viejo	Kryddig smak med fatkaraktär, inslag av mörka körsbär, plommon, tobak, muskot, vanilj
+699601	105.33	7	6	9	Torres Coronas	Kryddig smak med inslag av fat, körsbär, björnbär, örter, vanilj
+699604	132.00	7	6	9	Torres Coronas	Kryddig smak med inslag av fat, körsbär, björnbär, örter, vanilj
+544701	238.67	5	5	10	Olivier Leflaive	Bärig smak med inslag av fat, skogshallon, lingon, örter, kryddor
+2298101	78.67	6	5	10	Monterosso	Mycket fruktig smak med inslag av fat, skogshallon, blåbär, lakrits, örter
+651208	76.33	7	6	9	Ecologica	Mycket fruktig smak med inslag av fat, björnbär, svarta vinbär, vanilj, lakrits
+528301	198.67	5	5	10	Couvent des Jacobins	Kryddig smak med inslag av lingon, körsbär, muskot, kanel
+640001	92.00	7	6	9	Down Under	Mycket fruktig smak med inslag av fat, björnbär, vanilj, lakrits
+641901	92.00	7	5	9	Jacob's Creek	Fruktig smak med inslag av blåbär, skoshallon, peppar, vanilj
+209908	57.67	7	7	9	Robertson	Fruktig smak med inslag av mörka bär, vanilj, mynta, choklad
+2299601	132.00	8	8	9	Porcupine Ridge	Mycket fruktig smak med fatkaraktär, inslag av björnbär, peppar, rosmarin, skogshallon, lakrits
+2900201	145.33	7	7	9	Allesverloren	Fruktig smak med fatkaraktär, inslag av björnbär, lagerblad, sötlakrits, peppar, kaffe
+2800201	366.67	11	9	10	Amarone	Kryddig, nyanserad smak med inslag av fat, russin, torkade körsbär, chokladpraliner, arrak, svartpeppar, kanel
+611001	265.33	8	7	9	Marqués de Arienzo	Mogen, kryddig smak med fatkaraktär, inslag av torkade körsbär, dill, tobak, russin, choklad, vanilj
+320401	118.67	7	7	9	Doppio Passo	Mycket fruktig smak med liten sötma, inslag av mogna jordgubbar, russin, lakrits, vanilj
+2305001	278.67	10	9	9	Domìni Veneti	Kryddigt smak med inslag av fat, torkade körsbär, russin, apelsinchoklad, vanilj, kanel, peppar
+622601	105.33	8	7	9	Lindemans Bin 45	Mycket fruktig smak med inslag av fat, svarta vinbär, mynta, plommon, choklad
+3213001	398.67	9	9	9	Castello Fonterutoli	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av körsbär, hallon, lakrits, kaffe, rosmarin
+655101	172.00	10	9	9	Quara	Mycket fruktigt, smakrikt vin med fatkaraktär, inslag av mörka bär, katrinplommon, choklad, björnbär, peppar, kaffe
+212901	158.67	11	9	9	Lionheart of the Barossa	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, plommon, svartpeppar, lakrits, kaffe, vanilj
+212906	152.67	10	8	9	Lionheart of the Barossa	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, plommon, svartpeppar, lakrits, kaffe, vanilj
+212902	157.33	11	9	9	Lionheart of the Barossa	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, plommon, svartpeppar, lakrits, kaffe, vanilj
+302301	140.00	7	7	9	Cantina Zaccagnini	Kryddig smak med fatkaraktär, inslag av körsbär, blåbär, kryddnejlika, vanilj
+214508	79.67	8	6	8	SomeZin	Generöst fruktig smak med liten sötma, inslag av fat, björnbär, drottningsylt, choklad, vanilj
+651201	105.33	7	6	9	Ecologica	Mycket fruktig smak med inslag av fat, björnbär, svarta vinbär, vanilj, lakrits
+216701	126.67	8	7	10	Terre de Mistral	Kryddig smak med inslag av björnbär, hallon, kryddpeppar, viol, blåbär
+330001	132.00	8	7	9	Passitivo	Mycket fruktig smak med inslag av fat, mörka körsbär, kaffe, vanilj, russin
+283601	212.00	9	9	9	Domaine du Pesquier	Kryddig, nyanserad smak med inslag av fat, skogshallon, lagerblad, vitpeppar, björnbär, lakrits, kryddpeppar
+276901	118.67	7	7	9	Millefiori	Fruktig smak med inslag av fat, körsbär, plommon, kakao, salvia, lakrits
+2307201	105.33	8	7	9	Castelforte	Kryddig smak med inslag av fat, mörka körsbär, choklad, pinjenötter, kanel, vanilj
+282001	118.67	4	4	9	Pinot Noir	Bärig, kryddig smak med inslag av mogna jordgubbar, lakitsrot, örter
+456701	105.33	8	7	9	Casillero del Diablo	Mycket fruktig smak med fatkaraktär, inslag av björnbär, örter, lakrits, vanilj
+7191201	105.33	7	7	9	Grande Nuit	Mycket fruktig smak med inslag av svarta vinbär, viol, plommon, gräs
+3214501	532.00	11	9	9	Amarone della Valpolicella	Kryddig smak med inslag av fat, romrussin, choklad, torkade körsbär, nötter, kanel
+213008	63.00	7	7	10	Casas Patronales	Mycket fruktig smak med inslag av svarta vinbär, blåbär, skogshallon, grönpeppar, gräs
+205201	100.00	6	6	9	Chill Out	Mycket fruktig smak med inslag av mörka bär, lakrits, kryddor
+2800808	63.00	7	7	9	Lyngrove	Mycket fruktig smak med inslag av skogsbär, lakrits, vanilj
+660701	92.00	8	7	9	Trivento	Ungdomlig, mycket fruktig smak med inslag av svarta vinbär, viol, örter, sötlakris
+657701	105.33	7	7	9	Casillero del Diablo	Fruktig smak med fatkaraktär, inslag av blåbär, svarta vinbär, färska örter, peppar, lakrits
+3192401	286.67	7	7	10	Lepores	Fruktig smak med fatkaraktär, inslag av blåbär, svartpeppar, ceder, örter och svarta vinbär.
+7701001	105.33	6	6	9	Gran Vego	Fruktig doft med inslag av blåbär, färska örter, mörka körsbär, svartpeppar, vanilj
+238608	83.00	5	4	9	Masi	Ungdomlig, bärig smak med inslag av körsbär, björnbär, örter
+658601	118.67	8	8	9	Cono Sur	Fruktig smak med fatkaraktär, inslag av svarta vinbär, färska örter, blåbär, lakrits
+626501	212.00	6	6	10	Rua	Nyanserad, kryddig smak med fatkaraktär, inslag av skogshallon, jordgubbar, choklad, kanel, örter, ingefära
+631501	122.67	8	7	9	Diemersfontein	Mycket fruktig smak med påtaglig rostad fatkaraktär, inslag av kaffe, mörka körsbär, plommon, choklad, vanilj
+546101	146.67	7	7	9	Mont-Redon	Kryddig smak med inslag av fat, hallon, örter, peppar, björnbär, viol, vanilj
+647001	132.00	7	7	9	Mas Louise	Kryddig, fruktig smak med inslag av körsbär, blåbär, svartpeppar, lakrits och färska örter.
+7183201	132.00	8	8	9	Delas Saint-Esprit	Kryddig smak med inslag av björnbär, lagerblad, hallon, viol, peppar
+232404	104.00	5	5	9	Sonovino	Bärig smak med inslag av skogsbär, lakrits, kryddor
+1237901	252.00	10	10	10	Castelforte	Kryddig, fruktig smak med inslag av fat, körsbär, kanel, torkade tranbär, pinjenötter, peppar, kakao
+672301	358.67	10	10	10	Louis M Martini	Fruktig, balanserad smak med fatkaraktär, inslag av svarta vinbär, plommon, ceder, mörka körsbär, mintchoklad
+209702	152.00	9	9	9	Campos Góticos	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, lagerblad, fikon, svartpeppar, kanel
+660301	105.33	5	5	10	Casillero del Diablo	Bärig, kryddig smak med inslag av jordgubbar, skogshallon, lakrits, örter
+235801	292.00	10	8	9	Pasqua Amarone della Valpolicella	Kryddig smak med inslag av fat, mörka körsbär, salvia, pomerans, pinjenötter, mörkchoklad
+659708	86.33	7	6	9	Gnarly Head	Generöst fruktig smak med inslag av fat, blåbärsylt, plommon, kryddpeppar, mynta, vanilj
+213701	92.00	6	6	9	Perdeberg	Mycket fruktig, ungdomlig smak med inslag av fat, blåbär, mynta, björnbär, peppar, lakrits, skogshallon
+209301	105.33	9	8	9	Merwida	Fruktig, kryddig smak med inslag av fat, björnbär, skogshallon, svartpeppar, kakao, viol
+230908	93.00	7	7	9	Allegrini	Kryddig, fruktig smak med inslag av fat, mörka körsbär, blåbär, choklad, lakrits
+7061701	212.00	9	9	9	Mouton Cadet	Fruktig smak med fatkaraktär, inslag av plommon, ceder, svarta vinbär, peppar, lakrits och färska örter.
+535201	132.00	9	8	9	Castelforte	Kryddig smak med inslag av fat, mörka körsbär, pinjenötter, kanel och rosmarin .
+535301	153.33	9	8	9	Pasqua Ripasso	Kryddig smak med inslag av fat, torkade körsbär, peppar, tobak, korinter
+614601	105.33	7	6	8	Chill Out	Fruktig smak med inslag av russin, viol, björnbär, sötlakrits
+399408	79.67	7	7	9	Allegro	Mycket fruktig smak med inslag av fat, mörka körsbär, hallon, mjölkchoklad och vanilj .
+535401	118.67	7	7	10	Tommasi Graticcio Appassionato	Kryddig, aningen utvecklad smak med inslag av fat, körsbär, kanel, jordgubbar, vanilj, choklad
+235201	238.67	10	9	10	Soprasasso	Kryddig, nyanserad smak med inslag av fat, mörka körsbär, korinter, peppar, pomerans, kakao
+222201	278.67	6	6	10	De Loach	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av skogshallon, mynta, jordgubbar, kaffe, ingefära
+671101	92.00	6	5	9	Spring Village	Ungdomlig, mycket fruktig smak med inslag av fat, mörka bär, vanilj, choklad
+625407	134.67	5	4	10	Te Kairanga	Bärig, kryddig smak med inslag av fat, mogna jordgubbar, ingefära, körsbär, apelsin, vanilj
+628201	212.00	10	10	10	Taurasi	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, eneträ, plommon, tobak, kaffe och svart te.
+208601	332.00	10	9	9	The Chocolate Block	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, svarta vinbär, svartpeppar, mynta, kaffe, hallon
+228101	118.67	7	7	9	Fat Bastard	Mycket fruktig smak med fatkaraktär, inslag av björnbär, viol, hallon, vanilj och färska örter.
+7040101	252.00	8	10	10	Araldica Barolo	Kryddig, nyanserad smak med inslag av fat, torkade körsbär, kanel, bergamott, nypon, lagerblad
+1237906	252.67	10	10	10	Castelforte	Kryddig, fruktig smak med inslag av fat, körsbär, kanel, torkade tranbär, pinjenötter, peppar, kakao
+532802	184.00	7	6	10	Monti Garbi	Kryddig, något utvecklad smak med inslag av fat, torkade körsbär, kryddnejlika, hallon, vanilj, kanel
+393001	118.67	8	7	9	Gran Passione	Mycket fruktig smak med inslag av mörka bär, choklad, vanilj, kanel
+222001	118.67	7	6	9	Vegologica	Fruktig, något kryddig smak med inslag av fat, russin, körsbär, choklad, viol
+270001	118.67	7	6	9	Chianti	Kryddig smak med inslag av fat, körsbär, örter, skogshallon, vanilj
+536101	145.33	4	4	10	Bourgogne Cuvée Prestige	Bärig smak med inslag av fat, hallon, muskot, lingon
+2233701	265.33	10	7	9	Girard	Generöst fruktig smak med fatkaraktär, inslag av björnbär, blåbär, mynta, choklad, peppar, vanilj
+207301	105.33	7	7	9	Org de Rac	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, körsbär, choklad, peppar
+694201	109.33	8	7	9	Rawson's Retreat	Mycket fruktig smak med inslag av fat, svarta vinbär, eukalyptus, björnbär, vanilj
+634608	73.00	8	8	10	Castelforte	Kryddig smak med inslag av fat, torkade körsbär, kanel, russin, mjölkchoklad, vanilj
+286101	238.67	9	9	9	Crozes-Hermitage	Smakrikt, kryddigt vin med inslag av hallon, lavendel, vitpeppar, björnbär, lagerblad, blåbär, timjan
+547001	158.67	5	5	10	Bourgogne	Kryddig smak med inslag av fat, hallon, lingon, nougat, örter
+271601	132.00	8	8	9	Montelciego	Nyanserad, utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, tobak, dill, kanel, choklad, korinter
+214401	198.67	9	9	9	Poliziano Vino Nobile di Montepulciano	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, katrinplommon, tobak, rosmarin, kakao
+699801	132.00	6	5	9	Masi	Bärig smak med inslag av skogshallon, svarta vinbär, lakrits, örter
+224101	92.00	7	6	9	Il Cuore Per Martina	Kryddig, fruktig smak med inslag av fat, körsbär, pinjenötter, jordgubbar, korinter, vanilj
+213301	198.67	8	7	9	Tommasi Palanca	Kryddig smak med inslag av fat, mörka körsbär, russin, nougat
+549701	398.67	6	5	9	Ojai Santa Barbara	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, hallon, lagerblad, kardemumma, nougat, örter
+206605	160.43	7	7	9	Jacob's Creek	Fruktig smak med inslag av fat, mörka körsbär, björnbär, lakrits, örter, peppar
+655001	113.33	6	5	9	The Ultimate Zin	Generöst fruktig smak med liten sötma, inslag av fat, blåbärssylt, vanilj, kardemumma, mjölkchoklad
+235308	56.33	5	5	8	Il Barone	Bärig smak med inslag av fat, körsbär, smörkola, vanilj
+7494401	75.00	6	5	8	Grand Sud	Mycket fruktig smak med inslag av blåbär, björnbär, lakrits
+7404801	305.33	10	10	10	Domaine Santa Duc	Kryddig, nyanserad smak med inslag av fat, hallon, peppar, björnbär, enbär, blåbär, lavendel
+680401	134.67	6	6	9	Morberg Collection	Fruktig smak med inslag av fat, svarta vinbär, blåbär, kryddor, vanilj
+239201	126.67	8	8	9	Piccini	Fruktig smak med rostad fatkaraktär, inslag av kaffe, choklad, korinter, plommon, vanilj, kokos
+330201	105.33	8	8	9	Raccolto	Kryddig, fruktig smak med rostad fatkaraktär, inslag av mörka körsbär, plommon, nougat, kaffe, salvia
+549801	185.33	9	9	9	Elephant Hill	Fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, mynta, plommon, mörk choklad, peppar, viol, lagerblad
+235708	66.33	8	7	9	Palazzo	Fruktig smak med inslag av fat, mörka körsbär, choklad, lakrits, peppar, vanilj
+281501	172.00	8	8	9	Crozes Hermitage	Nyanserad, kryddig smak med inslag av fat, björnbär, hallon, eneträ, viol, svartpeppar, lagerblad, kakao
+613101	112.00	9	8	9	The Black Shiraz	Mycket fruktig smak med fatkaraktär, inslag av björnbär, blåbär, svartpeppar, mörk choklad, vanilj
+201601	118.67	7	7	9	Réserve de Bonpas	Kryddig, fruktig smak med inslag av fat, körsbär, hallon, peppar, lagerblad
+671401	198.67	8	8	9	Boom Boom!	Mycket fruktig smak med fatkaraktär, inslag av björnbär, viol, blåbär, lagerblad, vanilj, lakrits
+7314201	225.33	9	9	9	Gérard Bertrand Château L'Hospitalet	Nyanserad, balanserad smak med fatkaraktär, inslag av svarta vinbär, plommon, choklad, kaffe och svarta oliver.
+236008	73.00	7	5	8	The Big Zin	Generöst fruktig smak med sötma, inslag av fat, björnbärssylt, vanilj, mynta
+302308	86.33	7	7	9	Cantina Zaccagnini	Kryddig smak med fatkaraktär, inslag av körsbär, blåbär, kryddnejlika, vanilj
+7475601	132.00	10	8	9	Amicone	Fruktig smak med inslag av fat, mörka körsbär, choklad, russin, peppar, salvia
+239801	318.67	8	10	10	Barolo Albe	Nyanserad smak med fatkaraktär, inslag av torkade körsbär, kanel, nypon, bergamott, nougat, apelsin
+2282601	100.00	6	5	8	Chill Out	Mycket fruktig smak med inslag av drottningsylt, lakrits
+535206	132.67	9	9	9	Castelforte	Kryddig smak med inslag av fat, mörka körsbär, nötter, choklad och rosmarin .
+2233501	78.67	6	6	9	Candidato Ecologico	Fruktig smak med inslag av blåbär, färska örter, körsbär
+320408	83.00	7	7	9	Doppio Passo	Mycket fruktig smak med liten sötma, inslag av mogna jordgubbar, russin, lakrits, vanilj
+626101	172.00	9	6	9	Brazin Old Vine	Generöst fruktig smak med rostad fatkaraktär, inslag av blåbärssylt, pepparmynta, choklad, kaffe, vanilj
+657208	79.67	8	8	9	Casillero del Diablo	Fruktig smak med inslag av fat, svarta vinbär, blåbär, färska örter, vanilj
+7291508	59.67	5	4	9	Campos de Luz	Bärig smak med inslag av björnbär, blåbär, kryddor, jordgubbar
+7237101	305.33	9	8	9	Châteauneuf du Pape	Kryddig, fruktig smak med inslag av fat, plommon, jordgubbar, peppar, lakrits, lagerblad, kanel
+505901	79.00	9	8	9	Santa Helena Varietal	Mycket fruktig smak med inslag av plommon, blåbär, svartpeppar, örter, vanilj
+207702	117.33	7	7	10	Copertino	Mogen, kryddig smak med inslag av torkade körsbär, nypon, tobak, pomerans, läder
+7531601	861.33	10	9	9	Heitz	Komplex, fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, mynta, peppar, mörk choklad, ceder, tobak
+7357401	372.00	10	10	10	Amarone della Valpolicella	Kryddig, utvecklad smak med inslag av fat, torkade körsbär, muskot, russin, kanel, choklad
+653701	70.00	6	6	9	Montlaiz	Fruktig, ungdomlig smak med inslag av mörka bär, lakrits, gräs
+271701	145.33	7	6	9	Gratena Chianti	Kryddig, nyanserad smak med inslag av fat, körsbär, hallon, kanel, örter, vanilj
+401607	119.33	5	5	10	Sibaris	Bärig smak med inslag av fat, blåbär, körsbär, muskot, skogshallon, färska örter, choklad
+215101	132.00	9	9	9	Xavier Côtes-du-Rhône	Kryddig, fruktig smak med inslag av mörka körsbär, björnbär, peppar, lagerblad, lakritsrot, kanel, hallon
+229101	300.00	9	9	9	Le Hurlevent	Nyanserad, kryddig smak med inslag av plommon, körsbär, lavendel, vitpeppar, lakrits, hallon, lagerblad
+7068401	109.33	8	7	9	Lagunilla	Utvecklad, kryddig smak med tydlig fatkaraktär, inslag av mörka körsbär, russin, choklad, muskot, dill, kaffe
+210901	118.67	8	8	10	Casa Vinironia	Kryddig smak med inslag av fat, körsbär, salvia, pomerans, choklad, kanel
+314701	212.00	9	9	9	Clarendelle	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, ceder, korinter, kaffe, tobak, kakao
+535408	96.33	7	7	10	Tommasi Graticcio Appassionato	Kryddig, aningen utvecklad smak med inslag av fat, körsbär, kanel, jordgubbar, vanilj, choklad
+234808	66.33	7	7	9	Tommolo	Fruktig smak med inslag av fat, blåbär, ljus choklad, körsbär, vanilj
+712601	100.00	5	5	10	Bianchi Montepulciano d'Abruzzo	Bärig, ungdomlig smak med inslag av skogshallon, örter, körsbär, lakrits
+745101	118.67	8	6	9	Roodeberg	Fruktig smak med inslag av fat, hallon, björnbär, lakrits
+3253806	264.67	7	6	10	Högberga Syrah	Fruktig smak med fatkaraktär, inslag av plommon, blåbär, kryddor, tobak, skogshallon
+210908	76.33	8	8	10	Casa Vinironia	Kryddig smak med inslag av fat, körsbär, salvia, pomerans, choklad, kanel
+7912101	398.67	8	8	9	Châteauneuf-du-Pape	Nyanserad, kryddig smak med fatkaraktär inslag av skogshallon, jordgubbar, kanel, svartpeppar, lakrits
+232601	118.67	9	7	9	Epicuro	Fruktig, utvecklad smak med rostad fatkaraktär och liten sötma, inslag av russin, torkade körsbär, sötlakrits, kanel, choklad
+7166301	145.33	9	8	10	Ville di Antanè	Kryddig, nyanserad smak med inslag av fat, mörka körsbär, fikon, kanel, peppar, choklad
+746201	572.00	9	9	9	La Rioja Alta	Komplex, utvecklad smak med fatkaraktär, inslag av plommon, korinter, tobak, choklad, ceder, nötter
+7272201	320.00	6	5	9	Laccento	Fruktig smak med liten sötma, inslag av jordgubbar, kanel, körsbär, tranbär och färska örter.
+746301	438.67	9	8	9	Chateau Musar	Utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, kanel, russin, tobak, nougat, pomerans, ceder
+238401	92.00	6	6	9	Lupi Reali	Kryddig, fruktig smak med inslag av fat, mörka bär, vanilj och färska örter.
+224301	158.67	10	9	9	Jonty's Ducks	Nyanserad, kryddig smak med fatkaraktär, inslag av plommon, färska örter, mörk choklad, peppar, skogshallon
+224001	118.67	9	9	9	Vicor	Fruktigt, smakrikt vin med inslag av fat, skogshallon, plommon, svartpeppar, fikon, viol, choklad
+255901	132.00	10	9	9	Vivir Sin Dormir	Fruktigt, smakrikt vin med fatkaraktär, inslag av björnbär, plommon, kakao, svartpeppar, timjan, lakrits, vanilj
+7922008	75.00	7	7	9	Cigarra	Fruktig smak med inslag av fat, mörka körsbär, nougat, kryddor, choklad
+7923401	565.33	9	10	10	Brunello di Montalcino	Nyanserad, kryddig smak med fatkaratär, inslag av körsbär, ceder, nougat, kanel, hallon
+7518401	286.67	10	9	10	Villa Righetti	Kryddig, nyanserad smak med inslag av fat, mörka körsbär, choklad, romrussin, kaffe, kardemumma
+7630801	166.67	8	8	10	Villa Righetti	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, kanel, tobak, choklad, plommon, vanilj
+626002	237.33	6	-1	9	Brachetto d´Acqui	Bärig, pärlande, mycket söt smak med inslag av körsbär, hallon och viol. Serveras kyld som sällskapsdryck eller till desserter.
+439101	158.67	9	10	10	Finca Villazán	Nyanserad, kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, basilika, peppar, skogshallon, kakao och svart te.
+7465901	118.67	9	7	9	The Wanted Zin	Mycket fruktig smak med fatkaraktär, inslag av mörka bär, choklad, kaffe, vanilj
+7124406	126.00	8	6	8	Governo	Fruktig smak med fatkaraktär och liten sötma, inslag av plommon, kryddor, russin, kaffe, blåbär, mynta
+3263901	265.33	8	8	10	Under Ölands Sol Rondo	Fruktig smak med fatkaraktär, inslag av blåbär, svarta vinbär, örter, slånbär, lakrits, vanilj
+628501	265.33	9	9	9	Geoff Merrill	Utvecklad, balanserad smak med tydlig fatkaraktär, inslag av svarta vinbär, tobak, katrinplommon, pomerans, mörk choklad, kardemumma
+638308	73.00	8	8	9	La Boca	Mycket fruktig smak med inslag av fat, björnbär, viol, mörka körsbär, plommon, lakrits
+639601	158.67	10	10	10	Piedra Negra	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, kaffe, örter, ceder, choklad och svart te.
+274301	185.33	9	10	10	Ziggurat	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, hallon, peppar, salvia, vanilj, kakao
+294201	132.00	10	9	9	Rubesco	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, plommon, choklad, kryddnejlika, kanel, vanilj
+275401	105.33	7	7	10	Barbera d'Asti	Fruktig smak med inslag av fat, mörka körsbär, örter, blåbär, hallon, lakrits
+657301	118.67	10	8	9	Caravan	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, choklad, svarta vinbär, lakrits, vanilj
+642001	132.00	8	6	9	Apothic Red	Generöst fruktig smak med fatkaraktär och viss sötma, inslag av plommon, vanilj, blåbär, mjölkchoklad
+201101	153.33	8	8	9	Côtes-du-Rhône	Kryddig smak med inslag av fat, björnbär, lagerblad, skogshallon, örter, körsbär
+7085601	265.33	10	9	9	Casa Vinironia	Kryddig, nyanserad smak med inslag av fat, torkade körsbär, russin, choklad, peppar, kanel, pomerans
+7192601	532.00	9	9	9	Chateau Montelena	Nyanserad, mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, mjölkchoklad, plommon, mynta, kaffe, vanilj
+213101	105.33	8	8	9	Scattered Earth	Fruktig, kryddig smak med inslag av fat, skogshallon, blåbär, lakrits, svartpeppar, örter, choklad
+7963501	132.00	8	8	9	Ernst Kirchsteigers	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, plommon, kryddor, vanilj
+9400201	100.00	5	4	10	Beaujolais Nouveau	Bärig, ungdomlig smak med inslag av blåbär, örter, hallon, sötlakrits
+7061901	345.33	9	9	9	Castiglion del Bosco	Nyanserad, kryddig, mogen smak med fatkaraktär, inslag av torkade körsbär, nypon, ceder, kakao, pomerans, tobak
+7968701	132.00	7	7	9	Mas Janeil	Kryddig smak med inslag av fat, björnbär, svarta vinbär, choklad, viol, lagerblad
+7450301	145.33	9	9	9	Château de Saint Cosme	Kryddig, nyanserad smak med inslag av fat, björnbär, lagerblad, hallon, peppar, kanel, lakrits
+208301	166.67	10	9	9	Gemtree Bloodstone	Generöst fruktig smak med rostad fatkaraktär, inslag av plommon, kaffe, peppar, björnbär, lakrits, lagerblad, vanilj
+304001	180.00	6	6	9	Tenuta Vignega	Kryddig smak med inslag av fat, körsbär, hallon, muskot, russin
+309701	318.67	10	10	10	Brunello di Montalcino	Kryddig, balanserad, utvecklad smak med fatkaraktär, inslag av torkade körsbär, kanel, pomerans, peppar, nougat
+315701	136.00	9	10	9	Château Tanesse	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, peppar, plommon, örter, ceder, tobak
+609001	113.33	6	6	9	Tajano Rosso Piceno	Kryddig smak med inslag av fat, körsbär, skogsbär, kanel, sötlakrits
+7245801	132.00	7	6	9	Les Dauphins	Fruktig smak med inslag av hallon, blåbär, kryddor, viol, örter
+7052601	118.67	8	8	9	Côtes-du-Rhône	Kryddig, fruktig smak med inslag av fat, björnbär, hallon, kanel, peppar och färska örter.
+242801	105.33	7	6	8	The Big Zin	Generöst fruktig smak med liten sötma, inslag av fat, björnbär, mynta, lakrits, vanilj
+7330801	132.00	9	8	9	P.Lex	Kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, kaffe, choklad, kryddnejlika, vanilj, blåbär
+7050301	452.00	9	9	9	Châteauneuf-du-Pape	Kryddig, något utvecklad smak med inslag av fat, jordgubbar, tobak, peppar och kanel..
+233701	93.33	5	4	9	Montepulciano d'Abruzzo	Bärig smak med inslag av skogshallon, blåbär, sötlakrits, örter
+240801	118.67	7	7	10	Le Monde	Fruktig smak med inslag av plommon, blåbär, viol, peppar, lakrits, körsbär
+7907501	118.67	8	7	9	Montico	Mycket fruktig smak med inslag av fat, mörka körsbär, lakrits, björnbär, kanel, choklad
+535402	157.33	7	7	10	Tommasi Graticcio Appassionato	Kryddig, aningen utvecklad smak med inslag av fat, körsbär, kanel, jordgubbar, vanilj, choklad
+7541601	118.67	9	6	8	Barone Montalto	Mycket fruktig smak med sötma, inslag av fat, blåbärssylt, sötlakrits, salvia, vanilj
+7465908	86.33	9	7	9	The Wanted Zin	Mycket fruktig smak med fatkaraktär, inslag av mörka bär, choklad, kaffe, vanilj
+7434501	145.33	8	8	9	Antiche Terre Venete	Kryddig, något utvecklad smak med inslag av fat, torkade körsbär, kanel, pinjenötter, vanilj
+7461801	1198.67	10	9	9	Masi Costasera	Mogen, komplex smak med inslag av fat, katrinplommon, torkade körsbär, rosmarin, mörk choklad, ceder, tobak
+265901	146.67	8	8	10	Coto de Imaz	Nyanserad, utvecklad, kryddig smak med fatkaraktär, mörka körsbär, dill, nötter, kryddnejlika, jordgubbar, vanilj
+7636701	252.00	9	10	10	Ricossa	Kryddig smak med fatkaraktär, inslag av körsbär, lavendel, tranbär, nypon, kanel
+274201	158.67	8	8	9	Domaine Rimbert	Nyanserad, kryddig smak med inslag av katrinplommon, kryddpeppar, svarta oliver, örter, lakrits
+7639601	113.33	8	7	9	Tina Montepulciano d'Abruzzo	Fruktig smak med fatkaraktär, inslag av mörka körsbär, vanilj, russin, salvia, mjölkchoklad
+756401	78.67	6	6	9	Gato Negro	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, björnbär och grön paprika.
+756404	116.00	6	6	9	Gato Negro	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, björnbär och grön paprika.
+629808	76.33	6	6	9	Adobe	Fruktig smak med inslag av fat, svarta vinbär, blåbär, lakrits, viol
+638001	265.33	7	6	10	Buena Vista	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mogna jordgubbar, körsbär, ingefära, kaffe, vanilj
+246901	118.67	8	8	9	Les Pious	Fruktig, kryddig smak med inslag av björnbär, körsbär, peppar, lagerblad
+7668008	83.00	7	3	8	Ruby Zin	Bärig smak med inslag av blåbär, hallon, örter, vanilj
+288708	106.33	9	9	9	American Dream	Fruktigt, smakrikt vin med fatkaraktär, inslag av svarta vinbär, plommon, choklad, kryddnejlika, lakrits, vanilj
+2307101	265.33	9	8	10	Barbera d'Alba	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, plommon, choklad, lavendel, kaffe
+240201	532.00	10	10	10	Château Plince	Nyanserad smak med fatkaraktär, inslag av svarta vinbär, plommon, kakao, kaffe, ceder, tobak
+7138801	105.33	8	7	9	Antiche Terre Venete	Kryddig smak med inslag av fat, mörka körsbär, kanel, russin, choklad, svarta vinbär, lakrits
+7252601	132.00	9	7	9	Governo	Fruktig smak med fatkaraktär, inslag av mörka körsbär, russin, choklad, vanilj
+7677701	118.67	7	6	8	Ti Amo	Fruktig smak med inslag av fat, mörka bär, muskot, vanilj, lakrits
+7677801	86.67	5	4	8	Zupreme	Bärig smak med liten sötma, inslag av fat, mogna jordgubbar, mjölkchoklad, körsbär, vanilj
+205701	158.67	7	7	10	La Seigneurie	Fruktig smak med fatkaraktär, inslag av svarta vinbär, färska örter, choklad, muskot, slånbär, körsbär
+238908	76.33	8	8	9	Org de Rac	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, rosmarin, choklad, skogshallon, kanel
+3264801	252.00	5	4	11	Wannborga	Fruktig, ungdomlig smak med inslag av blåbär, mynta, muskot och svarta vinbär.
+7100201	132.00	8	7	9	Casa Capriolo	Fruktig smak med fatkaraktär, inslag av mörka körsbär, skogshallon, örter, vanilj
+462401	158.67	9	9	9	Gemtree Cinnabar GSM	Mycket fruktig smak med fatkaraktär, inslag av plommon, körsbär, vanilj, choklad, lagerblad, lakrits
+683201	132.00	9	9	9	Vinha da Urze	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, torkade örter, björnbär, svarta oliver och mörk choklad.
+2201301	318.67	8	10	10	Barbaresco	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, kanel, nypon, rosor, hasselnötter, pomerans
+629201	145.33	5	5	9	Gardo & Morris	Bärig, kryddig smak med inslag av fat, hallon, jordgubbar, örter, ingefära, viol
+629202	176.00	5	5	9	Gardo & Morris	Bärig, kryddig smak med inslag av fat, hallon, jordgubbar, örter, ingefära, viol
+302401	278.67	9	10	10	Château d'Arsac	Nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, ceder, kakao, plommon, kaffe, lagerblad
+634601	105.33	8	8	10	Castelforte	Kryddig smak med inslag av fat, torkade körsbär, kanel, russin, mjölkchoklad, vanilj
+7500808	73.00	8	8	9	Smart Dog	Mycket fruktig smak med inslag av fat, björnbär, körsbär, kryddor, viol, vanilj
+7408701	118.67	8	6	9	Lynx	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av blåbärssylt, björnbär, kryddnejlika, choklad, vanilj
+836208	93.00	7	7	8	McManis	Generöst fruktig smak med fatkaraktär, inslag av björnbär, smörkola, blåbär, mynta, kokos
+281101	345.33	9	9	9	Château Mont-Redon	Kryddig, balanserad smak med inslag av fat, björnbär, vitpeppar, lagerblad, körsbär, lavendel, eneträ
+7396601	118.67	8	6	8	Zensa	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, choklad, vanilj, russin, smörkola
+2234601	200.00	9	8	9	Barra of Mendocino	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, örter, ceder, plommon, vanilj
+7699801	480.00	10	10	10	San Román	Fruktig smak med tydligt rostad fatkaraktär, inslag av mörka körsbär, plommon, kakao, örter, kaffe, blåbär, kokos
+1068208	86.33	8	7	10	Terre de Mistral Reserve	Kryddig smak med inslag av björnbär, hallon, kryddpeppar, viol, blåbär
+7253401	118.67	8	6	8	Amazin'	Mycket fruktig smak med liten sötma, inslag av fat, blåbärssylt, choklad, vanilj
+7431201	105.33	8	8	9	LAB	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, kanel, vanilj, skogshallon och mörk choklad.
+7431208	66.33	8	8	9	LAB	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, kanel, vanilj, skogshallon och mörk choklad.
+7297201	118.67	7	5	8	Falling Feather	Generöst fruktig smak med inslag av skogshallon, sötlakrits, örter
+7297208	79.67	6	4	8	Falling Feather	Generöst fruktig smak med inslag av skogshallon, sötlakrits, örter
+8041901	118.67	6	6	8	Heartwood	Generöst fruktig smak med fatkaraktär, inslag av vanilj, björnbär, choklad, jordgubbar
+8160301	105.33	7	7	9	Vinistella	Mycket fruktig smak med inslag av fat, mörka körsbär, choklad, vanilj, hallon
+220802	226.67	8	9	9	Ser Lapo	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, kanel, nougat, pomerans, sandelträ
+539501	598.67	7	6	10	Gevrey-Chambertin La Justice	Nyanserad, kryddig smak med karaktär av rostade ekfat, inslag av skogshallon, choklad, kaffe, mineral, sandelträ
+1233001	398.67	9	9	9	Brunello di Montalcino	Nyanserad, kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, salvia, nypon, vanilj
+625301	132.00	9	9	9	Penfolds Koonunga Hill	Mycket fruktig smak med fatkaraktär, inslag av björnbär, svarta vinbär, plommon, kaffe, mynta, vanilj och mörk choklad.
+268001	105.33	9	9	9	Manifesto	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, kaffe, svarta vinbär, vanilj, peppar
+7823601	105.33	8	6	9	Gran Maestro	Mycket fruktig smak med inslag av mörka körsbär, plommon, vanilj, hallon, lakrits
+7178601	118.67	7	7	9	Zensa	Mycket fruktig smak med inslag av fat, björnbär, mörka körsbär, lakrits, mjölkchoklad
+206501	305.33	9	9	9	Château Vignelaure	Nyanserad, utvecklad smak med fatkaraktär, inslag av svarta vinbär, ceder, choklad, katrinplommon, lagerblad, örter, kaffe
+7382101	405.33	10	9	9	Campo Leòn	Kryddig, mogen smak med inslag av fat, torkade fikon, tobak, katrinplommon, choklad, nötter, nypon
+7038401	145.33	8	8	10	Borgogno	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, choklad, kanel, blåbär, vanilj
+302701	132.00	10	10	10	Ribera 1 One	Nyanserad, kryddig smak med tydlig rostad fatkaraktär, inslag av mörka körsbär, choklad, korinter, kaffe, vanilj
+7021501	345.33	10	9	9	Bolla Le Poiane	Nyanserad, kryddig smak med inslag av fat, körsbär, russin, choklad, kanel, tobak
+303401	92.00	8	8	9	Casa Vinironia Palloncino	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, korinter, choklad, kaffe, peppar, vanilj
+1235706	399.33	9	9	10	Brunello di Montalcino		Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, ceder, torkade tranbär, kakao, nypon, kanel, salvia
+7668001	132.00	7	3	8	Ruby Zin	Bärig smak med inslag av blåbär, hallon, örter, vanilj
+7429901	132.00	8	6	8	Prohibition	Mycket fruktig smak med liten sötma, inslag av fat, blåbärssylt, vanilj, mynta, choklad
+7107501	132.00	8	8	9	P.Lex Appassivo	Mycket fruktig smak med inslag av mörka körsbär, russin, viol, örter
+7022701	278.67	9	10	10	Barolo Fontanafredda	Nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, rosor, jordgubbar, sandelträ, nougat, pomerans
+7099804	133.69	5	4	9	OHH	Bärig smak med inslag av blåbär, svarta vinbär, lakrits
+600801	105.33	7	5	9	Barefoot	Generöst fruktig smak med inslag av viol, björnbär, blåbär, vanilj
+7542101	318.67	8	9	9	Brunello di Montalcino	Nyanserad, utvecklad smak med fatkaraktär, inslag av torkade körsbär, tobak, kakao, nötter, pomerans
+7849801	1013.33	10	10	10	Amarone della Valpolicella	Nyanserad, kryddig smak med inslag av fat, torkade körsbär, katrinplommon, kaffe, kakao, romrussin, pomerans
+7297701	118.67	8	7	9	Grillo	Kryddig, fruktig smak med inslag av fat, mörka körsbär, kanel, russin, örter, lakrits
+8160308	76.33	7	7	9	Vinistella	Mycket fruktig smak med inslag av fat, mörka körsbär, choklad, vanilj, hallon
+284901	105.33	7	7	9	Simonsig Cape Blend	Mycket fruktig smak med inslag av fat, svarta vinbär, björnbär, viol, gräs, sötlakrits
+214901	225.33	10	10	10	Viña Pedrosa	Nyanserad, kryddig smak med tydlig karaktär av rostade ekfat, inslag av mörka körsbär, plommon, kaffe, örter, vanilj, kakao
+625001	101.33	7	5	9	Camden Park	Mycket fruktig smak med inslag av fat, hallon, blåbär, vanilj, sötlakrits
+627101	68.00	7	6	9	Black Mountain	Mycket fruktig smak med inslag av fat, björnbär, svarta vinbär, lakrits
+657801	166.67	6	6	9	District 7	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av jordgubbar, sandelträ, kardemumma, pomerans, nougat
+236201	118.67	8	7	9	Torres Las Mulas	Mycket fruktig smak med inslag av fat, svarta vinbär, viol, blåbär, choklad, örter
+241301	105.33	6	6	8	Jacob's Creek Lighter Alcohol	Fruktig smak med inslag av blåbärssylt, björnbär, kryddor, choklad
+1265801	133.33	9	8	9	Zonnebloem	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, viol, björnbär, kaffe, vanilj
+602401	100.00	8	8	9	Alto Pina	Fruktig smak med fatkaraktär, inslag av plommon, lavendel, kokos, björnbär, kaffe, kryddnejlika
+681302	306.67	10	10	10	Château Boutisse	Nyanserad smak med tydligt rostad fatkaraktär, inslag av svarta vinbär, plommon, kaffe, kakao, ceder, lagerblad, tobak
+7515801	145.33	8	7	9	Villa Cavallo	Kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, russin, nougat, choklad, ceder
+223501	252.00	6	5	9	Black Stallion	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, choklad, körsbär, kaffe, mynta
+646707	126.00	9	7	9	Jacob's Creek Barossa	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, choklad, mörka körsbär, kryddnejlika, vanilj
+231201	105.33	5	5	9	Cecchi	Ungdomlig, bärig smak med inslag av skogshallon, körsbär, viol, lakrits
+7895201	158.67	8	6	9	Bellflower	Generöst fruktig smak med fatkaraktär, inslag av skogshallon, blåbär, mynta, choklad, vanilj
+7896307	79.33	7	7	9	Hardys Nottage Hill	Mycket fruktig smak med inslag av fat, svarta vinbär, björnbär, lakrits, kryddor, vanilj
+7217108	56.33	8	7	9	Casa Nostra	Mycket fruktig smak med inslag av mörka körsbär, blåbärssylt, örter, lakrits
+302501	145.33	9	9	9	Conero Riserva	Smakrikt vin med tydlig fatkaraktär, inslag av mörka körsbär, choklad, korinter, kaffe, kakao, vanilj
+293602	240.00	6	6	9	Saint Clair Pioneer Block 23	Balanserad, kryddig smak med fatkaraktär, inslag av mogna jordgubbar, körsbär, ingefära, hallon, örter, choklad
+228401	105.33	5	5	9	Ferrandière	Kryddig, bärig smak med inslag av fat, jordgubbar, muskot, skogsbär, lingon, kanel, örter
+217901	185.33	8	8	9	Domaine de Verquière	Kryddig, nyanserad smak med inslag av fat, hallon, blåbär, viol, färska örter, lakrits, svartpeppar
+655708	103.00	8	7	9	The Econic	Mycket fruktig smak med fatkaraktär, inslag av blåbär, skogshallon, pepparmynta, kanel, vanilj
+7501501	132.00	4	4	10	Antiche Terre Venete	Bärig smak med inslag av körsbär, lakrits, hallon, basilika
+7604601	118.67	7	6	9	Rocca di Montemassi	Mycket fruktig smak med inslag av fat, körsbär, lakrits, blåbär, örter
+7518201	238.67	9	10	10	Fontanafredda	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, hallon, nypon, rosor, örter, muskot, kanel
+7541608	83.00	8	6	8	Barone Montalto	Mycket fruktig smak med sötma, inslag av fat, blåbärssylt, sötlakrits, salvia, vanilj
+208701	105.33	8	8	10	Dig This!	Mycket fruktig, ungdomlig smak med inslag av fat, svarta vinbär, örter, blåbär, körsbär, vanilj, lakrits
+284501	366.67	10	9	9	Châteauneuf-du-Pape	Nyanserad, kryddig smak med inslag av fat, björnbär, lagerblad, plommon, kakao, viol, peppar, hallon, örter
+238201	100.00	7	7	9	Nuevo Mundo Organic	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, björnbär, tobak, jordgubbar, lakrits
+229301	158.67	6	6	10	Château de Pierreux	Ungdomlig, bärig, något kryddig smak med inslag av skogsbär, färska örter, mörka körsbär, peppar, jordgubbar
+7606501	118.67	8	9	9	Cycliste	Fruktig smak med inslag av fat, björnbär, hallon, färska örter, kryddnejlika, peppar
+7360402	424.00	9	10	10	Barolo	Mogen, kryddig smak med fatkaraktär, inslag av tobak, torkade körsbär, valnötter, kanel, kryddpeppar och svart te.
+7576401	145.33	8	8	9	Belleruche Côtes-du-Rhône	Kryddig, nyanserad smak med inslag av björnbär, hallon, peppar, lavendel, lakrits
+225501	105.33	8	7	9	Francisco Gomez	Fruktig, något kryddig smak med inslag av mörka körsbär, plommon, vanilj, tobak
+3273701	356.00	9	8	9	Lepores	Nyanserad fruktig smak med fatkaraktär, inslag av svarta vinbär, blåbär, choklad, lakrits, örter, vanilj
+1235601	372.00	10	9	10	Rust en Vrede Estate	Fruktigt, smakrikt vin med rostad fatkaraktär, inslag av svarta vinbär, plommon, svartpeppar, mörk choklad, ceder, tobak, och kaffe.
+620701	305.33	10	9	9	Black Stallion	Nyanserad, mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, plommon, choklad, blåbär, kryddnejlika, kaffe
+671801	113.33	8	7	9	Rawson's Retreat	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, plommon, choklad, blåbär, peppar
+652901	206.67	10	10	9	Tapiz	Mycket fruktig smak med tydlig fatkaraktär, inslag av blåbär, viol, plommon, björnbär, svarta oliver, vanilj
+7211501	118.67	5	5	9	Amore Assoluto	Bärig smak med inslag av körsbär, blåbär, örter
+7280501	132.00	8	8	9	Grande Alberone	Kryddig smak med tydlig rostad fatkaraktär och liten sötma, inslag av plommon, choklad, kaffe, kardemumma, körsbär
+7420101	212.00	6	5	10	Borgogno	Bärig, nyanserad smak med inslag av fat, mörka körsbär, skogshallon, örter, viol, salvia
+233001	412.00	8	10	10	Barolo Serralunga	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rosor, kanel, kakao, sandelträ, nypon, rosépeppar
+233002	450.67	9	11	10	Barolo Serralunga	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rosor, kanel, pinjenötter, kakao, sandelträ, nypon, örter
+231301	118.67	8	7	9	Prugneto	Mycket fruktig smak med inslag av fat, mörka körsbär, skogshallon, vanilj, choklad
+7244501	172.00	8	8	10	Baron De Ley	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, mörka körsbär, viol, tobak, choklad, skogshallon, kokos
+7287508	53.00	6	5	9	Leva Reserve	Fruktig smak med fatkaraktär, inslag av mörka körsbär, svarta vinbär, kryddor, smörkola
