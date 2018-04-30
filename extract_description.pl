@@ -88,5 +88,6 @@ while ($row = <IN>) {
 ##
 print "Sparar ", $#result +1, " poster i result.csv.\n";
 open(OUT, ">", "result.csv");
+binmode(OUT, ":utf8");
 print OUT join("\n", @result);
 close(OUT);
