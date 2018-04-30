@@ -11,20 +11,15 @@ if err == -1
   filename = "example_result.csv";
 endif
 
-output_nr_namn = "cache_nr_namn.mat";
-output_pris = "cache_pris.mat";
-output_smak = "cache_smak.mat";
-
 %
 % Titta om det finns en cachad variant redan
 %
-[info, err, msg] = stat(filename);
-[info2, err2, msg2] = stat("cache.mat");
-[info3, err3, msg3] = stat("read_systembolaget.m");
+[data_info, data_err] = stat(filename);
+[cache_info, cache_err] = stat("cache.mat");
+[script_info, script_err] = stat("read_systembolaget.m");
 
-if err2 != -1 && info.ctime < info2.ctime && ...
-   err3 != -1 && info.ctime < info3.ctime && ...
-   info3.ctime < info2.ctime
+if cache_err != -1 && data_info.ctime < cache_info.ctime && ...
+   script_err != -1 && script_info.ctime < cache_info.ctime
    load -binary cache.mat Nr_Namn PrisPerLiter fyllighet_stravhet_fruktsyra_smaker;
   return;
 endif
