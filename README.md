@@ -21,3 +21,8 @@ Systembolaget ger via sitt api (fast deras api är html-baserat av någon anledn
 Kör skriptet extract_description.pl.  Det kommer skapa filen "result.csv".
 Jag har checkat in filen "example_result.csv" för den som inte vill köra
 alla stegen.
+
+# Octave
+
+Kör "octave systembolaget.m" från prompten, eller "systembolaget" innefrån
+Octave.
