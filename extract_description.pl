@@ -46,6 +46,19 @@ while ($row = <IN>) {
 		$desc =~ s/([\wåäö]+) och ([\wåäö]+)\.?\z/$1, $2/;
 
 		##
+		## Ta bort ogiltiga tecken
+		##
+		$desc =~ s/\t//g;
+
+		##
+		## Alla ord efter första "inslag av" har detta som prefix
+		##
+		if ($desc =~ s/(inslag av )(.*)/$1/) {
+		    my $inslag = $2;
+		    $desc .= join(", inslag av ", split(", ", $inslag));
+		}
+		
+		##
 		## Hitta fyllighet, strävhet och fruktsyra
 		##
 		my $fyllighet = -1;
@@ -61,7 +74,7 @@ while ($row = <IN>) {
 		    $fruktsyra = $1;
 		}
 		
-		push @result, join("\t", $nr, $PrisPerLiter, $fyllighet, $stravhet, $fruktsyra, $Namn, $desc);
+		push @result, join("\t", $nr, $Namn, $PrisPerLiter, $fyllighet, $stravhet, $fruktsyra, $desc);
 	    } else {
 		print "$nr hittar ingen beskrivning.\n";
 	    }
