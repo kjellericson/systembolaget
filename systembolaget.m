@@ -103,8 +103,8 @@ for i = 1:length(nr)
   fprintf(fo, "<td><a href='https://www.systembolaget.se/%s' target='_blank'>%s</a></td>\n", ...
           nr{i, 1}, nr{i, 1});
   fprintf(fo, "<td>%s</td>\n", nr{i, 2});
-  fprintf(fo, "<td>%d</td>\n", int32(pris(i) *.75));
-  fprintf(fo, "<td>%d</td>\n", int32(estimated(i) *.75));
+  fprintf(fo, "<td>%d</td>\n", int32(pris(i)));
+  fprintf(fo, "<td>%d</td>\n", int32(estimated(i)));
   fprintf(fo, "<td>%s</td>\n", beskrivning{i});
   fwrite(fo, "</tr>\n");
 endfor
