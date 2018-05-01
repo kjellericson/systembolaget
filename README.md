@@ -26,3 +26,8 @@ alla stegen.
 
 Kör "octave systembolaget.m" från prompten, eller "systembolaget" innefrån
 Octave.
+
+# Output
+
+Filen output.html innehåller data som du kan titta på.
+Öppna upp den i din webbläsare.

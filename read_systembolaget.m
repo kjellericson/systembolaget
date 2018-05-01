@@ -1,4 +1,4 @@
-function [Nr_Namn, PrisPerLiter, fyllighet_stravhet_fruktsyra_smaker] = ...
+function [Nr_Namn, PrisPerLiter, fyllighet_stravhet_fruktsyra_smaker, beskrivning] = ...
   read_systembolaget()
 % Läser in result.csv och ger tillbaka datat.
 
@@ -20,7 +20,7 @@ endif
 
 if cache_err != -1 && data_info.ctime < cache_info.ctime && ...
    script_err != -1 && script_info.ctime < cache_info.ctime
-   load -binary cache.mat Nr_Namn PrisPerLiter fyllighet_stravhet_fruktsyra_smaker;
+   load -binary cache.mat Nr_Namn PrisPerLiter fyllighet_stravhet_fruktsyra_smaker beskrivning;
   return;
 endif
 
@@ -81,4 +81,11 @@ endfor
 close(wh);
 Nr_Namn = [nr Namn];
 
-save -binary cache.mat Nr_Namn PrisPerLiter fyllighet_stravhet_fruktsyra_smaker;
+beskrivning = cell(length(desc), 1);
+for i = 1:length(desc)
+  row = sprintf("fyllighet %d, strävhet %d, fruktsyra %d, %s",...
+    fyllighet(i), stravhet(i), fruktsyra(i), desc{i});
+  beskrivning{i} = row;
+endfor
+
+save -binary cache.mat Nr_Namn PrisPerLiter fyllighet_stravhet_fruktsyra_smaker beskrivning;

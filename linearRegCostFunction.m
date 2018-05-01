@@ -31,7 +31,7 @@ grad = grad + regulation';
 global Jplotting;
 Jplotting = [Jplotting J];
 if mod(length(Jplotting), 10) == 0
-  subplot(2, 2, 4);
+  subplot(2, 3, 4);
   plot(Jplotting);
   title("J-Progress");
   pause(0.01);
