@@ -2,7 +2,7 @@
 global Jplotting;
 Jplotting = [];
 
-[nr, pris, fysufrsm, beskrivning] = read_systembolaget();
+[nr, pris, fysufrsm, beskrivning, forpackning] = read_systembolaget();
 
 figure(1, "name", "Systembolaget");
 clf
@@ -56,7 +56,7 @@ estimated = X * theta;
 % Skriv ut 10 feldiffade varor
 %
 diffs = y - estimated;
-percent_diff = y ./ estimated;
+percent_diff = (estimated - y) ./ estimated;
 
 output = [percent_diff y estimated diffs];
 output_precision(2);
@@ -91,20 +91,24 @@ fwrite(fo, fread(fheader));
 fclose(fheader);
 
 fwrite(fo, "<tr valign=top> \
+<th>Förpackning</th>\n\
 <th>Nr</th>\n\
 <th>Namn</th>\n\
 <th>Pris/flaska</th>\n\
 <th>Uppskattat värde</th>\n\
+<th>Prisskillnad</th>\n\
 <th>Beskrivning</th>\n\
 </tr>");
 
 for i = 1:length(nr)
   fwrite(fo, "<tr valign=top>");
+  fprintf(fo, "<td>%s</td>\n", forpackning{i});
   fprintf(fo, "<td><a href='https://www.systembolaget.se/%s' target='_blank'>%s</a></td>\n", ...
           nr{i, 1}, nr{i, 1});
   fprintf(fo, "<td>%s</td>\n", nr{i, 2});
   fprintf(fo, "<td>%d</td>\n", int32(pris(i)));
   fprintf(fo, "<td>%d</td>\n", int32(estimated(i)));
+  fprintf(fo, "<td>%d%%</td>\n", int32(percent_diff(i)*100));
   fprintf(fo, "<td>%s</td>\n", beskrivning{i});
   fwrite(fo, "</tr>\n");
 endfor

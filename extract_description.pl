@@ -5,7 +5,7 @@ use HTML::Entities;
 
 my $row;
 my @result;
-push @result, join("\t", "nr", "PrisPerLiter", "fyllighet", "stravhet", "fruktsyra", "Namn", "desc");
+push @result, join("\t", "nr", "PrisPerLiter", "fyllighet", "stravhet", "fruktsyra", "Namn", "desc", "Forpackning");
 
 ##
 ## Använd sortiment-filen för att veta vilka filer som kan läsa in.
@@ -74,7 +74,7 @@ while ($row = <IN>) {
 		    $fruktsyra = $1;
 		}
 		
-		push @result, join("\t", $nr, $Namn, $PrisPerLiter, $fyllighet, $stravhet, $fruktsyra, $desc);
+		push @result, join("\t", $nr, $Namn, $PrisPerLiter, $fyllighet, $stravhet, $fruktsyra, $desc, $Forpackning);
 	    } else {
 		print "$nr hittar ingen beskrivning.\n";
 	    }

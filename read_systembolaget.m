@@ -1,5 +1,5 @@
-function [Nr_Namn, PrisPerFlaska, fyllighet_stravhet_fruktsyra_smaker, beskrivning] = ...
-  read_systembolaget()
+function [Nr_Namn, PrisPerFlaska, fyllighet_stravhet_fruktsyra_smaker, ...
+  beskrivning, forpackning] = read_systembolaget()
 % Läser in result.csv och ger tillbaka datat.
 
 %
@@ -20,7 +20,8 @@ endif
 
 if cache_err != -1 && data_info.ctime < cache_info.ctime && ...
    script_err != -1 && script_info.ctime < cache_info.ctime
-   load -binary cache.mat Nr_Namn PrisPerFlaska fyllighet_stravhet_fruktsyra_smaker beskrivning;
+   load -binary cache.mat Nr_Namn PrisPerFlaska ...
+        fyllighet_stravhet_fruktsyra_smaker beskrivning forpackning;
   return;
 endif
 
@@ -31,8 +32,8 @@ endif
 
 wh = waitbar(0);
 
-[nr,Namn,PrisPerLiter,fyllighet,stravhet,fruktsyra,desc] = ...
- textread(filename, "%s\t%s\t%f\t%d\t%d\t%d\t%s", "headerLines", 1, "delimiter", "\t");
+[nr,Namn,PrisPerLiter,fyllighet,stravhet,fruktsyra,desc,forpackning] = ...
+ textread(filename, "%s\t%s\t%f\t%d\t%d\t%d\t%s\t%s", "headerLines", 1, "delimiter", "\t");
 
 PrisPerFlaska = PrisPerLiter .* 0.75;
 
@@ -90,4 +91,5 @@ for i = 1:length(desc)
   beskrivning{i} = row;
 endfor
 
-save -binary cache.mat Nr_Namn PrisPerFlaska fyllighet_stravhet_fruktsyra_smaker beskrivning;
+save -binary cache.mat Nr_Namn PrisPerFlaska ...
+      fyllighet_stravhet_fruktsyra_smaker beskrivning forpackning;
