@@ -56,7 +56,7 @@ estimated = X * theta;
 % Skriv ut 10 feldiffade varor
 %
 diffs = y - estimated;
-percent_diff = (estimated - y) ./ estimated;
+percent_diff = (estimated ./ y) - 1;
 
 output = [percent_diff y estimated diffs];
 output_precision(2);
@@ -96,7 +96,7 @@ fwrite(fo, "<tr valign=top> \
 <th>Namn</th>\n\
 <th>Pris/flaska</th>\n\
 <th>Uppskattat värde</th>\n\
-<th>Prisskillnad</th>\n\
+<th>Prisökning</th>\n\
 <th>Beskrivning</th>\n\
 </tr>");
 
