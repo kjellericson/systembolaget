@@ -1,3 +1,5 @@
+OBS: FUNGERAR INTE LÄNGRE EFTERSOM SYSTEMBOLAGET ÄNDRAT LISTNING AV SORTIMENTET
+
 # systembolaget
 Hämta hem information från Systembolagets sortiment.
 
