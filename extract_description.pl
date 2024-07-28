@@ -2,92 +2,100 @@
 use strict;
 use utf8;
 use HTML::Entities;
+use JSON;
+use Data::Dumper;
 
 my $row;
 my @result;
-push @result, join("\t", "nr", "PrisPerLiter", "fyllighet", "stravhet", "fruktsyra", "Namn", "desc", "Forpackning");
+push @result,
+  join( "\t",
+    "nr",        "PrisPerLiter", "fyllighet", "stravhet",
+    "fruktsyra", "Namn",         "desc",      "Forpackning" );
 
 ##
-## Använd sortiment-filen för att veta vilka filer som kan läsa in.
 ##
-open(IN, "<sortiment.txt");
-while ($row = <IN>) {
-    chomp $row;
+my @files = `find html -type f`;
+for my $filename ( sort @files ) {
+    chomp $filename;
 
-    ##
-    ## Splitta raden enligt Systembolagets beskrivning.
-    ##
-    my ($nr, $Artikelid, $Varnummer, $Namn, $Namn2, $Prisinklmoms, $Pant, $Volymiml, $PrisPerLiter, $Saljstart, $Utgatt, $Varugrupp, $Typ, $Stil, $Forpackning, $Forslutning, $Ursprung, $Ursprunglandnamn, $Producent, $Leverantor, $Argang, $Provadargang, $Alkoholhalt, $Sortiment, $SortimentText, $Ekologisk, $Etiskt, $EtisktEtikett, $Koscher, $RavarorBeskrivning) = split("\t", $row);
+    #    print "open $filename\n";
 
-    ##
-    ## Läs in html-filen om den finns
-    ##
-    my $filename = "html/$nr.html";
-    if (-f $filename) {
-	open(FILE, "<", $filename);
-	my $data = join("", <FILE>);
+    $filename =~ m/(\d+)/;
+    my $id = $1;
+    open( FILE, "<", $filename );
+    my $data = join( "", <FILE> );
+    close(FILE);
 
-	##
-	## Ignorera delar i sortimentet som inte är provat
-	##
-	if ($data !~ m/inte provad av Systembolaget/ &&
-	    $data !~ m/Varan finns i begr/) {
+    #    if ( $data =~ m/<script[^>]+>(\{"props"\}.*)<\/script>/ ) {
+    if ( $data =~ m/<script[^>]+>([^<]*"props".*)<\/script>/ ) {
+        my $content = decode_json($1);
+        my $c       = $$content{props}{pageProps}{fallback};
+        my $found   = 0;
+        my $desc    = $$content{props}{pageProps}{seo}{description};
+        for my $key ( keys %{$c} ) {
+            if ( $key =~ m/ecommerce.*product.*$id/ ) {
+                $found = 1;
+                my $d = $$c{$key};
+                if (   $desc ne ""
+                    && $$d{'categoryLevel2'} eq "Rött vin" )
+                {
 
-	    ##
-	    ## Extrahera beskrivningen
-	    ##
-	    if ($data =~ m/<p class="description ">(.*?)<\/p>/) {
-		my $desc = decode_entities($1);
+                    ##
+                    ## Ta bort onödig beskrivning
+                    ##
+                    $desc =~ s/ Serveras vid .*?(\.|\z)//;
+                    $desc =~ s/([\wåäö]+) och ([\wåäö]+)\.?\z/$1, $2/;
 
-		##
-		## Ta bort onödig beskrivning
-		##
-		$desc =~ s/ Serveras vid .*?(\.|\z)//;
-		$desc =~ s/([\wåäö]+) och ([\wåäö]+)\.?\z/$1, $2/;
+                    ##
+                    ## Ta bort ogiltiga tecken
+                    ##
+                    $desc =~ s/[\t\n\r]/ /g;
 
-		##
-		## Ta bort ogiltiga tecken
-		##
-		$desc =~ s/\t//g;
+                    ##
+                    ## Alla ord efter första "inslag av" har detta som prefix
+                    ##
+                    if ( $desc =~ s/(inslag av )(.*)/$1/ ) {
+                        my $inslag = $2;
+                        $desc .= join( ", inslag av ", split( ", ", $inslag ) );
+                    }
 
-		##
-		## Alla ord efter första "inslag av" har detta som prefix
-		##
-		if ($desc =~ s/(inslag av )(.*)/$1/) {
-		    my $inslag = $2;
-		    $desc .= join(", inslag av ", split(", ", $inslag));
-		}
-		
-		##
-		## Hitta fyllighet, strävhet och fruktsyra
-		##
-		my $fyllighet = -1;
-		if ($data =~ m/smakklocka fyllighet med v..rde (\d+)/) {
-		    $fyllighet = $1;
-		}
-		my $stravhet = -1;
-		if ($data =~ m/smakklocka str..vhet med v..rde (\d+)/) {
-		    $stravhet = $1;
-		}
-		my $fruktsyra = -1;
-		if ($data =~ m/smakklocka fruktsyra med v..rde (\d+)/) {
-		    $fruktsyra = $1;
-		}
-		
-		push @result, join("\t", $nr, $Namn, $PrisPerLiter, $fyllighet, $stravhet, $fruktsyra, $desc, $Forpackning);
-	    } else {
-		print "$nr hittar ingen beskrivning.\n";
-	    }
-	}
-	close(FILE);
+                    # print Dumper($d);
+                    my $fyllighet = -1;
+                    my $stravhet  = -1;
+                    my $fruktsyra = -1;
+                    $fyllighet = $$d{tasteClockBody}
+                      if ( $$d{tasteClockBody} ne "" );
+                    $stravhet = $$d{tasteClockRoughness}
+                      if ( $$d{tasteClockRoughness} ne "" );
+                    $fruktsyra = $$d{tasteClockFruitacid}
+                      if ( $$d{tasteClockFruitacid} ne "" );
+                    push @result, join(
+                        "\t",
+                        $id,
+                        $$d{productNameBold},        #$Namn,
+                        $$d{comparisonPrice} + 0,    #$PrisPerLiter,
+                        $fyllighet,
+                        $stravhet,
+                        $fruktsyra,
+                        $desc,
+                        $$d{packagingLevel1} . "",    #$Forpackning
+                    );
+                }
+            }
+        }
+        if ( $found == 0 && $data =~ m/clock/i ) {
+            print Dumper($c);
+            print "Fail $filename\n";
+            exit(0);
+        }
     }
 }
 
 ##
 ## Spara resultat i en fil.
 ##
-print "Sparar ", $#result +1, " poster i result.csv.\n";
-open(OUT, ">", "result.csv");
-binmode(OUT, ":utf8");
-print OUT join("\n", @result);
+print "Sparar ", $#result + 1, " poster i result.csv.\n";
+open( OUT, ">", "result.csv" );
+binmode( OUT, ":utf8" );
+print OUT join( "\n", @result ), "\n";
 close(OUT);

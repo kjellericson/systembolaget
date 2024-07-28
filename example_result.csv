@@ -1,769 +1,257 @@
 nr	PrisPerLiter	fyllighet	stravhet	fruktsyra	Namn	desc	Forpackning
-7249201	Escada	118.67	7	6	9	Mycket fruktig smak med liten sötma och fatkaraktär, inslag av blåbär, inslag av björnbär, inslag av viol, inslag av mjölkchoklad, inslag av peppar	Flaska
-642008	Apothic Red	93.00	8	6	9	Generöst fruktig smak med fatkaraktär och viss sötma, inslag av plommon, inslag av vanilj, inslag av blåbär, inslag av mjölkchoklad	Box
-7496001	Barbera del Monferrato	145.33	8	8	10	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av örter, inslag av lavendel, inslag av björnbär, inslag av choklad	Flaska
-306501	Château La Bourrée	126.67	10	9	9	Fruktig smak med tydlig rostad fatkaraktär, inslag av plommon, inslag av kakao, inslag av svarta vinbär, inslag av ceder, inslag av blåbär, inslag av kaffe, inslag av vanilj	Flaska
-7599801	Cigarra Gran Passo	118.67	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av plommon, inslag av kryddpeppar, inslag av vanilj	Flaska
-7570701	Castelmare	225.33	10	9	9	Kryddig, nyanserad smak med inslag av mörka körsbär, inslag av choklad, inslag av russin, inslag av vanilj, inslag av kryddnejlika	Flaska
-7642001	Barolo	252.00	8	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av torkade körsbär, inslag av choklad, inslag av rosor, inslag av nypon, inslag av lakrits, inslag av kanel	Flaska
-277101	Oinoz	158.67	10	10	10	Utvecklad, kryddig smak med tydlig fatkaraktär, inslag av plommon, inslag av kakao, inslag av torkade körsbär, inslag av kaffe, inslag av tobak, inslag av vanilj	Flaska
-632801	Ata Rangi	201.33	6	6	9	Kryddig, nyanserad smak med fatkaraktär, inslag av hallon, inslag av jordgubbar, inslag av sandelträ, inslag av ingefära, inslag av kanel, inslag av mynta, inslag av choklad	Flaska
-641801	Jacob's Creek	132.00	10	9	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av mynta, inslag av björnbär, inslag av choklad, inslag av plommon, inslag av kaffe	Flaska
-7659801	Villa Valentina	118.67	7	6	9	Fruktig smak med liten sötma, inslag av fat, inslag av körsbär, inslag av lakrits, inslag av vanilj	Flaska
-274002	Amarone della Valpolicella Classico	253.33	9	9	9	Kryddig, utvecklad smak med fatkaraktär, inslag av russin, inslag av plommon, inslag av kakao, inslag av pinjenötter, inslag av vanilj	Flaska
-252101	Eco Rojo	105.33	7	7	10	Fruktig smak med inslag av björnbär, inslag av mörka körsbär, inslag av skogshallon och  färska örter.	Flaska
-236101	Rigogolo Chianti Riserva	132.00	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av lakrits, inslag av kanel, inslag av choklad, inslag av hallon, inslag av salvia	Flaska
-7912501	Ecoltura	145.33	7	7	10	Kryddig smak med inslag fat, körsbär, russin, choklad, hallon, vanilj	Flaska
-255301	Roquette & Cazes	278.67	10	10	10	Nyanserad smak med fatkaraktär, inslag av björnbär, inslag av mörka körsbär, inslag av lagerblad, inslag av vanilj, inslag av kakao, inslag av peppar	Flaska
-228801	Alva	105.33	8	8	9	Kryddig smak med inslag av fat, inslag av björnbär, inslag av blåbär, inslag av vitpeppar, inslag av rosmarin, inslag av viol, inslag av kakao	Flaska
-1267001	El Coto	113.33	7	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av jordgubbar, inslag av vanilj, inslag av kanel	Flaska
-229801	Domaine des Pasquiers	158.67	9	8	10	Kryddig, nyanserad smak med inslag av björnbär, inslag av svartpeppar, inslag av lagerblad, inslag av skogshallon, inslag av lakritsrot, inslag av blåbär	Flaska
-7278201	Piemonte	145.33	6	6	10	Bärig, nyanserad smak med inslag av blåbär, inslag av viol, inslag av hallon, inslag av färska örter, inslag av anis	Flaska
-7083401	Barrels & Drums	132.00	6	6	9	Kryddig smak med inslag av blåbär, inslag av peppar, inslag av skogshallon, inslag av sötlakrits	Flaska
-7630802	Villa Righetti	186.67	8	8	10	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av tobak, inslag av choklad, inslag av plommon, inslag av vanilj	Flaska
-1651001	Viña Maipo	78.67	6	6	9	Ungdomlig, fruktig smak med inslag av svarta vinbär, inslag av hallon, inslag av lakrits, inslag av örter	Flaska
-661101	Noble Vines 667	145.33	6	5	9	Nyanserad, balanserad smak med fatkaraktär, inslag av jordgubbar, inslag av mynta, inslag av mörka körsbär, inslag av kardemumma, inslag av choklad	Flaska
-272501	Pardelasses	332.00	10	10	10	Smakrikt vin med fatkaraktär, inslag av plommon, inslag av björnbär, inslag av viol, inslag av örter, inslag av kakao, inslag av kryddor, inslag av kaffe	Flaska
-282201	Terra Tangra	92.00	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av mörka körsbär, inslag av kaffe, inslag av kakao	Flaska
-236608	El Gran Botánico	66.33	8	8	9	Mycket fruktig, ungdomlig smak med inslag av blåbär, inslag av viol, inslag av björnbär, inslag av skogshallon, inslag av örter	Box
-200401	Cannonau di Sardegna	158.67	9	8	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av rosor, inslag av pomerans, inslag av kakao, inslag av tobak, inslag av sandelträ, inslag av vitpeppar	Flaska
-203101	Bilogía	116.00	7	7	9	Fruktig, kryddig smak med fatkaraktär, inslag av körsbär, inslag av lagerblad, inslag av björnbär, inslag av kanel, inslag av lakrits	Flaska
-7357001	Ca'Marrone	132.00	9	9	9	Kryddig smak med fatkaraktär, inslag av chokladpraliner, inslag av svartpeppar, inslag av vanilj, inslag av körsbär, inslag av russin	Flaska
-7520801	Pazzione by Pernilla Wahlgren	118.67	6	5	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av mjölkchoklad, inslag av jordgubbar, inslag av vanilj	Flaska
-7554306	Xavier	252.67	8	8	9	Kryddig, nyanserad smak med inslag av björnbär, inslag av örter, inslag av peppar, inslag av hallon, inslag av lakrits, inslag av lagerblad	Magnum
-7301801	Santa Duc	158.67	7	7	9	Kryddig, fruktig smak med inslag av fat, inslag av plommon, inslag av lavendel, inslag av skogshallon, inslag av peppar, inslag av lagerblad	Flaska
-7263801	Casa Nostra	78.67	6	5	9	Fruktig smak med inslag körsbär, sötlakrits, skogshallon, viol	Flaska
-463801	Stellenbosch Reserve	172.00	10	10	10	Fruktig, balanserad smak med tydlig, rostad fatkaraktär, inslag av svarta vinbär, inslag av mörka körsbär, inslag av ceder, inslag av kaffe, inslag av choklad, inslag av kryddor	Flaska
-214001	Misty Cove	198.67	5	5	10	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av ingefära, inslag av körsbär, inslag av nougat, inslag av kryddpeppar, inslag av hallon	Flaska
-645501	Reyneke Vinehugger	109.33	7	7	9	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av svarta vinbär, inslag av skogshallon, inslag av örter, inslag av mjölkchoklad	Flaska
-624201	Murdoch James Estate	212.00	7	6	9	Kryddig, nyanserad smak med fatkaraktär, inslag av plommon, inslag av sandelträ, inslag av ingefära, inslag av jordgubbar, inslag av kanel, inslag av choklad	Flaska
-7178501	Gran Appasso	118.67	9	7	9	Kryddig, fruktig smak med liten sötma, inslag av fat, inslag av russin, inslag av körsbärspraliner, inslag av kryddnejlika, inslag av vanilj	Flaska
-7648501	Borgi	105.33	7	6	9	Fruktig smak med inslag av körsbär, inslag av jordgubbar, inslag av lakrits	Flaska
-464101	Cono Sur	132.00	6	5	10	Kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av choklad, inslag av kanel, inslag av hallon, inslag av lakrits, inslag av örter	Flaska
-3105001	Gutevin	265.33	5	5	11	Bärig smak med fatkaraktär, inslag av blåbär, inslag av slånbär, inslag av vanilj, inslag av örter	Flaska
-233901	Torraccia del Piantavigna	225.33	9	10	10	Mogen, nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av kakao, inslag av nypon, inslag av rosor, inslag av kanel, inslag av pomerans, inslag av nougat	Flaska
-321101	Imago	132.00	8	8	9	Fruktig, ungdomlig smak med inslag av blåbär, inslag av viol, inslag av svarta vinbär, inslag av lakrits, inslag av kryddor, inslag av örter	Flaska
-236802	Langhe Nebbiolo	237.33	9	11	11	Nyanserad, kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av nypon, inslag av rosor, inslag av kakao, inslag av nötter, inslag av ceder, inslag av vanilj	Flaska
-239901	Langhe Rosso	145.33	7	7	10	Kryddig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av sandelträ, inslag av hallon, inslag av kryddnejlika, inslag av pomerans	Flaska
-233408	Ciù Ciù di Bartolomei	79.67	8	8	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av lakrits, inslag av kanel	Box
-360101	Château Quinsac	158.67	9	9	9	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av mörk choklad, inslag av plommon, inslag av kaffe, inslag av ceder	Flaska
-362602	Château Plantier Rose	346.67	10	9	9	Nyanserad, fruktig smak med tydlig rostad fatkaraktär, inslag av svarta vinbär, inslag av kokos, inslag av plommon, inslag av ceder, inslag av kaffe och kakao. Severas vid cirka 18°C till rätter av mörkt kött.	Flaska
-222801	Baron de Saint Jean	145.33	8	8	9	Fruktigt, smakrikt vin med inslag av hallon, inslag av blåbär, inslag av viol, inslag av lakrits, inslag av körsbär och färska örter.	Flaska
-7241301	Grillo	132.00	9	7	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av mörka körsbär, inslag av blåbär, inslag av muskot, inslag av örter och svarta vinbär.	Flaska
-243508	Footsteps	79.67	8	8	9	Fruktig, ungdomlig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av choklad, inslag av smörkola, inslag av vanilj	Box
-279401	Bikandi	118.67	8	8	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av björnbär, inslag av mörka körsbär, inslag av vanilj, inslag av choklad	Flaska
-297401	Ruppertsberger	105.33	5	4	9	Bärig smak med inslag av jordgubbar, inslag av körsbär, inslag av kryddor, inslag av pomerans	Flaska
-7443501	Primo	109.33	7	7	10	Kryddig smak med fatkaraktär, inslag av torkade tranbär, inslag av mjölkchoklad, inslag av pinjenötter, inslag av pomerans	Flaska
-7178401	Chateauneuf-du-Pape	305.33	9	7	9	Kryddigt, smakrikt vin med inslag av hallon, inslag av vitpeppar, inslag av lagerblad, inslag av körsbär, inslag av örter	Flaska
-216301	Tamaral	172.00	10	9	10	Nyanserad smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kokos, inslag av kardemumma, inslag av kaffe, inslag av choklad	Flaska
-244102	Alto	210.67	9	9	9	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av mynta, inslag av plommon, inslag av ceder, inslag av choklad, inslag av kaffe	Flaska
-244208	Sangre de Toro	79.67	7	7	9	Fruktig smak med inslag av fat, inslag av plommon, inslag av lakrits, inslag av björnbär, inslag av kryddor, inslag av viol	Box
-244401	Groot Constantia	198.67	10	8	9	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av björnbär, inslag av örter, inslag av choklad, inslag av svartpeppar, inslag av örter, inslag av körsbär	Flaska
-548901	Mercurey Premier Cru	265.33	5	5	10	Kryddig, nyanserad smak med fatkaraktär, inslag av skogshallon, inslag av kanel, inslag av körsbär, inslag av sandelträ, inslag av pomerans	Flaska
-7569601	Hacienda López de Haro	118.67	7	7	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av svarta vinbär, inslag av choklad, inslag av örter	Flaska
-217401	Dão Outeiro	65.33	8	8	9	Fruktig, kryddig smak med inslag av fat, inslag av björnbär, inslag av rosépeppar, inslag av plommon, inslag av lavendel, inslag av örter, inslag av vanilj	Flaska
-7180201	Corniolo	172.00	10	9	10	Nyanserad, utvecklad smak med fatkaraktär, inslag av svarta vinbär, inslag av korinter, inslag av tobak, inslag av choklad, inslag av lagerblad, inslag av pomerans, inslag av nötter	Flaska
-643001	Lindemans	96.00	7	6	9	Fruktig smak med inslag av svarta vinbär, inslag av björnbär, inslag av örter, inslag av lakrits	PET-flaska
-7550601	Grande Alberone	118.67	8	7	9	Kryddig smak med fatkaraktär, inslag av katrinplommon, inslag av mintchoklad, inslag av kaffe, inslag av vanilj	Flaska
-7460401	Châteauneuf-du-Pape	238.67	8	8	9	Kryddig smak med inslag av fat, inslag av hallon, inslag av vitpeppar, inslag av mörka körsbär, inslag av kanel, inslag av lagerblad	Flaska
-601101	Robert Mondavi	166.67	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av plommon, inslag av mynta, inslag av mörka körsbär, inslag av svartpeppar, inslag av vanilj	Flaska
-620301	Chateau Ste Michelle	172.00	10	9	9	Fruktig, balanserad smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av svarta vinbär, inslag av kakao, inslag av plommon, inslag av vanilj	Flaska
-681601	The Great Bonza	105.33	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av mörka bär, inslag av plommon, inslag av pepparmynta, inslag av choklad, inslag av lakrits	Flaska
-1235701	Brunello di Montalcino	372.00	9	9	10	Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, inslag av ceder, inslag av torkade tranbär, inslag av kakao, inslag av nypon, inslag av kanel, inslag av salvia	Flaska
-280401	Alamos	145.33	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av choklad, inslag av plommon, inslag av kaffe, inslag av peppar, inslag av vanilj	Flaska
-7419001	Masi Bell'Ovile	153.33	8	7	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av mörka körsbär, inslag av lavendel, inslag av choklad, inslag av örter	Flaska
-231501	Donovan-Parke	145.33	6	5	9	Kryddig smak med rostad fatkaraktär, inslag av jordgubbar, inslag av nougat, inslag av körsbär, inslag av sandelträ, inslag av örter, inslag av vanilj	Flaska
-214301	Sense Cap	105.33	7	7	9	Ungdomlig, fruktig smak med inslag av hallon, inslag av viol, inslag av körsbär, inslag av mynta, inslag av lakrits, inslag av kryddor	Flaska
-687401	Canepa Famiglia	105.33	8	8	9	Fruktig smak med inslag av svarta vinbär, inslag av ceder, inslag av blåbär, inslag av örter, inslag av lakrits	Flaska
-244501	Chill Out	79.00	7	7	9	Mycket fruktig smak med inslag av fat, inslag av körsbär, inslag av björnbär, inslag av choklad, inslag av kryddor, inslag av plommon	PET-flaska
-363501	Mas Sinén Negre	265.33	10	10	10	Smakrikt vin med rostad fatkaraktär, inslag av mörka körsbär, inslag av örter, inslag av svartpeppar, inslag av plommon, inslag av kaffe, inslag av svarta oliver, inslag av kakao	Flaska
-7900001	Amarone della Valpolicella	305.33	10	8	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av romrussin, inslag av vanilj, inslag av choklad	Flaska
-7653501	Piemonte Barbera	132.00	9	7	9	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av vanilj, inslag av blåbärssylt, inslag av mynta, inslag av hallon	Flaska
-237601	Quercia al Poggio	185.33	9	9	10	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av nougat, inslag av hallon, inslag av vanilj	Flaska
-233601	La Fontanina	532.00	11	10	10	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av chokladpraliner, inslag av ceder, inslag av pomerans, inslag av vanilj	Flaska
-7837501	Jacob's Creek	200.00	10	9	9	Generöst fruktig smak med tydlig fatkaraktär, inslag av björnsbärssylt, inslag av choklad, inslag av vanilj, inslag av lakrits, inslag av plommon	Flaska
-7572201	Barbera d'Alba	145.33	7	6	10	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av blåbär, inslag av örter, inslag av lakrits, inslag av hallon	Flaska
-7837701	Barbera	105.33	8	8	10	Kryddig smak med fatkaraktär, inslag av blåbär, inslag av körsbär, inslag av salvia, inslag av russin och svart te.	Flaska
-7180501	Valpolicella Ripasso	145.33	8	7	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av kryddnejlika, inslag av hallon, inslag av kanel, inslag av vanilj	Flaska
-1236301	Amarone Classico	278.67	9	9	9	Kryddig, aningen utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av choklad, inslag av nougat, inslag av russin, inslag av kanel	Flaska
-7861401	Bourgogne	198.67	4	4	10	Bärig smak med inslag av fat, inslag av hallon, inslag av lingon, inslag av muskot, inslag av örter	Flaska
-1236601	Capitel de'Roari	260.00	10	10	10	Kryddig, aningen utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av salvia, inslag av romrussin, inslag av kryddpeppar, inslag av kanel, inslag av kakao	Flaska
-7203201	Vanitá	109.33	8	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av björnbär, inslag av hallon, inslag av vanilj och mynta. 	Flaska
-1269701	Torres Gran Coronas	145.33	9	8	9	Fruktig, aningen utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av choklad, inslag av mörka körsbär, inslag av korinter, inslag av tobak	Flaska
-7851101	Tom Legend	132.00	8	6	8	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av björnbär, inslag av vanilj, inslag av jordgubbar, inslag av mynta, inslag av choklad	Flaska
-1260101	Conde de Valdemar	198.67	9	8	9	Utvecklad, kryddig, nyanserad smak med fatkaraktär, inslag av torkad frukt, inslag av dill, inslag av korinter, inslag av tobak, inslag av kakao	Flaska
-285201	Château Pineraie	141.33	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av blåbär, inslag av örter, inslag av hallon, inslag av kakao, inslag av svarta vinbär, inslag av lagerblad, inslag av peppar	Flaska
-307101	Château Capbern Gasqueton	372.00	9	9	9	Nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av kaffe, inslag av plommon, inslag av choklad, inslag av svart te, inslag av ceder	Flaska
-233401	Ciù Ciù di Bartolomei	105.33	8	8	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av lakrits, inslag av kanel	Flaska
-7882501	Côtes-du-Rhône Villages	145.33	8	8	9	Kryddig, fruktig smak med inslag av skogshallon, inslag av kryddpeppar, inslag av mörka körsbär, inslag av lagerblad, inslag av örter	Flaska
-313401	Domaine Laougué	114.67	9	10	10	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av kaffe, inslag av rosépeppar, inslag av slånbär, inslag av björnbär, inslag av kakao	Flaska
-7270401	Espiritu de Chile	105.33	7	7	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av vanilj, inslag av skogshallon, inslag av lakrits, inslag av örter	Flaska
-310401	Alma do Tejo	92.00	6	6	9	Fruktig, kryddig smak med inslag av björnbär, inslag av viol, inslag av blåbär, inslag av oregano	Flaska
-464201	Yellow Tail	105.33	6	5	8	Mycket fruktig smak med inslag av mörka bär, inslag av sötlakrits	Flaska
-464301	JP Chenet	92.00	4	4	8	Bärig smak med inslag av skogshallon, inslag av blåbär, inslag av lakrits	Flaska
-464304	JP Chenet	120.00	4	4	8	Bärig smak med inslag av skogshallon, inslag av blåbär, inslag av lakrits	Flaska
-464501	Dark Horse	118.67	8	6	8	Generöst fruktig smak med inslag av fat, inslag av blåbärssylt, inslag av björnbär, inslag av mynta, inslag av peppar, inslag av vanilj	Flaska
-7354601	Massimo	89.00	7	7	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av kryddnejlika, inslag av russin, inslag av smörkola	Flaska
-7010901	Mille 1	198.67	9	8	10	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av mörka körsbär, inslag av skogshallon, inslag av choklad	Flaska
-7934201	Gran Real	52.00	7	7	10	Fruktig, något kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av korinter, inslag av kakao, inslag av vanilj	Flaska
-7366101	Borgogno	358.67	8	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av nypon, inslag av tobak, inslag av kanel, inslag av pomerans, inslag av sandelträ	Flaska
-204701	Highland Heritage Estate	132.00	5	5	10	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, inslag av jordgubbar, inslag av sandelträ, inslag av lingon, inslag av kanel, inslag av mineral	Flaska
-7072501	Brancaia	198.67	8	8	10	Nyanserad, kryddig smak med inslag av körsbär, inslag av kryddnejlika, inslag av hallon, inslag av salvia	Flaska
-7636501	Prescription	132.00	7	5	8	Mycket fruktig smak med fatkaraktär, inslag av blåbärssylt, inslag av mynta, inslag av skogshallon, inslag av vanilj	Flaska
-689401	Hope	105.33	9	8	9	Fruktig, kryddig smak med inslag av fat, inslag av björnbär, inslag av lavendel, inslag av lakrits, inslag av peppar, inslag av hallon, inslag av plommon	Flaska
-628601	Kings Ridge	212.00	5	5	10	Kryddig, bärig smak med fatkaraktär, inslag av körsbär, inslag av skogshallon, inslag av sandelträ, inslag av örter, inslag av kanel, inslag av vanilj	Flaska
-271901	Zola	92.00	8	7	9	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av kryddor, inslag av choklad, inslag av plommon, inslag av kaffe	Flaska
-221302	Domaine du Grand Montmirail	266.67	9	9	9	Balanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av mynta, inslag av hallon, inslag av tobak, inslag av ceder, inslag av örter	Flaska
-272201	Eger	93.33	7	7	9	Fruktig smak med inslag av körsbär, inslag av kryddnejlika, inslag av blåbär, inslag av lakrits	Flaska
-238808	Monlusso	83.00	7	7	9	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av plommon, inslag av viol, inslag av örter	Box
-561901	Rully Premier Cru Cuvée Signature	252.00	6	5	9	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av skogshallon, inslag av choklad, inslag av örter, inslag av jordgubbar	Flaska
-549101	La Dame de Malescot	398.67	9	9	9	Komplex smak med rostad fatkaraktär, inslag av plommon, inslag av tobak, inslag av svarta vinbär, inslag av kaffe, inslag av kardemumma, inslag av kakao, inslag av ceder	Flaska
-1238501	Zenato	184.00	8	7	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av kardemumma, inslag av mynta, inslag av plommon, inslag av choklad	Flaska
-315601	Château Haut Brandey	158.67	8	8	10	Fruktig smak med inslag av svarta vinbär, inslag av körsbär, inslag av ceder, inslag av blåbär, inslag av örter	Flaska
-237401	Alta Mora	206.67	8	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av kryddnejlika, inslag av kanel, inslag av jordgubbar, inslag av choklad, inslag av mineral, inslag av sandelträ	Flaska
-7419201	Victoria	133.33	8	7	9	Mycket fruktig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av mjölkchoklad, inslag av kaffe, inslag av vanilj	Flaska
-7130001	Anciano	118.67	7	7	9	Mogen, kryddig smak med tydlig fatkaraktär, inslag av torkade körsbär, inslag av vanilj, inslag av korinter, inslag av mjölkchoklad, inslag av kaffe	Flaska
-7361901	Roccamozzi	118.67	8	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av blåbär, inslag av färska örter, inslag av peppar, inslag av lakrits	Flaska
-7909701	Brigaldara	185.33	7	7	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av vanilj, inslag av skogshallon, inslag av mjölkchoklad, inslag av peppar	Flaska
-7985201	57 on Main	132.00	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av skogshallon, inslag av choklad, inslag av viol, inslag av vanilj	Flaska
-7910701	Cashmere	172.00	10	8	9	Mycket fruktig, kryddig smak med fatkaraktär, inslag av plommon, inslag av choklad, inslag av fikon, inslag av björnbär, inslag av vanilj, inslag av kokos	Flaska
-7218101	Barolo	526.67	9	11	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av rosor, inslag av nougat, inslag av svart te, inslag av pomerans, inslag av kanel	Flaska
-464608	Bosman	73.00	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av plommon, inslag av choklad, inslag av svarta vinbär, inslag av lakrits och vanilj. 	Box
-683301	Santa Inés	92.00	7	7	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av örter, inslag av plommon, inslag av lagerblad, inslag av lakrits	Flaska
-220501	Errazuriz Estate Series	118.67	9	9	10	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av färska örter, inslag av choklad, inslag av kaffe, inslag av vanilj, inslag av ceder	Flaska
-657101	Santa Ana Classic	92.00	8	8	9	Fruktig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av färska örter, inslag av körsbär, inslag av vanilj	Flaska
-7026801	Maison Robert Olivier	145.33	7	7	10	Fruktig smak med inslag av svarta vinbär, inslag av örter, inslag av blåbär, inslag av ceder, inslag av slånbär	Flaska
-280701	Arniston Bay	74.67	7	7	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kanel, inslag av kaffe, inslag av choklad	Flaska
-7144106	Mandrarossa Timperosse	166.00	8	7	10	Fruktig smak med inslag av fat, inslag av blåbär, inslag av mörka körsbär, inslag av peppar, inslag av basilika, inslag av lakrits, inslag av skogshallon	Magnum
-686801	WaraWara	158.67	10	8	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av svarta vinbär, inslag av mörk choklad, inslag av ceder, inslag av plommon, inslag av kaffe, inslag av mynta	Flaska
-7260001	Côtes-du-Rhône	145.33	8	8	9	Kryddig smak med inslag av fat, inslag av plommon, inslag av blåbär, inslag av svartpeppar, inslag av lagerblad, inslag av hallon, inslag av lakritsrot	Flaska
-216608	Castelrosso	76.33	7	6	9	Fruktig smak med inslag av fat, inslag av blåbär, inslag av choklad, inslag av körsbär, inslag av kanel, inslag av örter	Box
-7681101	Amicone	172.00	9	8	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av kryddnejlika, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-237708	Levante	59.67	6	6	9	Fruktig smak med inslag av körsbär, inslag av mörka bär, inslag av örter, inslag av lakrits	Box
-535501	Sivas-Sonoma	252.00	5	5	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av kryddnejlika, inslag av jordgubbar, inslag av choklad, inslag av hallon, inslag av kaffe, inslag av mynta	Flaska
-499601	The City Runner	105.33	9	8	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av vanilj, inslag av lakrits	Flaska
-226101	Anciano	92.00	7	7	9	Fruktig smak med inslag av fat, inslag av blåbär, inslag av skogshallon, inslag av örter, inslag av vanilj	Flaska
-549301	Beaujolais Villages	132.00	4	4	10	Bärig, nyanserad smak med inslag av hallon, inslag av örter, inslag av körsbär, inslag av blåbär, inslag av muskot, inslag av viol	Flaska
-208401	Quinta do Cachão	158.67	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av björnbär, inslag av lagerblad, inslag av lavendel, inslag av plommon, inslag av mörka körsbär, inslag av peppar, inslag av choklad	Flaska
-7897701	Crozes-Hermitage	220.00	8	8	9	Kryddig, nyanserad smak med inslag av fat, inslag av björnbär, inslag av peppar, inslag av lagerblad, inslag av lakrits, inslag av ceder, inslag av hallon	Flaska
-230301	Il Sasso	265.33	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av viol, inslag av svarta oliver, inslag av choklad, inslag av ceder, inslag av kaffe, inslag av lakrits	Flaska
-7238901	Castelgufo	132.00	7	7	9	Kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av kanel, inslag av jordgubbar, inslag av nougat, inslag av lagerblad	Flaska
-7585401	L'Affarone	118.67	8	6	9	Mycket fruktig smak med liten sötma, inslag av fat, inslag av körsbärspraliner, inslag av kryddor, inslag av russin, inslag av vanilj	Flaska
-230601	Rosso di Montalcino	212.00	9	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av jordgubbar, inslag av rosor, inslag av kanel, inslag av rosmarin och kakao. 	Flaska
-271208	Castillo La Mancha	63.00	7	7	9	Mycket, fruktig smak med inslag av fat, inslag av mörka bär, inslag av plommon, inslag av vanilj och choklad. 	Box
-287501	Saint-Joseph	278.67	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av plommon, inslag av eneträ, inslag av blåbär, inslag av peppar, inslag av muskot, inslag av vanilj, inslag av lakrits	Flaska
-7528501	Villarini	132.00	7	6	9	Fruktig smak med fatkaraktär, inslag av körsbär, inslag av plommon, inslag av mintchoklad, inslag av hallon, inslag av vanilj	Flaska
-7668601	Ca'Marrone	166.67	9	9	9	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av choklad, inslag av pomerans, inslag av romrussin, inslag av kanel	Flaska
-7036901	High Kick King	132.00	8	7	9	Mycket fruktig smak med liten sötma, inslag av fat, inslag av mörka körsbär, inslag av russin, inslag av kryddor, inslag av mogna jordgubbar, inslag av vanilj	Flaska
-7275001	Fortellino	132.00	9	8	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av skogshallon, inslag av nougat, inslag av sötlakrits, inslag av vanilj	Flaska
-7418901	Zecci	172.00	8	8	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av salvia, inslag av kanel, inslag av vanilj	Flaska
-7341501	Prohibition Bootleg	118.67	6	4	8	Mycket fruktig smak med sötma, inslag av hallon, inslag av mynta, inslag av jordgubbssylt	Flaska
-7529401	Villa Puccini	132.00	9	7	9	Fruktig, kryddig smak med fatkaraktär, inslag av korinter, inslag av choklad, inslag av torkade körsbär, inslag av viol, inslag av sötlakrits	Flaska
-1261501	Viña Herminia	113.33	5	5	9	Bärig, aningen kryddig smak med inslag av blåbär, inslag av skogshallon, inslag av lakrits, inslag av örter	Flaska
-2231001	Lambrusco Reggiano	80.00	5	-1	8	Något spritsigt vin med ungdomlig, bärig smak med sötma, inslag av blåbär, inslag av körsbär, inslag av mandel och örter. Serveras kyld som sällskapsdryck.	Flaska
-1655401	Trapiche	118.67	8	8	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av choklad, inslag av peppar, inslag av korinter, inslag av örter, inslag av vanilj	Flaska
-1252001	Dão	77.33	8	7	9	Kryddig smak med inslag av blåbär, inslag av kryddpeppar, inslag av lagerblad, inslag av körsbär, inslag av örter	Flaska
-2265201	Navajas	118.67	9	8	9	Kryddig, utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av korinter, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-1280808	JP Chenet	66.33	4	4	9	Bärig smak med inslag av skogshallon, inslag av svarta vinbär, inslag av lakrits, inslag av örter	Box
-2235001	Tommasi	393.33	10	9	9	Kryddig, nyanserad smak med liten sötma, inslag av fat, inslag av torkade körsbär, inslag av romrussin, inslag av nötter, inslag av vanilj, inslag av choklad	Flaska
-679202	Campolieti	170.67	8	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av russin, inslag av choklad, inslag av kaffe, inslag av kanel, inslag av vanilj	Flaska
-203701	Gran Feudo	132.00	8	8	9	Kryddig smak med rostad fatkaraktär, inslag av körsbär, inslag av blåbär, inslag av kaffe, inslag av kanel, inslag av peppar	Flaska
-206601	Jacob's Creek	105.33	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av björnbär, inslag av lakrits, inslag av örter, inslag av peppar	Flaska
-207701	Copertino	112.00	7	7	10	Mogen, kryddig smak med inslag av torkade körsbär, inslag av nypon, inslag av tobak, inslag av pomerans, inslag av läder	Flaska
-1267002	El Coto	125.33	7	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av jordgubbar, inslag av vanilj, inslag av kanel	Flaska
-1275501	Torres San Valentín	105.33	5	4	9	Ungdomlig, bärig smak med inslag av körsbär, inslag av blåbär, inslag av sötlakrits	Flaska
-645002	Novas Gran Reserva	157.33	10	9	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av blåbär, inslag av plommon, inslag av lakrits, inslag av mörk choklad, inslag av vanilj	Flaska
-645001	Novas Gran Reserva	132.00	10	9	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av blåbär, inslag av plommon, inslag av lakrits, inslag av mörk choklad, inslag av vanilj	Flaska
-7241101	Ecoltura	132.00	8	8	9	Kryddig, fruktig smak med inslag av russin, inslag av kanel, inslag av plommon, inslag av pinjenötter	Flaska
-1632001	Penfolds Kalimna Bin 28	318.67	10	10	10	Smakrikt, mycket fruktigt vin med tydlig rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av eukalyptus, inslag av svartpeppar, inslag av vanilj och mörk choklad.	Flaska
-268602	Torres Gran Sangre de Toro	146.67	8	8	9	Kryddig smak med fatkaraktär, inslag av plommon, inslag av mörka körsbär, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-1667601	Sunrise	86.67	6	5	9	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av svarta vinbär, inslag av körsbär, inslag av lakrits, inslag av gräs	Flaska
-395801	Château de Seguin	132.00	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av choklad, inslag av plommon, inslag av ceder	Flaska
-756408	Gato Negro	65.67	6	6	9	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, inslag av björnbär och grön paprika.	Box
-234401	Fantini	105.33	7	6	9	Fruktig smak med inslag av mörka körsbär, inslag av kryddor, inslag av björnbär, inslag av lakrits	Flaska
-1279701	Castillo de Gredos	66.00	4	4	9	Bärig smak med inslag av körsbär, inslag av blåbär, inslag av kryddor	Papp
-1237801	Prego Rosso	65.00	5	4	9	Bärig smak med inslag av körsbär, inslag av blåbär, inslag av örter	Papp
-2266201	Faustino VII	109.33	7	7	9	Kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av tobak, inslag av korinter, inslag av vanilj	Flaska
-230001	Villa Antinori	200.00	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av svarta vinbär, inslag av tobak, inslag av choklad, inslag av kaffe	Flaska
-230501	Barolo	358.67	9	10	10	Kryddig, nyanserad smak med fatkaraktär, inslag av torkade körsbär, inslag av kakao, inslag av rosor, inslag av salvia, inslag av nougat, inslag av pomerans, inslag av nypon	Flaska
-1236602	Capitel de'Roari	266.67	10	10	10	Kryddig, aningen utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av salvia, inslag av romrussin, inslag av kryddpeppar, inslag av kanel, inslag av kakao	Flaska
-231001	Ruffino	118.67	5	5	9	Bärig smak med inslag av hallon, inslag av körsbär, inslag av kryddor, inslag av lakrits	Flaska
-231002	Ruffino	130.67	5	5	9	Bärig smak med inslag av hallon, inslag av körsbär, inslag av kryddor, inslag av lakrits	Flaska
-201001	Cacadu Ridge	100.00	7	7	9	Fruktig smak med inslag av fat, inslag av blåbär, inslag av viol, inslag av svarta vinbär, inslag av lakrits och färska örter.	Flaska
-277301	Briccotondo	118.67	7	7	10	Fruktig smak med inslag av fat, inslag av blåbär, inslag av örter, inslag av hallon, inslag av vanilj	Flaska
-270501	Brolio	172.00	9	9	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av rosmarin, inslag av kakao, inslag av hallon, inslag av vanilj	Flaska
-272701	Cappello di Prete	118.67	7	7	10	Kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av rosmarin, inslag av choklad	Flaska
-1236302	Amarone Classico	290.67	9	9	9	Kryddig, aningen utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av choklad, inslag av nougat, inslag av russin, inslag av kanel	Flaska
-234501	Masi	398.67	11	10	10	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av örter, inslag av sandelträ, inslag av romrussin, inslag av och kakao.	Flaska
-2267401	Viña Albali	92.00	6	6	9	Kryddig, utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av lagerblad, inslag av nypon, inslag av vanilj	Flaska
-270801	Azabache	118.67	7	6	10	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av örter, inslag av skogshallon, inslag av peppar, inslag av choklad	Flaska
-2267901	Señorío de los Llanos	92.00	7	7	9	Kryddig, utvecklad smak med fatkaraktär, inslag av torkad frukt, inslag av kanel, inslag av nötter, inslag av choklad	Flaska
-8319201	Chambolle-Musigny	1465.33	5	5	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av hallon, inslag av choklad, inslag av lakritsrot, inslag av sandelträ	Flaska
-261201	Marqués de Murrieta	206.67	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av choklad, inslag av plommon, inslag av kanel, inslag av dill, inslag av vanilj	Flaska
-682308	Rosemount	66.33	5	4	9	Fruktig smak med inslag av blåbär, inslag av björnbär, inslag av lakrits, inslag av vanilj	Box
-241901	Serego Alighieri Vaio Armaron	532.00	11	10	10	Komplex, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av katrinplommon, inslag av choklad, inslag av nötter, inslag av fikon	Flaska
-2600101	Ravenswood	158.67	8	6	8	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av lakrits, inslag av hallon, inslag av vanilj, inslag av svartpeppar	Flaska
-2262001	Bonterra	185.33	9	8	9	Generöst fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av björnbär, inslag av svartpeppar, inslag av mynta, inslag av vanilj	Flaska
-252501	Baron de Ley	158.67	9	9	9	Nyanserad, kryddig, utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av choklad, inslag av kanel, inslag av korinter, inslag av dill	Flaska
-694208	Rawson's Retreat	86.33	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av eukalyptus, inslag av björnbär, inslag av vanilj	Box
-3993601	Högberga	265.33	7	6	8	Fruktig smak med inslag av fat, inslag av plommon, inslag av björnbär, inslag av lakrits, inslag av vanilj	Flaska
-257301	Marqués de Riscal	198.67	9	9	9	Utvecklad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av korinter, inslag av dill, inslag av kanel, inslag av tobak och mörk choklad.	Flaska
-257401	Periquita	105.33	6	6	9	Kryddig smak med inslag av mörka körsbär, inslag av björnbär, inslag av muskot, inslag av och örter.	Flaska
-685301	Adobe	105.33	6	6	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av färska örter, inslag av hallon, inslag av lakrits	Flaska
-262001	La Revedere	92.00	4	3	8	Bärig smak med liten sötma, inslag av skogsbär, inslag av vanilj, inslag av örter	Flaska
-273401	Marqués de Cáceres	118.67	8	8	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av kanel, inslag av vanilj	Flaska
-699802	Masi	162.67	6	5	9	Bärig smak med inslag av skogshallon, inslag av svarta vinbär, inslag av lakrits, inslag av örter	Flaska
-601808	Côtes-du-Rhône	93.00	7	6	9	Kryddig smak med inslag av björnbär, inslag av viol, inslag av peppar, inslag av lakrits	Box
-730601	Langhe	220.00	8	10	10	Nyanserad, kryddig smak med inslag av fat, inslag av torkade tranbär, inslag av kakao, inslag av nypon, inslag av kryddnejlika, inslag av läder	Flaska
-8125401	Poggio Teo	225.33	9	9	10	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, inslag av salvia, inslag av tranbär, inslag av pinjenötter, inslag av choklad, inslag av pomerans	Flaska
-3236402	Mauro	106.67	7	7	9	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av björnbär, inslag av vanilj	Flaska
-221101	Domaine du Vieux Lazaret	292.00	8	8	9	Kryddig, nyanserad smak med inslag av fat, inslag av jordgubbar, inslag av lagerblad, inslag av peppar, inslag av hallon	Flaska
-2266202	Faustino VII	122.67	7	7	9	Kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av tobak, inslag av korinter, inslag av vanilj	Flaska
-267801	Faustino I	246.67	8	8	9	Nyanserad, utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av nougat, inslag av kanel, inslag av peppar, inslag av lagerblad, inslag av vanilj	Flaska
-268601	Torres Gran Sangre de Toro	132.00	8	8	9	Kryddig smak med fatkaraktär, inslag av plommon, inslag av mörka körsbär, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-227001	Le Bistro	105.33	6	5	9	Bärig, ungdomlig smak med inslag björnbär, svarta vinbär, lakrits, örter	Flaska
-745108	Roodeberg	86.33	8	6	9	Fruktig smak med inslag av fat, inslag av hallon, inslag av björnbär, inslag av lakrits	Box
-613908	Ramos	83.00	8	7	9	Fruktig smak med inslag av plommon, inslag av kryddor, inslag av hallon, inslag av lakrits	Box
-500301	Beaujolais-Villages	118.67	4	4	9	Ungdomlig, bärig smak med inslag av blåbär, inslag av skogshallon, inslag av viol, inslag av jordgubbar	Flaska
-227601	Madai	132.00	8	7	9	Smakrikt, fruktigt vin med inslag av björnbär, inslag av viol, inslag av mörka körsbär, inslag av färska örter, inslag av lakrits, inslag av peppar, inslag av hallon	Flaska
-208101	Org de Rac	185.33	9	9	9	Nyanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av körsbär, inslag av ceder, inslag av choklad, inslag av kryddor, inslag av mynta	Flaska
-271001	Marqués de Arienzo	172.00	9	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av plommon, inslag av vanilj, inslag av kaffe	Flaska
-271002	Marqués de Arienzo	184.00	9	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av plommon, inslag av vanilj, inslag av kaffe	Flaska
-651901	Sunrise	86.67	7	7	9	Mycket fruktig, ungdomlig smak med inslag av mörka bär, inslag av lakrits och grön paprika.	Flaska
-653201	Santa Helena	74.67	6	6	9	Fruktig smak med inslag av svarta vinbär, inslag av lakrits, inslag av björnbär, inslag av örter	Flaska
-512306	Masi Campofiorin	170.00	7	7	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av korinter, inslag av blåbär, inslag av choklad, inslag av tranbär	Magnum
-296204	Casillero del Diablo	120.00	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av örter	Flaska
-1215701	Foot of Africa	105.33	8	6	9	Mycket fruktig, något rökig smak med inslag av fat, inslag av  björnbär, inslag av svarta vinbär, inslag av vanilj	Flaska
-1667604	Sunrise	100.00	6	5	9	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av svarta vinbär, inslag av körsbär, inslag av lakrits, inslag av gräs	Flaska
-278601	Campo Viejo	105.33	6	6	9	Kryddig smak med inslag av fat, inslag av mörka bär, inslag av dill, inslag av kanel, inslag av vanilj	Flaska
-631201	Elvis The King	145.33	8	6	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av drottningssylt, inslag av vanilj, inslag av lakrits	Flaska
-658101	Cameleon	118.67	7	6	9	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av lakrits, inslag av björnbär, inslag av viol, inslag av örter	Flaska
-658102	Cameleon	130.67	7	6	9	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av lakrits, inslag av björnbär, inslag av viol, inslag av örter	Flaska
-202601	Meerlust	332.00	9	9	9	Balanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av tobak, inslag av kakao, inslag av torkade körsbär, inslag av rosmarin	Flaska
-1601501	Saint Clair	172.00	5	5	10	Kryddig smak med rostad fatkaraktär, inslag av skogshallon, inslag av körsbär, inslag av ingefära, inslag av pomerans, inslag av vanilj	Flaska
-659701	Gnarly Head	145.33	7	6	9	Generöst fruktig smak med inslag av fat, inslag av blåbärsylt, inslag av plommon, inslag av kryddpeppar, inslag av mynta, inslag av vanilj	Flaska
-645101	AUSSIE Kangarouge	69.00	6	5	9	Ungdomlig, fruktig smak med inslag av björnbär, inslag av sötlakrits	Papp
-281106	Château Mont-Redon	343.33	9	9	9	Kryddig, balanserad smak med inslag av fat, inslag av björnbär, inslag av vitpeppar, inslag av lagerblad, inslag av körsbär, inslag av lavendel, inslag av eneträ	Magnum
-281102	Château Mont-Redon	370.67	9	9	9	Kryddig, balanserad smak med inslag av fat, inslag av björnbär, inslag av vitpeppar, inslag av lagerblad, inslag av skogshallon, inslag av lavendel, inslag av eneträ	Flaska
-206602	Jacob's Creek	125.33	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av björnbär, inslag av lakrits, inslag av örter, inslag av peppar	Flaska
-532801	Monti Garbi	158.67	7	6	10	Kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av kryddnejlika, inslag av hallon, inslag av vanilj, inslag av kanel	Flaska
-532902	Delitia	266.67	8	-1	9	Kryddig, söt smak med inslag av fat, inslag av blåbär, inslag av plommon, inslag av salvia, inslag av choklad, inslag av vanilj	Flaska
-1230008	Barone Ricasoli	76.33	7	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av färska örter, inslag av blåbär, inslag av vanilj	Box
-7344501	Château La Grave à Pomerol	798.67	9	9	9	Komplex, utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av mörk choklad, inslag av tobak, inslag av ceder	Flaska
-395806	Château de Seguin	132.67	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av choklad, inslag av plommon, inslag av ceder	Magnum
-238601	Masi	105.33	5	4	9	Ungdomlig, bärig smak med inslag av körsbär, inslag av björnbär, inslag av örter	Flaska
-512302	Masi Campofiorin	178.67	7	7	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av korinter, inslag av blåbär, inslag av choklad, inslag av tranbär	Flaska
-221102	Domaine du Vieux Lazaret	304.00	8	8	9	Kryddig, nyanserad smak med inslag av fat, inslag av jordgubbar, inslag av lagerblad, inslag av peppar, inslag av lagerblad, inslag av hallon	Flaska
-1279708	Castillo de Gredos	53.00	4	4	9	Bärig smak med inslag av körsbär, inslag av blåbär, inslag av kryddor	Box
-270502	Brolio	210.67	9	9	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av rosmarin, inslag av kakao, inslag av hallon, inslag av vanilj	Flaska
-223301	Château Pech-Latt	145.33	9	9	10	Fruktig smak med inslag av fat, inslag av blåbär, inslag av örter, inslag av björnbär, inslag av svarta oliver, inslag av vanilj	Flaska
-296201	Casillero del Diablo	105.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av örter	Flaska
-296202	Casillero del Diablo	106.67	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av örter	Flaska
-247301	Foot of Africa	105.33	9	9	9	Mycket fruktig smak med fatkaraktär,  inslag av svarta vinbär, inslag av mynta, inslag av plommon, inslag av choklad, inslag av blåbär, inslag av peppar	Flaska
-297101	Sister's Run Old Testament	118.67	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av örter, inslag av choklad, inslag av fikon, inslag av peppar, inslag av vanilj	Flaska
-220701	Trivento Golden Reserve	158.67	10	10	10	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av viol, inslag av plommon, inslag av choklad, inslag av björnbär och svarta oliver.	Flaska
-266801	Mantra	145.33	6	5	9	Nyanserad, kryddig smak med inslag av fat, inslag av körsbär, inslag av skogshallon, inslag av nougat, inslag av kanel, inslag av sandelträ, inslag av örter	Flaska
-8253101	Bouchard Aîné	113.33	6	5	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av hallon, inslag av färska örter, inslag av sandelträ	Flaska
-237501	Casaloste	225.33	9	9	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av tobak, inslag av kakao, inslag av salvia, inslag av korinter, inslag av pinjenötter	Flaska
-299301	Sant 'Ilarione	118.67	8	8	10	Kryddig, nyanserad smak med fatkaraktär, inslag av korinter, inslag av tobak, inslag av körsbär, inslag av choklad, inslag av kanel, inslag av apelsinskal	Flaska
-266501	Roccamozzi	132.00	8	8	9	Fruktig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av örter, inslag av choklad, inslag av skogshallon, inslag av lakrits	Flaska
-273208	Montes	79.67	9	9	9	Smakrikt, fruktigt vin med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kryddpeppar, inslag av färska örter, inslag av kaffe, inslag av choklad	Box
-458608	Rocca di Montemassi	83.00	7	7	10	Fruktig smak med inslag av fat, inslag av körsbär, inslag av lakrits, inslag av pomerans, inslag av jordgubbar	Box
-232201	il Conte	92.00	6	5	9	Mycket fruktig smak med inslag av fat, inslag av körsbär, inslag av lavendel, inslag av blåbär, inslag av sötlakrits	Flaska
-235501	Valle Reale	132.00	6	6	10	Kryddig, fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av salvia, inslag av korinter, inslag av choklad ocj vanilj.	Flaska
-230402	Domìni Veneti	424.00	8	-1	9	Mycket söt, fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av fikon, inslag av choklad, inslag av blåbär, inslag av russin, inslag av vanilj	Flaska
-572601	Corton Grand Cru Monopole	665.33	6	6	10	Komplex, kryddig smak med inslag av fat, inslag av jordgubbar, inslag av kanel, inslag av sandelträ, inslag av nougat, inslag av lingon, inslag av örter, inslag av pomerans	Flaska
-205008	Castaño	66.33	8	8	9	Fruktig, kryddig smak med inslag av björnbär, inslag av svarta vinbär, inslag av kryddnejlika, inslag av kanel	Box
-296901	Nipozzano Chianti Rúfina	185.33	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av tobak, inslag av kaffe, inslag av nougat, inslag av pomerans	Flaska
-225701	Les Fleurs Sauvages	118.67	8	8	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av vanilj, inslag av björnbär, inslag av svartpeppar, inslag av kakao	Flaska
-546001	Bourgogne Hautes Côtes de Nuits	198.67	5	5	10	Kryddig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av skogshallon, inslag av muskot, inslag av örter	Flaska
-392501	Château Belgrave	518.67	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av ceder, inslag av mörk choklad, inslag av lakrits.	Flaska
-205607	Bellingham	112.67	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av plommon, inslag av peppar, inslag av vanilj, inslag av choklad	Box
-3236401	Mauro	100.00	7	7	9	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av björnbär, inslag av vanilj	Flaska
-3236701	Canaletto	105.33	8	6	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av mynta, inslag av choklad, inslag av kryddnejlika	Flaska
-7238701	Lynx	145.33	9	7	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av björnbär, inslag av vanilj, inslag av blåbär, inslag av viol, inslag av kaffe, inslag av lakrits	Flaska
-2233508	Candidato Ecologico	63.00	6	6	9	Fruktig smak med inslag av blåbär, inslag av färska örter, inslag av körsbär	Box
-220401	Château Bouscassé	198.67	10	11	11	Smakrikt vin med fatkaraktär, inslag av svarta vinbär, inslag av lagerblad, inslag av plommon, inslag av viol, inslag av peppar, inslag av svart te, inslag av lakrits	Flaska
-272301	Rocca Guicciarda	206.67	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av skogshallon, inslag av nougat, inslag av choklad	Flaska
-272302	Rocca Guicciarda	224.00	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av skogshallon, inslag av nougat, inslag av choklad	Flaska
-1203808	Drostdy-Hof	69.67	5	5	9	Bärig smak med inslag av skogsbär, inslag av färska örter, inslag av lakrits	Box
-637401	Lindemans Bin 50	102.67	6	5	9	Mycket fruktig, ungdomlig smak med inslag av björnbär, inslag av peppar, inslag av hallon och färska örter.	Flaska
-1235501	Inycon	105.33	8	6	9	Mycket fruktig smak med inslag av björnbär, inslag av lakrits, inslag av örter	Flaska
-694202	Rawson's Retreat	130.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av eukalyptus, inslag av björnbär, inslag av vanilj	Flaska
-232202	il Conte	106.67	6	5	9	Mycket fruktig smak med inslag av fat, inslag av körsbär, inslag av lavendel, inslag av blåbär, inslag av sötlakrits	Flaska
-1651008	Viña Maipo	64.00	6	6	9	Ungdomlig, fruktig smak med inslag av svarta vinbär, inslag av hallon, inslag av lakrits, inslag av örter	Box
-668501	Viña Maipo	78.67	6	6	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av färska örter, inslag av hallon, inslag av vanilj	Flaska
-308302	Château la Tour de By	237.33	9	9	9	Nyanserat, stramt vin med rostad fatkaraktär, inslag av svarta vinbär, inslag av kakao, inslag av tobak, inslag av blåbär, inslag av ceder	Flaska
-355001	Château Labadie	185.33	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kakao, inslag av tobak, inslag av kaffe	Flaska
-625302	Penfolds Koonunga Hill	157.33	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av svarta vinbär, inslag av plommon, inslag av kaffe, inslag av mynta, inslag av vanilj och mörk choklad.	Flaska
-3215201	Tignanello	932.00	10	10	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av kaffe, inslag av katrinplommon, inslag av ceder, inslag av kakao	Flaska
-2232801	Chianti Classico Riserva	185.33	9	9	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av salvia, inslag av kakao, inslag av pomerans, inslag av pinjenötter	Flaska
-498001	Camino de Navaherreros	158.67	5	5	9	Bärig, nyanserad smak med inslag av hallon, inslag av färska örter, inslag av kryddor, inslag av körsbär, inslag av viol	Flaska
-373801	Dorivm	305.33	10	11	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av plommon, inslag av kaffe, inslag av svarta vinbär, inslag av tobak, inslag av örter, inslag av kakao, inslag av vanilj	Flaska
-7447501	Maxale	132.00	8	8	8	Kryddig, något fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av russin, inslag av sötlakrits, inslag av choklad, inslag av vanilj	Flaska
-3245208	Raccolto	83.00	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av örter, inslag av kaffe, inslag av vanilj	Box
-4230201	Brunello di Montalcino	345.33	9	10	10	Nyanserad, något utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av nypon, inslag av kanel, inslag av ceder, inslag av kakao, inslag av nötter	Flaska
-7904701	Louis Jadot	158.67	5	4	9	Bärig smak med inslag av fat, inslag av skogshallon, inslag av blåbär, inslag av örter, inslag av lakrits, inslag av björnbär	Flaska
-3172102	Torsebro Röda	340.00	6	6	10	Fruktig smak med inslag av björnbär, inslag av skogsbär, inslag av viol, inslag av kryddor, inslag av örter	Flaska
-650601	Kevin Arnold	286.67	10	9	9	Fruktig, nyanserad smak med rostad fatkaraktär, inslag av  björnbär, inslag av plommon, inslag av kaffe, inslag av mörk choklad och ceder..	Flaska
-278801	Viña Albali	105.33	7	8	9	Utvecklad, kryddig smak med fatkaraktär, inslag av mörka bär, inslag av lakrits, inslag av tobak, inslag av kakao, inslag av vanilj	Flaska
-226201	La Bastide Blanche	252.00	9	10	10	Nyanserad smak med fatkaraktär, inslag av björnbär, inslag av mörka körsbär, inslag av peppar, inslag av kakao, inslag av rosmarin, inslag av blåbär, inslag av lagerblad	Flaska
-1234302	A	290.67	10	9	9	Kryddigt, smakrikt vin med fatkaraktär, inslag av russin, inslag av katrinplommon, inslag av choklad, inslag av pinjenötter, inslag av pomerans, inslag av vanilj	Flaska
-1234301	A	265.33	10	9	9	Kryddigt, smakrikt vin med fatkaraktär, inslag av russin, inslag av katrinplommon, inslag av choklad, inslag av pinjenötter, inslag av pomerans, inslag av vanilj	Flaska
-2230001	Fontanafredda Ebbio	158.67	7	9	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av hallon, inslag av ceder, inslag av salvia, inslag av vanilj, inslag av lakrits	Flaska
-273701	Finca el Puig	278.67	10	10	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av plommon, inslag av björnbär, inslag av kokos, inslag av ceder och mörk choklad.	Flaska
-3245202	Raccolto	133.33	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av örter, inslag av kaffe, inslag av vanilj	Flaska
-1235702	Brunello di Montalcino	424.00	9	9	10	Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, inslag av ceder, inslag av torkade tranbär, inslag av kakao, inslag av nypon, inslag av kanel, inslag av salvia	Flaska
-279601	Husets Röda	69.00	4	4	8	Bärig smak med liten sötma, inslag av skogsbär, inslag av gräs	Papp
-280002	Delas Les Launes	210.67	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av blåbär, inslag av lavendel, inslag av svartpeppar, inslag av hallon, inslag av charkuterier, inslag av lagerblad	Flaska
-357001	Château de Seguin	185.33	8	8	9	Fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kaffe, inslag av choklad, inslag av örter	Flaska
-464708	Taverna d'El Rei	63.00	7	7	9	Fruktig smak med inslag av blåbär, inslag av viol, inslag av lakrits, inslag av kryddor, inslag av körsbär	Box
-279201	Altos d'Oliva	105.33	9	8	9	Utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av plommon, inslag av nougat, inslag av svarta vinbär, inslag av kryddnejlika, inslag av kaffe	Flaska
-232901	Vacqueyras	198.67	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av viol, inslag av plommon, inslag av lagerblad, inslag av lakrits, inslag av svartpeppar, inslag av hallon	Flaska
-244301	Borgogno Barolo	398.67	9	11	11	Komplex, kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av oregano, inslag av kanel, inslag av tobak, inslag av bergamott, inslag av rosor	Flaska
-235401	Tsantali Naoussa	133.33	9	9	10	Kryddig, nyanserad smak med fatkaraktär, inslag av korinter, inslag av lagerblad, inslag av choklad, inslag av kanel, inslag av körsbär, inslag av peppar och tobak..	Flaska
-274401	Carodorum	132.00	10	10	10	Smakrikt, fruktigt vin med fatkaraktär, inslag av plommon, inslag av svartpeppar, inslag av mörka körsbär, inslag av mörk choklad, inslag av färska örter, inslag av ceder, inslag av kaffe	Flaska
-2235002	Tommasi	413.33	10	9	9	Kryddig, nyanserad smak med liten sötma, inslag av fat, inslag av torkade körsbär, inslag av romrussin, inslag av nötter, inslag av vanilj, inslag av choklad	Flaska
-3241201	Allegro	113.33	7	6	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av färska örter, inslag av skogsbär, inslag av vanilj	Flaska
-655601	Trio	105.33	9	8	9	Generöst fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av blåbär, inslag av peppar, inslag av plommon, inslag av örter, inslag av lakrits	Flaska
-510601	Morgon	145.33	5	5	9	Bärig, ungdomlig smak med inslag av skogshallon, inslag av slånbär, inslag av lakrits, inslag av viol	Flaska
-512301	Masi Campofiorin	166.67	7	7	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av korinter, inslag av blåbär, inslag av choklad, inslag av tranbär	Flaska
-669001	7 Deadly Zins	198.67	10	8	9	Generöst fruktig smak med rostad fatkaraktär, inslag av drottningsylt, inslag av choklad, inslag av kryddnejlika, inslag av vanilj	Flaska
-669401	Irony	198.67	6	5	9	Kryddig, nyanserad smak med fatkaraktär, inslag av jordgubbar, inslag av pomerans, inslag av muskot, inslag av kanel	Flaska
-256001	Periquita	132.00	8	8	10	Kryddig, mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kakao, inslag av mynta, inslag av kaffe, inslag av vanilj	Flaska
-239301	Musella	172.00	5	5	10	Bärig, något kryddig smak med inslag av fat, inslag av körsbär, inslag av salvia, inslag av lingon, inslag av kanel	Flaska
-218002	Troppo	130.67	6	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av plommon, inslag av kryddnejlika, inslag av lakrits	Flaska
-3241701	Villa Puccini	118.67	8	8	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kaffe, inslag av vanilj, inslag av örter	Flaska
-2232001	Bolla Le Poiane	158.67	8	8	10	Kryddig, nyanserad smak med inslag av fat, inslag av mörka körsbär, inslag av örter, inslag av pomerans, inslag av kanel, inslag av choklad	Flaska
-540801	Beaujolais Royal	105.33	3	3	9	Bärig smak med inslag av skogsbär och färska örter.	Flaska
-540802	Beaujolais Royal	122.67	3	3	9	Bärig smak med inslag av skogsbär och färska örter.	Flaska
-542101	La Vignée	158.67	4	4	10	Bärig smak med inslag av hallon, inslag av lingon och färska örter.	Flaska
-547501	Bourgogne Rouge	158.67	4	4	9	Bärig smak med inslag av skogshallon, inslag av jordgubbar, inslag av lingon, inslag av örter	Flaska
-547502	Bourgogne Rouge	184.00	4	4	9	Bärig smak med inslag av skogshallon, inslag av jordgubbar, inslag av lingon, inslag av örter	Flaska
-253401	8 Keys	158.67	10	9	9	Nyanserad, fruktig smak med tydlig fatkaraktär, inslag av mörka körsbär, inslag av peppar, inslag av björnbär, inslag av choklad, inslag av plommon, inslag av kaffe, inslag av lagerblad, inslag av vanilj	Flaska
-7083801	Buena Vista	158.67	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av blåbär, inslag av vanilj, inslag av choklad, inslag av plommon, inslag av kokos	Flaska
-274001	Amarone della Valpolicella	253.33	10	9	10	Kryddig, utvecklad smak med fatkaraktär, inslag av russin, inslag av plommon, inslag av kakao, inslag av pinjenötter, inslag av vanilj	Flaska
-3236408	Mauro	73.00	7	7	9	Mycket fruktig smak med inslag av fat, inslag av blåbär, inslag av björnbär, inslag av vanilj	Box
-601801	Côtes-du-Rhône	105.33	7	6	9	Kryddig smak med inslag av björnbär, inslag av viol, inslag av peppar, inslag av lakrits	Flaska
-426101	Castelo	93.33	8	8	10	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av örter, inslag av blåbär, inslag av peppar, inslag av kanel, inslag av lakrits	PET-flaska
-450001	Saint Auriol Chatelaine	153.33	10	10	10	Smakrikt, fruktigt, kryddigt vin med fatkaraktär, inslag av björnbär, inslag av vitpeppar, inslag av örter, inslag av plommon, inslag av choklad, inslag av kaffe	Flaska
-450002	Saint Auriol Chatelaine	173.33	10	10	10	Smakrikt, fruktigt, kryddigt vin med fatkaraktär, inslag av björnbär, inslag av vitpeppar, inslag av örter, inslag av plommon, inslag av choklad, inslag av kaffe	Flaska
-3215301	Claude Val Rouge	92.00	5	5	9	Ungdomlig, bärig smak med inslag av skogsbär, inslag av lakrits, inslag av peppar, inslag av örter	Flaska
-236901	Cafê Culture	105.33	8	7	9	Smakrikt vin med påtaglig karaktär av rostade ekfat, inslag av kaffekaramell, inslag av mjölkchoklad, inslag av mörka bär, inslag av vanilj	Flaska
-207208	Umbala	63.00	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av lakrits, inslag av skogshallon, inslag av rosmarin, inslag av peppar	Box
-7448001	Marimar Estate	572.00	7	6	9	Kryddig, fruktig smak med fatkaraktär, inslag av mogna jordgubbar, inslag av körsbär, inslag av kanel, inslag av pomerans, inslag av sandelträ, inslag av kaffe	Flaska
-4233401	La Grola	252.00	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av svarta vinbär, inslag av mörka körsbär, inslag av basilika, inslag av choklad	Flaska
-7464601	Beringer	305.33	10	10	10	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av kaffe, inslag av mörka körsbär, inslag av choklad, inslag av mynta, inslag av vanilj	Flaska
-650401	Raza	118.67	9	8	9	Generöst fruktig smak med fatkaraktär, inslag av plommon, inslag av björnbär, inslag av mjölkchoklad, inslag av blåbär, inslag av kryddor, inslag av vanilj	Flaska
-381401	Les Hauts de Granget	238.67	9	10	10	Fruktig, stram smak med karaktär av rostade ekfat, inslag av svarta vinbär, inslag av korinter, inslag av tobak, inslag av kaffe, inslag av kakao	Flaska
-1200201	Allesverloren	180.00	9	8	9	Kryddig smak med fatkaraktär, inslag av björnbär, inslag av plommon, inslag av kanel, inslag av mörka körsbär, inslag av choklad, inslag av kaffe	Flaska
-234506	Masi	399.33	10	10	10	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av örter, inslag av sandelträ, inslag av romrussin, inslag av och kakao.	Magnum
-1267901	Lat 42	145.33	8	8	9	Mogen, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av plommon, inslag av dill, inslag av choklad, inslag av tobak, inslag av vanilj	Flaska
-278408	Zafrica	66.22	6	5	9	Bärig smak med liten sötma, inslag av fat, inslag av blåbär, inslag av lakrits, inslag av körsbär, inslag av rosmarin	Box
-271801	Campos de Luz	78.67	5	4	9	Bärig smak med inslag av björnbär, inslag av blåbär, inslag av kryddor, inslag av jordgubbar	Flaska
-3220501	il Nostro	92.00	6	6	9	Mycket fruktig smak med inslag av björnbär, inslag av kryddor, inslag av hallon, inslag av lakrits	Flaska
-1232401	Zenato	265.33	9	8	9	Kryddig smak med fatkaraktär, inslag av mörka bär, inslag av plommon, inslag av kryddnejlika, inslag av choklad, inslag av peppar	Flaska
-7552701	Scaia	145.33	7	7	9	Kryddig, utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av kryddnejlika, inslag av mogna jordgubbar, inslag av pinjenötter	Flaska
-7520701	Les Sinards	398.67	9	8	9	Nyanserad, kryddig smak med inslag av fat, inslag av hallon, inslag av lagerblad, inslag av körsbär, inslag av peppar, inslag av lakritsrot	Flaska
-280001	Delas Les Launes	212.00	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av blåbär, inslag av lavendel, inslag av svartpeppar, inslag av hallon, inslag av charkuterier, inslag av lagerblad	Flaska
-659101	Tapiz	172.00	9	9	9	Generöst fruktig smak med rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av lakrits, inslag av choklad	Flaska
-662007	Santa Inés	106.00	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av lakrits, inslag av kakao, inslag av örter	Box
-206202	Robertson	120.00	7	6	9	Fruktig, aningen rökig smak med inslag av fat, inslag av mörka bär, inslag av rosmarin, inslag av peppar, inslag av vanilj	Flaska
-601001	Allegrini	158.67	9	8	9	Nyanserad, kryddig smak med inslag av fat, inslag av mörka bär, inslag av lakrits, inslag av choklad, inslag av vanilj	Flaska
-533301	Cape Heights	65.00	5	5	9	Bärig smak med inslag av svarta vinbär, inslag av blåbär, inslag av lakrits	Papp
-687308	Chill Out	69.67	5	4	9	Bärig smak med inslag av svarta vinbär, inslag av björnbär, inslag av viol, inslag av sötlakrits	Box
-1212601	Beronia	126.67	6	6	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av blåbär, inslag av nougat, inslag av kryddnejlika	Flaska
-256501	Cigarra	92.00	7	7	9	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av choklad, inslag av lagerblad	Flaska
-2655401	Ecologica El Condor	100.00	7	6	8	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av peppar, inslag av choklad	Flaska
-626701	Xavier	332.00	10	9	9	Nyanserad, kryddig, fruktig smak med fatkaraktär, inslag av viol, inslag av jordgubbar, inslag av körsbär, inslag av vitpeppar och mörk choklad.	Flaska
-282502	Les Remparts des Ceps Dorés	152.00	9	8	9	Fruktig, kryddig smak  med inslag av fat, inslag av mörka bär, inslag av peppar, inslag av lagerblad, inslag av blåbär, inslag av lakrits	Flaska
-1651002	Viña Maipo	98.67	6	6	9	Ungdomlig, fruktig smak med inslag av svarta vinbär, inslag av hallon, inslag av lakrits, inslag av örter	Flaska
-2265304	Åkesson	100.00	5	4	8	Bärig smak med inslag av muskot, inslag av körsbär	Papp
-7575106	Le Volte	299.33	10	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av mörka körsbär, inslag av kakao, inslag av kaffe, inslag av ceder	Magnum
-1646008	Lindemans	79.67	6	6	9	Mycket fruktig smak med inslag av svarta vinbär, inslag av sötlakrits, inslag av hallon	Box
-219401	Fox Creek	160.00	10	8	9	Generöst fruktig smak med fatkaraktär, inslag av björnbär, inslag av svartvinbärssylt, inslag av mintchoklad, inslag av vanilj, inslag av kaffe	Flaska
-2228301	Cline	132.00	7	5	8	Generöst fruktig smak med inslag av skogsbär, inslag av mogna jordgubbar, inslag av mynta, inslag av vanilj	Flaska
-679201	Campolieti	153.33	8	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av russin, inslag av choklad, inslag av kaffe, inslag av kanel, inslag av vanilj	Flaska
-1639401	Stoneleigh	158.67	5	5	10	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av jordgubbar, inslag av ingefära, inslag av körsbär, inslag av örter, inslag av nougat	Flaska
-652001	McManis	145.33	10	8	9	Generöst fruktig smak med tydlig fatkaraktär, inslag av blåbär, inslag av vanilj, inslag av björnbär, inslag av choklad, inslag av kaffe, inslag av mynta	Flaska
-203402	Kleine Zalze	130.67	8	8	9	Mycket fruktigt, något rökig smak med fatkaraktär, inslag av björnbär, inslag av hallon, inslag av tobak, inslag av viol, inslag av lakrits	Flaska
-651801	Cameleon	118.67	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av choklad, inslag av lagerblad, inslag av vanilj	Flaska
-3245201	Raccolto	129.33	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av örter, inslag av kaffe, inslag av vanilj	Flaska
-221401	Lirac	153.33	8	7	9	Kryddig smak med inslag av hallon, inslag av lavendel, inslag av blåbär, inslag av rosépeppar, inslag av lagerblad, inslag av örter	Flaska
-2229708	Appasanto	59.67	7	7	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av lakrits, inslag av viol, inslag av vanilj	Box
-667001	Alamos	132.00	8	8	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av kanel, inslag av jordgubbar, inslag av kryddpeppar, inslag av vanilj	Flaska
-533701	Barbaresco	225.33	9	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av torkade körsbär, inslag av tobak, inslag av nypon, inslag av svarta oliver, inslag av kakao, inslag av kanel	Flaska
-7368401	Il Segreto	145.33	8	7	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av mintchoklad, inslag av kaffe, inslag av kanel	Flaska
-7487101	Vivaldi	118.67	5	4	10	Bärig smak med inslag av blåbär, inslag av muskot, inslag av hallon, inslag av örter	Flaska
-399201	Erath	252.00	6	6	9	Kryddig, nyanserad smak med fatkaraktär, inslag av jordgubbar, inslag av körsbär, inslag av nougat, inslag av pomerans, inslag av örter, inslag av kaffe	Flaska
-450101	Plan B!	132.00	10	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av rökta charkuterier, inslag av björnbär, inslag av viol, inslag av ceder, inslag av peppar	Flaska
-217001	Navarro Correas	132.00	9	8	9	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av plommon, inslag av mörk choklad, inslag av viol, inslag av blåbär, inslag av örter, inslag av vanilj	Flaska
-217002	Navarro Correas	157.33	9	8	9	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av plommon, inslag av mörk choklad, inslag av viol, inslag av blåbär, inslag av örter, inslag av vanilj	Flaska
-210301	1865 Pinot Noir	198.67	5	4	10	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av nougat, inslag av lingon, inslag av sandelträ, inslag av blodapelsin, inslag av peppar	Flaska
-538001	Küdaw Nativo	158.67	6	5	9	Nyanserad, bärig smak med inslag av blåbär, inslag av körsbär, inslag av färska örter, inslag av svartpeppar, inslag av skogshallon, inslag av lakrits	Flaska
-537001	Pampa Mía	197.33	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av mynta, inslag av fikon, inslag av viol, inslag av peppar, inslag av kakao, inslag av lakrits	Flaska
-7584001	Biferno Rosso Riserva	145.33	9	9	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av mörk choklad, inslag av svartpeppar, inslag av örter	Flaska
-7337901	Le Passole	132.00	9	7	9	Fruktig smak med fatkaraktär, inslag av katrinplommon, inslag av choklad, inslag av fikon, inslag av kaffe, inslag av körsbär, inslag av vanilj	Flaska
-2229901	Domaine Lalande Réserve	100.00	6	6	9	Fruktig smak med inslag av svarta vinbär, inslag av plommon, inslag av örter	Flaska
-2900202	Allesverloren	184.00	7	7	9	Fruktig smak med fatkaraktär, inslag av björnbär, inslag av lagerblad, inslag av sötlakrits, inslag av peppar, inslag av kaffe	Flaska
-2246701	Piccini	113.33	5	5	9	Bärig smak med inslag av körsbär, inslag av lingon, inslag av kryddor	Flaska
-3222401	Zenato	197.33	9	8	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av mörka körsbär, inslag av choklad, inslag av kryddor, inslag av salvia	Flaska
-7916701	Tommolo Organic	92.00	7	7	10	Kryddig smak med inslag av körsbär, inslag av kanel, inslag av korinter och torkade örter.	Flaska
-1638101	Peter Lehmann Portrait Barossa	180.00	10	9	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av svarta vinbär, inslag av lakrits, inslag av svartpeppar, inslag av hallon, inslag av lagerblad, inslag av vanilj	Flaska
-7249708	Casa Marrone	96.33	8	5	9	Generöst fruktig smak med fatkaraktär, inslag av plommon, inslag av körsbär, inslag av choklad, inslag av smörkola	Box
-7950701	Borgi	132.00	7	7	8	Fruktig smak med liten sötma, inslag av fat, inslag av drottningsylt, inslag av mintchoklad, inslag av vanilj	Flaska
-7527301	La Bella Barbera	132.00	5	4	10	Bärig smak med inslag av mörka körsbär, inslag av blåbär, inslag av örter, inslag av skogshallon	Flaska
-212401	Prohibition	132.00	10	9	9	Generöst fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av lakrits, inslag av kakao, inslag av nötter, inslag av plommon, inslag av örter	Flaska
-222301	Brutocao	252.00	10	9	9	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av hallon, inslag av ceder, inslag av mörka körsbär, inslag av kaffe, inslag av kakao, inslag av örter	Flaska
-284301	Château Charmail	252.00	10	9	9	Nyanserad smak med rostad fatkaraktär, inslag av plommon, inslag av tobak, inslag av fikon, inslag av svarta vinbär, inslag av kaffe	Flaska
-209001	Côte-Rôtie Les Jumelles	505.33	10	9	9	Komplex, kryddig smak med fatkaraktär, inslag av katrinplommon, inslag av lagerblad, inslag av lakrits, inslag av kryddpeppar, inslag av björnbär, inslag av charkuterier, inslag av hallon	Flaska
-210701	Irpinia Aglianico	132.00	9	10	10	Smakrikt vin med inslag av fat, inslag av mörka körsbär, inslag av kryddnejlika, inslag av katrinplommon, inslag av svarta oliver, inslag av lakrits, inslag av tjära	Flaska
-202501	Colline Novaresi Nebbiolo	132.00	7	8	9	Nyanserad, kryddig smak med inslag av fat, inslag av nypon, inslag av rosor, inslag av torkade körsbär, inslag av multna löv, inslag av nötter, inslag av pomerans	Flaska
-202701	Nederburg	118.67	8	9	9	Fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, inslag av kaffe, inslag av plommon, inslag av ceder, inslag av lakrits	Flaska
-201301	Fairview	158.67	10	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av peppar, inslag av plommon, inslag av ceder, inslag av mörka körsbär, inslag av kaffe	Flaska
-211808	Pieter Carstens	79.67	9	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av mjölkchoklad, inslag av lakrits, inslag av örter	Box
-7081201	Langhe Nebbiolo	158.67	8	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av kryddnejlika, inslag av hallon, inslag av kanel, inslag av lingon, inslag av nötter, inslag av pomerans	Flaska
-7543201	Zonnebloem	133.33	6	5	9	Bärig smak med inslag av skogshallon, inslag av färska örter, inslag av lakrits, inslag av jordgubbar	Flaska
-202901	Morellino di Scansano Riserva	198.67	9	9	9	Nyanserad, utvecklad smak med rostad fatkaraktär, inslag av korinter, inslag av tobak, inslag av choklad, inslag av kaffe, inslag av kanel, inslag av nougat	Flaska
-7365101	Esprit Barville	145.33	8	7	9	Kryddig smak med inslag av björnbär, inslag av muskot, inslag av torkade körsbär, inslag av vitpeppar, inslag av lagerblad	Flaska
-200108	Foot of Africa	69.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av peppar, inslag av plommon, inslag av örter, inslag av lakrits	Box
-3222801	Selvarossa	105.33	8	6	9	Kryddig smak med liten sötma, inslag av fat, inslag av körsbär, inslag av korinter, inslag av vanilj, inslag av kryddpeppar	Flaska
-3243101	Boira'	126.67	7	6	10	Fruktig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av örter, inslag av vanilj	Flaska
-2240901	i Castei	158.67	9	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av nougat, inslag av pomerans, inslag av salvia	Flaska
-3247201	Le Volte	225.33	10	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av mörka körsbär, inslag av kakao, inslag av kaffe, inslag av ceder	Flaska
-2256201	Seghesio	278.67	10	8	9	Mycket fruktig smak med tydlig fatkaraktär, inslag av björnbär, inslag av blåbär, inslag av plommon, inslag av mynta, inslag av choklad, inslag av peppar, inslag av vanilj	Flaska
-3222901	Fonterutoli	185.33	9	10	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av plommon, inslag av kaffe, inslag av örter, inslag av kakao	Flaska
-7748801	Langhe Nebbiolo	158.67	8	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av hallon, inslag av bergamott, inslag av nötter	Flaska
-652301	Pascual Toso	400.00	11	9	9	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, inslag av vanilj, inslag av plommon, inslag av lakrits, inslag av svarta vinbär, inslag av kaffe	Flaska
-637601	Lindemans Bin 40	105.33	6	5	9	Mycket fruktig smak med inslag av mörka bär, inslag av örter, inslag av sötlakrits	Flaska
-622608	Lindemans Bin 45	89.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av mynta, inslag av plommon, inslag av choklad	Box
-651701	Fair & Square	69.00	5	5	8	Bärig smak med inslag av fat, inslag av skogsbär, inslag av lakrits	Papp
-683101	Lindeman's	92.00	8	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av vanilj, inslag av örter, inslag av sötlakrits, inslag av blåbär	Flaska
-625101	Fox Creek	198.67	10	9	9	Mycket fruktigt, smakrikt vin med rostad fatkaraktär, inslag av björnbär, inslag av mörk choklad, inslag av plommon, inslag av kaffe, inslag av peppar, inslag av kokos	Flaska
-549601	Château de Melin	193.33	6	5	10	Kryddig, nyanserad smak med fatkaraktär, inslag av kanel, inslag av körsbär, inslag av jordgubbar, inslag av nougat, inslag av pomerans	Flaska
-7550101	Brancaia	182.67	7	7	10	Nyanserad, kryddig smak med fatkaraktär, inslag av skogshallon, inslag av basilika, inslag av körsbär, inslag av choklad och vanilj. Serveras 16-18°C till rätter av lamm- eller nötkött.	Flaska
-281401	Ops	118.67	9	8	10	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av peppar, inslag av örter, inslag av skogshallon, inslag av lakrits	Flaska
-8728201	Calera	366.67	6	5	9	Kryddig, bärig smak med fatkaraktär, inslag av mogna jordgubbar, inslag av körsbär, inslag av örter, inslag av peppar, inslag av vanilj	Flaska
-200901	Palazzo	92.00	8	6	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av hallon, inslag av choklad, inslag av vanilj	Flaska
-1280802	JP Chenet	112.00	4	4	9	Bärig smak med inslag av skogshallon, inslag av svarta vinbär, inslag av lakrits, inslag av örter	Flaska
-629708	Gosa	66.33	5	5	9	Bärig smak med inslag av fat, inslag av blåbär, inslag av örter, inslag av körsbär, inslag av lakrits	Box
-215601	Senda de las Rochas	133.33	8	8	9	Nyanserad, fruktig smak med inslag av plommon, inslag av skogsbär, inslag av peppar, inslag av lakrits, inslag av körsbär, inslag av viol	Flaska
-206301	Jade	158.67	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av lagerblad, inslag av viol, inslag av skogshallon, inslag av peppar, inslag av choklad	Flaska
-218301	Rings	198.67	5	5	10	Kryddig, nyanserad smak med inslag av fat, inslag av skogshallon, inslag av mörka körsbär, inslag av choklad, inslag av mynta, inslag av lingon, inslag av kardemumma	Flaska
-277001	GR-174	206.67	10	9	10	Nyanserad, fruktig smak med fatkaraktär, inslag av björnbär, inslag av mörka körsbär, inslag av lavendel, inslag av hallon, inslag av choklad, inslag av peppar	Flaska
-204101	Saperavi	158.67	9	9	9	Nyanserad smak med fatkaraktär, inslag av katrinplommon, inslag av körsbär, inslag av tobak, inslag av kakao, inslag av kryddnejlika, inslag av kaffe	Flaska
-3241706	Villa Puccini	106.00	8	8	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kaffe, inslag av vanilj, inslag av örter	Magnum
-3241702	Villa Puccini	130.67	8	8	10	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kaffe, inslag av vanilj, inslag av örter	Flaska
-204301	Rabisco Reserva	132.00	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av plommon, inslag av choklad, inslag av viol, inslag av svarta vinbär, inslag av blåbär, inslag av vanilj	Flaska
-3185301	Winery Red	238.67	7	7	9	Fruktig smak med inslag av svarta vinbär, inslag av körsbär, inslag av skogshallon, inslag av kryddor	Flaska
-630201	Gurra Gurra Creek	105.33	9	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av blåbär, inslag av eukalyptus, inslag av sötlakrits, inslag av vanilj	Flaska
-7209401	Petite Petit	225.33	10	8	9	Generöst fruktig smak med rostad fatkaraktär, inslag av blåbär, inslag av svarta vinbär, inslag av choklad, inslag av björnbär, inslag av mynta, inslag av kaffe	Flaska
-256008	Periquita	86.33	8	8	10	Kryddig, mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kakao, inslag av mynta, inslag av kaffe, inslag av vanilj	Box
-7253101	Biferno Rosso Riserva	145.33	9	9	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av plommon, inslag av örter, inslag av kaffe, inslag av choklad	Flaska
-682301	Rosemount	92.00	5	4	9	Fruktig smak med inslag av blåbär, inslag av björnbär, inslag av lakrits, inslag av vanilj	Flaska
-7977901	Prego	75.00	6	6	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av oregano, inslag av jordgubbar, inslag av mjölkchoklad	Flaska
-2281701	Villa Cafaggio	225.33	8	8	9	Kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av nötter, inslag av choklad, inslag av kanel, inslag av korinter	Flaska
-271006	Marqués de Arienzo	139.33	9	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av plommon, inslag av vanilj, inslag av kaffe	Magnum
-608301	Campo Viejo	132.00	7	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av tobak, inslag av muskot, inslag av vanilj	Flaska
-699601	Torres Coronas	105.33	7	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av björnbär, inslag av örter, inslag av vanilj	Flaska
-699604	Torres Coronas	132.00	7	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av björnbär, inslag av örter, inslag av vanilj	Flaska
-544701	Olivier Leflaive	238.67	5	5	10	Bärig smak med inslag av fat, inslag av skogshallon, inslag av lingon, inslag av örter, inslag av kryddor	Flaska
-2298101	Monterosso	78.67	6	5	10	Mycket fruktig smak med inslag av fat, inslag av skogshallon, inslag av blåbär, inslag av lakrits, inslag av örter	Flaska
-651208	Ecologica	76.33	7	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av vanilj, inslag av lakrits	Box
-528301	Couvent des Jacobins	198.67	5	5	10	Kryddig smak med inslag av lingon, inslag av körsbär, inslag av muskot, inslag av kanel	Flaska
-640001	Down Under	92.00	7	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av vanilj, inslag av lakrits	Flaska
-641901	Jacob's Creek	92.00	7	5	9	Fruktig smak med inslag av blåbär, inslag av skoshallon, inslag av peppar, inslag av vanilj	Flaska
-209908	Robertson	57.67	7	7	9	Fruktig smak med inslag av mörka bär, inslag av vanilj, inslag av mynta, inslag av choklad	Box
-2299601	Porcupine Ridge	132.00	8	8	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av peppar, inslag av rosmarin, inslag av skogshallon, inslag av lakrits	Flaska
-2900201	Allesverloren	145.33	7	7	9	Fruktig smak med fatkaraktär, inslag av björnbär, inslag av lagerblad, inslag av sötlakrits, inslag av peppar, inslag av kaffe	Flaska
-2800201	Amarone	366.67	11	9	10	Kryddig, nyanserad smak med inslag av fat, inslag av russin, inslag av torkade körsbär, inslag av chokladpraliner, inslag av arrak, inslag av svartpeppar, inslag av kanel	Flaska
-611001	Marqués de Arienzo	265.33	8	7	9	Mogen, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av dill, inslag av tobak, inslag av russin, inslag av choklad, inslag av vanilj	Flaska
-320401	Doppio Passo	118.67	7	7	9	Mycket fruktig smak med liten sötma, inslag av mogna jordgubbar, inslag av russin, inslag av lakrits, inslag av vanilj	Flaska
-2305001	Domìni Veneti	278.67	10	9	9	Kryddigt smak med inslag av fat, inslag av torkade körsbär, inslag av russin, inslag av apelsinchoklad, inslag av vanilj, inslag av kanel, inslag av peppar	Flaska
-622601	Lindemans Bin 45	105.33	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av mynta, inslag av plommon, inslag av choklad	Flaska
-3213001	Castello Fonterutoli	398.67	9	9	9	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av körsbär, inslag av hallon, inslag av lakrits, inslag av kaffe, inslag av rosmarin	Flaska
-655101	Quara	172.00	10	9	9	Mycket fruktigt, smakrikt vin med fatkaraktär, inslag av mörka bär, inslag av katrinplommon, inslag av choklad, inslag av björnbär, inslag av peppar, inslag av kaffe	Flaska
-212901	Lionheart of the Barossa	158.67	11	9	9	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av svartpeppar, inslag av lakrits, inslag av kaffe, inslag av vanilj	Flaska
-212906	Lionheart of the Barossa	152.67	10	8	9	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av svartpeppar, inslag av lakrits, inslag av kaffe, inslag av vanilj	Magnum
-212902	Lionheart of the Barossa	157.33	11	9	9	Smakrikt, mycket fruktigt vin med rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av svartpeppar, inslag av lakrits, inslag av kaffe, inslag av vanilj	Flaska
-302301	Cantina Zaccagnini	140.00	7	7	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av blåbär, inslag av kryddnejlika, inslag av vanilj	Flaska
-214508	SomeZin	79.67	8	6	8	Generöst fruktig smak med liten sötma, inslag av fat, inslag av björnbär, inslag av drottningsylt, inslag av choklad, inslag av vanilj	Box
-651201	Ecologica	105.33	7	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av vanilj, inslag av lakrits	Flaska
-216701	Terre de Mistral	126.67	8	7	10	Kryddig smak med inslag av björnbär, inslag av hallon, inslag av kryddpeppar, inslag av viol, inslag av blåbär	Flaska
-330001	Passitivo	132.00	8	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av kaffe, inslag av vanilj, inslag av russin	Flaska
-283601	Domaine du Pesquier	212.00	9	9	9	Kryddig, nyanserad smak med inslag av fat, inslag av skogshallon, inslag av lagerblad, inslag av vitpeppar, inslag av björnbär, inslag av lakrits, inslag av kryddpeppar	Flaska
-276901	Millefiori	118.67	7	7	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av plommon, inslag av kakao, inslag av salvia, inslag av lakrits	Flaska
-2307201	Castelforte	105.33	8	7	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av pinjenötter, inslag av kanel, inslag av vanilj	Flaska
-282001	Pinot Noir	118.67	4	4	9	Bärig, kryddig smak med inslag av mogna jordgubbar, inslag av lakitsrot, inslag av örter	Flaska
-456701	Casillero del Diablo	105.33	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av örter, inslag av lakrits, inslag av vanilj	Flaska
-7191201	Grande Nuit	105.33	7	7	9	Mycket fruktig smak med inslag av svarta vinbär, inslag av viol, inslag av plommon, inslag av gräs	Flaska
-3214501	Amarone della Valpolicella	532.00	11	9	9	Kryddig smak med inslag av fat, inslag av romrussin, inslag av choklad, inslag av torkade körsbär, inslag av nötter, inslag av kanel	Flaska
-213008	Casas Patronales	63.00	7	7	10	Mycket fruktig smak med inslag av svarta vinbär, inslag av blåbär, inslag av skogshallon, inslag av grönpeppar, inslag av gräs	Box
-205201	Chill Out	100.00	6	6	9	Mycket fruktig smak med inslag av mörka bär, inslag av lakrits, inslag av kryddor	PET-flaska
-2800808	Lyngrove	63.00	7	7	9	Mycket fruktig smak med inslag av skogsbär, inslag av lakrits, inslag av vanilj	Box
-660701	Trivento	92.00	8	7	9	Ungdomlig, mycket fruktig smak med inslag av svarta vinbär, inslag av viol, inslag av örter, inslag av sötlakris	Flaska
-657701	Casillero del Diablo	105.33	7	7	9	Fruktig smak med fatkaraktär, inslag av blåbär, inslag av svarta vinbär, inslag av färska örter, inslag av peppar, inslag av lakrits	Flaska
-3192401	Lepores	286.67	7	7	10	Fruktig smak med fatkaraktär, inslag av blåbär, inslag av svartpeppar, inslag av ceder, inslag av örter och svarta vinbär.	Flaska
-7701001	Gran Vego	105.33	6	6	9	Fruktig doft med inslag av blåbär, inslag av färska örter, inslag av mörka körsbär, inslag av svartpeppar, inslag av vanilj	Flaska
-238608	Masi	83.00	5	4	9	Ungdomlig, bärig smak med inslag av körsbär, inslag av björnbär, inslag av örter	Box
-658601	Cono Sur	118.67	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av färska örter, inslag av blåbär, inslag av lakrits	Flaska
-626501	Rua	212.00	6	6	10	Nyanserad, kryddig smak med fatkaraktär, inslag av skogshallon, inslag av jordgubbar, inslag av choklad, inslag av kanel, inslag av örter, inslag av ingefära	Flaska
-631501	Diemersfontein	122.67	8	7	9	Mycket fruktig smak med påtaglig rostad fatkaraktär, inslag av kaffe, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av vanilj	Flaska
-546101	Mont-Redon	146.67	7	7	9	Kryddig smak med inslag av fat, inslag av hallon, inslag av örter, inslag av peppar, inslag av björnbär, inslag av viol, inslag av vanilj	Flaska
-647001	Mas Louise	132.00	7	7	9	Kryddig, fruktig smak med inslag av körsbär, inslag av blåbär, inslag av svartpeppar, inslag av lakrits och färska örter.	Flaska
-7183201	Delas Saint-Esprit	132.00	8	8	9	Kryddig smak med inslag av björnbär, inslag av lagerblad, inslag av hallon, inslag av viol, inslag av peppar	Flaska
-232404	Sonovino	104.00	5	5	9	Bärig smak med inslag av skogsbär, inslag av lakrits, inslag av kryddor	Papp
-1237901	Castelforte	252.00	10	10	10	Kryddig, fruktig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av torkade tranbär, inslag av pinjenötter, inslag av peppar, inslag av kakao	Flaska
-672301	Louis M Martini	358.67	10	10	10	Fruktig, balanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av ceder, inslag av mörka körsbär, inslag av mintchoklad	Flaska
-209702	Campos Góticos	152.00	9	9	9	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av lagerblad, inslag av fikon, inslag av svartpeppar, inslag av kanel	Flaska
-660301	Casillero del Diablo	105.33	5	5	10	Bärig, kryddig smak med inslag av jordgubbar, inslag av skogshallon, inslag av lakrits, inslag av örter	Flaska
-235801	Pasqua Amarone della Valpolicella	292.00	10	8	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av salvia, inslag av pomerans, inslag av pinjenötter, inslag av mörkchoklad	Flaska
-659708	Gnarly Head	86.33	7	6	9	Generöst fruktig smak med inslag av fat, inslag av blåbärsylt, inslag av plommon, inslag av kryddpeppar, inslag av mynta, inslag av vanilj	Box
-213701	Perdeberg	92.00	6	6	9	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av blåbär, inslag av mynta, inslag av björnbär, inslag av peppar, inslag av lakrits, inslag av skogshallon	Flaska
-209301	Merwida	105.33	9	8	9	Fruktig, kryddig smak med inslag av fat, inslag av björnbär, inslag av skogshallon, inslag av svartpeppar, inslag av kakao, inslag av viol	Flaska
-230908	Allegrini	93.00	7	7	9	Kryddig, fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av blåbär, inslag av choklad, inslag av lakrits	Box
-7061701	Mouton Cadet	212.00	9	9	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av ceder, inslag av svarta vinbär, inslag av peppar, inslag av lakrits och färska örter.	Flaska
-535201	Castelforte	132.00	9	8	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av pinjenötter, inslag av kanel och rosmarin .	Flaska
-535301	Pasqua Ripasso	153.33	9	8	9	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av peppar, inslag av tobak, inslag av korinter	Flaska
-614601	Chill Out	105.33	7	6	8	Fruktig smak med inslag av russin, inslag av viol, inslag av björnbär, inslag av sötlakrits	PET-flaska
-399408	Allegro	79.67	7	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av hallon, inslag av mjölkchoklad och vanilj .	Box
-535401	Tommasi Graticcio Appassionato	118.67	7	7	10	Kryddig, aningen utvecklad smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av jordgubbar, inslag av vanilj, inslag av choklad	Flaska
-235201	Soprasasso	238.67	10	9	10	Kryddig, nyanserad smak med inslag av fat, inslag av mörka körsbär, inslag av korinter, inslag av peppar, inslag av pomerans, inslag av kakao	Flaska
-222201	De Loach	278.67	6	6	10	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av skogshallon, inslag av mynta, inslag av jordgubbar, inslag av kaffe, inslag av ingefära	Flaska
-671101	Spring Village	92.00	6	5	9	Ungdomlig, mycket fruktig smak med inslag av fat, inslag av mörka bär, inslag av vanilj, inslag av choklad	PET-flaska
-625407	Te Kairanga	134.67	5	4	10	Bärig, kryddig smak med inslag av fat, inslag av mogna jordgubbar, inslag av ingefära, inslag av körsbär, inslag av apelsin, inslag av vanilj	Box
-628201	Taurasi	212.00	10	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av eneträ, inslag av plommon, inslag av tobak, inslag av kaffe och svart te.	Flaska
-208601	The Chocolate Block	332.00	10	9	9	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, inslag av svarta vinbär, inslag av svartpeppar, inslag av mynta, inslag av kaffe, inslag av hallon	Flaska
-228101	Fat Bastard	118.67	7	7	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av viol, inslag av hallon, inslag av vanilj och färska örter.	Flaska
-7040101	Araldica Barolo	252.00	8	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av bergamott, inslag av nypon, inslag av lagerblad	Flaska
-1237906	Castelforte	252.67	10	10	10	Kryddig, fruktig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av torkade tranbär, inslag av pinjenötter, inslag av peppar, inslag av kakao	Magnum
-532802	Monti Garbi	184.00	7	6	10	Kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av kryddnejlika, inslag av hallon, inslag av vanilj, inslag av kanel	Flaska
-393001	Gran Passione	118.67	8	7	9	Mycket fruktig smak med inslag av mörka bär, inslag av choklad, inslag av vanilj, inslag av kanel	Flaska
-222001	Vegologica	118.67	7	6	9	Fruktig, något kryddig smak med inslag av fat, inslag av russin, inslag av körsbär, inslag av choklad, inslag av viol	Flaska
-270001	Chianti	118.67	7	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av örter, inslag av skogshallon, inslag av vanilj	Flaska
-536101	Bourgogne Cuvée Prestige	145.33	4	4	10	Bärig smak med inslag av fat, inslag av hallon, inslag av muskot, inslag av lingon	Flaska
-2233701	Girard	265.33	10	7	9	Generöst fruktig smak med fatkaraktär, inslag av björnbär, inslag av blåbär, inslag av mynta, inslag av choklad, inslag av peppar, inslag av vanilj	Flaska
-207301	Org de Rac	105.33	7	7	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av körsbär, inslag av choklad, inslag av peppar	Flaska
-694201	Rawson's Retreat	109.33	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av eukalyptus, inslag av björnbär, inslag av vanilj	Flaska
-634608	Castelforte	73.00	8	8	10	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av russin, inslag av mjölkchoklad, inslag av vanilj	Box
-286101	Crozes-Hermitage	238.67	9	9	9	Smakrikt, kryddigt vin med inslag av hallon, inslag av lavendel, inslag av vitpeppar, inslag av björnbär, inslag av lagerblad, inslag av blåbär, inslag av timjan	Flaska
-547001	Bourgogne	158.67	5	5	10	Kryddig smak med inslag av fat, inslag av hallon, inslag av lingon, inslag av nougat, inslag av örter	Flaska
-271601	Montelciego	132.00	8	8	9	Nyanserad, utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av tobak, inslag av dill, inslag av kanel, inslag av choklad, inslag av korinter	Flaska
-214401	Poliziano Vino Nobile di Montepulciano	198.67	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av katrinplommon, inslag av tobak, inslag av rosmarin, inslag av kakao	Flaska
-699801	Masi	132.00	6	5	9	Bärig smak med inslag av skogshallon, inslag av svarta vinbär, inslag av lakrits, inslag av örter	Flaska
-224101	Il Cuore Per Martina	92.00	7	6	9	Kryddig, fruktig smak med inslag av fat, inslag av körsbär, inslag av pinjenötter, inslag av jordgubbar, inslag av korinter, inslag av vanilj	Flaska
-213301	Tommasi Palanca	198.67	8	7	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av russin, inslag av nougat	Flaska
-549701	Ojai Santa Barbara	398.67	6	5	9	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av hallon, inslag av lagerblad, inslag av kardemumma, inslag av nougat, inslag av örter	Flaska
-206605	Jacob's Creek	160.43	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av björnbär, inslag av lakrits, inslag av örter, inslag av peppar	Flaska
-655001	The Ultimate Zin	113.33	6	5	9	Generöst fruktig smak med liten sötma, inslag av fat, inslag av blåbärssylt, inslag av vanilj, inslag av kardemumma, inslag av mjölkchoklad	Flaska
-235308	Il Barone	56.33	5	5	8	Bärig smak med inslag av fat, inslag av körsbär, inslag av smörkola, inslag av vanilj	Box
-7494401	Grand Sud	75.00	6	5	8	Mycket fruktig smak med inslag av blåbär, inslag av björnbär, inslag av lakrits	PET-flaska
-7404801	Domaine Santa Duc	305.33	10	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av hallon, inslag av peppar, inslag av björnbär, inslag av enbär, inslag av blåbär, inslag av lavendel	Flaska
-680401	Morberg Collection	134.67	6	6	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av kryddor, inslag av vanilj	Flaska
-239201	Piccini	126.67	8	8	9	Fruktig smak med rostad fatkaraktär, inslag av kaffe, inslag av choklad, inslag av korinter, inslag av plommon, inslag av vanilj, inslag av kokos	Flaska
-330201	Raccolto	105.33	8	8	9	Kryddig, fruktig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av nougat, inslag av kaffe, inslag av salvia	Flaska
-549801	Elephant Hill	185.33	9	9	9	Fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, inslag av mynta, inslag av plommon, inslag av mörk choklad, inslag av peppar, inslag av viol, inslag av lagerblad	Flaska
-235708	Palazzo	66.33	8	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av lakrits, inslag av peppar, inslag av vanilj	Box
-281501	Crozes Hermitage	172.00	8	8	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av hallon, inslag av eneträ, inslag av viol, inslag av svartpeppar, inslag av lagerblad, inslag av kakao	Flaska
-613101	The Black Shiraz	112.00	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av blåbär, inslag av svartpeppar, inslag av mörk choklad, inslag av vanilj	Flaska
-201601	Réserve de Bonpas	118.67	7	7	9	Kryddig, fruktig smak med inslag av fat, inslag av körsbär, inslag av hallon, inslag av peppar, inslag av lagerblad	Flaska
-671401	Boom Boom!	198.67	8	8	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av viol, inslag av blåbär, inslag av lagerblad, inslag av vanilj, inslag av lakrits	Flaska
-7314201	Gérard Bertrand Château L'Hospitalet	225.33	9	9	9	Nyanserad, balanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av choklad, inslag av kaffe och svarta oliver.	Flaska
-236008	The Big Zin	73.00	7	5	8	Generöst fruktig smak med sötma, inslag av fat, inslag av björnbärssylt, inslag av vanilj, inslag av mynta	Box
-302308	Cantina Zaccagnini	86.33	7	7	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av blåbär, inslag av kryddnejlika, inslag av vanilj	Box
-7475601	Amicone	132.00	10	8	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av russin, inslag av peppar, inslag av salvia	Flaska
-239801	Barolo Albe	318.67	8	10	10	Nyanserad smak med fatkaraktär, inslag av torkade körsbär, inslag av kanel, inslag av nypon, inslag av bergamott, inslag av nougat, inslag av apelsin	Flaska
-2282601	Chill Out	100.00	6	5	8	Mycket fruktig smak med inslag av drottningsylt, inslag av lakrits	PET-flaska
-535206	Castelforte	132.67	9	9	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av nötter, inslag av choklad och rosmarin .	Magnum
-2233501	Candidato Ecologico	78.67	6	6	9	Fruktig smak med inslag av blåbär, inslag av färska örter, inslag av körsbär	PET-flaska
-320408	Doppio Passo	83.00	7	7	9	Mycket fruktig smak med liten sötma, inslag av mogna jordgubbar, inslag av russin, inslag av lakrits, inslag av vanilj	Box
-626101	Brazin Old Vine	172.00	9	6	9	Generöst fruktig smak med rostad fatkaraktär, inslag av blåbärssylt, inslag av pepparmynta, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-657208	Casillero del Diablo	79.67	8	8	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av färska örter, inslag av vanilj	Box
-7291508	Campos de Luz	59.67	5	4	9	Bärig smak med inslag av björnbär, inslag av blåbär, inslag av kryddor, inslag av jordgubbar	Box
-7237101	Châteauneuf du Pape	305.33	9	8	9	Kryddig, fruktig smak med inslag av fat, inslag av plommon, inslag av jordgubbar, inslag av peppar, inslag av lakrits, inslag av lagerblad, inslag av kanel	Flaska
-505901	Santa Helena Varietal	79.00	9	8	9	Mycket fruktig smak med inslag av plommon, inslag av blåbär, inslag av svartpeppar, inslag av örter, inslag av vanilj	PET-flaska
-207702	Copertino	117.33	7	7	10	Mogen, kryddig smak med inslag av torkade körsbär, inslag av nypon, inslag av tobak, inslag av pomerans, inslag av läder	Flaska
-7531601	Heitz	861.33	10	9	9	Komplex, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av mynta, inslag av peppar, inslag av mörk choklad, inslag av ceder, inslag av tobak	Flaska
-7357401	Amarone della Valpolicella	372.00	10	10	10	Kryddig, utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av muskot, inslag av russin, inslag av kanel, inslag av choklad	Flaska
-653701	Montlaiz	70.00	6	6	9	Fruktig, ungdomlig smak med inslag av mörka bär, inslag av lakrits, inslag av gräs	Papp
-271701	Gratena Chianti	145.33	7	6	9	Kryddig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av hallon, inslag av kanel, inslag av örter, inslag av vanilj	Flaska
-401607	Sibaris	119.33	5	5	10	Bärig smak med inslag av fat, inslag av blåbär, inslag av körsbär, inslag av muskot, inslag av skogshallon, inslag av färska örter, inslag av choklad	Box
-215101	Xavier Côtes-du-Rhône	132.00	9	9	9	Kryddig, fruktig smak med inslag av mörka körsbär, inslag av björnbär, inslag av peppar, inslag av lagerblad, inslag av lakritsrot, inslag av kanel, inslag av hallon	Flaska
-229101	Le Hurlevent	300.00	9	9	9	Nyanserad, kryddig smak med inslag av plommon, inslag av körsbär, inslag av lavendel, inslag av vitpeppar, inslag av lakrits, inslag av hallon, inslag av lagerblad	Flaska
-7068401	Lagunilla	109.33	8	7	9	Utvecklad, kryddig smak med tydlig fatkaraktär, inslag av mörka körsbär, inslag av russin, inslag av choklad, inslag av muskot, inslag av dill, inslag av kaffe	Flaska
-210901	Casa Vinironia	118.67	8	8	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av salvia, inslag av pomerans, inslag av choklad, inslag av kanel	Flaska
-314701	Clarendelle	212.00	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av korinter, inslag av kaffe, inslag av tobak, inslag av kakao	Flaska
-535408	Tommasi Graticcio Appassionato	96.33	7	7	10	Kryddig, aningen utvecklad smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av jordgubbar, inslag av vanilj, inslag av choklad	Box
-234808	Tommolo	66.33	7	7	9	Fruktig smak med inslag av fat, inslag av blåbär, inslag av ljus choklad, inslag av körsbär, inslag av vanilj	Box
-712601	Bianchi Montepulciano d'Abruzzo	100.00	5	5	10	Bärig, ungdomlig smak med inslag av skogshallon, inslag av örter, inslag av körsbär, inslag av lakrits	Flaska
-745101	Roodeberg	118.67	8	6	9	Fruktig smak med inslag av fat, inslag av hallon, inslag av björnbär, inslag av lakrits	Flaska
-3253806	Högberga Syrah	264.67	7	6	10	Fruktig smak med fatkaraktär, inslag av plommon, inslag av blåbär, inslag av kryddor, inslag av tobak, inslag av skogshallon	Magnum
-210908	Casa Vinironia	76.33	8	8	10	Kryddig smak med inslag av fat, inslag av körsbär, inslag av salvia, inslag av pomerans, inslag av choklad, inslag av kanel	Box
-7912101	Châteauneuf-du-Pape	398.67	8	8	9	Nyanserad, kryddig smak med fatkaraktär inslag av skogshallon, inslag av jordgubbar, inslag av kanel, inslag av svartpeppar, inslag av lakrits	Flaska
-232601	Epicuro	118.67	9	7	9	Fruktig, utvecklad smak med rostad fatkaraktär och liten sötma, inslag av russin, inslag av torkade körsbär, inslag av sötlakrits, inslag av kanel, inslag av choklad	Flaska
-7166301	Ville di Antanè	145.33	9	8	10	Kryddig, nyanserad smak med inslag av fat, inslag av mörka körsbär, inslag av fikon, inslag av kanel, inslag av peppar, inslag av choklad	Flaska
-746201	La Rioja Alta	572.00	9	9	9	Komplex, utvecklad smak med fatkaraktär, inslag av plommon, inslag av korinter, inslag av tobak, inslag av choklad, inslag av ceder, inslag av nötter	Flaska
-7272201	Laccento	320.00	6	5	9	Fruktig smak med liten sötma, inslag av jordgubbar, inslag av kanel, inslag av körsbär, inslag av tranbär och färska örter.	Flaska
-746301	Chateau Musar	438.67	9	8	9	Utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av kanel, inslag av russin, inslag av tobak, inslag av nougat, inslag av pomerans, inslag av ceder	Flaska
-238401	Lupi Reali	92.00	6	6	9	Kryddig, fruktig smak med inslag av fat, inslag av mörka bär, inslag av vanilj och färska örter.	Flaska
-224301	Jonty's Ducks	158.67	10	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av plommon, inslag av färska örter, inslag av mörk choklad, inslag av peppar, inslag av skogshallon	Flaska
-224001	Vicor	118.67	9	9	9	Fruktigt, smakrikt vin med inslag av fat, inslag av skogshallon, inslag av plommon, inslag av svartpeppar, inslag av fikon, inslag av viol, inslag av choklad	Flaska
-255901	Vivir Sin Dormir	132.00	10	9	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av björnbär, inslag av plommon, inslag av kakao, inslag av svartpeppar, inslag av timjan, inslag av lakrits, inslag av vanilj	Flaska
-7922008	Cigarra	75.00	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av nougat, inslag av kryddor, inslag av choklad	Box
-7923401	Brunello di Montalcino	565.33	9	10	10	Nyanserad, kryddig smak med fatkaratär, inslag av körsbär, inslag av ceder, inslag av nougat, inslag av kanel, inslag av hallon	Flaska
-7518401	Villa Righetti	286.67	10	9	10	Kryddig, nyanserad smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av romrussin, inslag av kaffe, inslag av kardemumma	Flaska
-7630801	Villa Righetti	166.67	8	8	10	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av tobak, inslag av choklad, inslag av plommon, inslag av vanilj	Flaska
-626002	Brachetto d´Acqui	237.33	6	-1	9	Bärig, pärlande, mycket söt smak med inslag av körsbär, inslag av hallon och viol. Serveras kyld som sällskapsdryck eller till desserter.	Flaska
-439101	Finca Villazán	158.67	9	10	10	Nyanserad, kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av basilika, inslag av peppar, inslag av skogshallon, inslag av kakao och svart te.	Flaska
-7465901	The Wanted Zin	118.67	9	7	9	Mycket fruktig smak med fatkaraktär, inslag av mörka bär, inslag av choklad, inslag av kaffe, inslag av vanilj	Flaska
-7124406	Governo	126.00	8	6	8	Fruktig smak med fatkaraktär och liten sötma, inslag av plommon, inslag av kryddor, inslag av russin, inslag av kaffe, inslag av blåbär, inslag av mynta	Magnum
-3263901	Under Ölands Sol Rondo	265.33	8	8	10	Fruktig smak med fatkaraktär, inslag av blåbär, inslag av svarta vinbär, inslag av örter, inslag av slånbär, inslag av lakrits, inslag av vanilj	Flaska
-628501	Geoff Merrill	265.33	9	9	9	Utvecklad, balanserad smak med tydlig fatkaraktär, inslag av svarta vinbär, inslag av tobak, inslag av katrinplommon, inslag av pomerans, inslag av mörk choklad, inslag av kardemumma	Flaska
-638308	La Boca	73.00	8	8	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av viol, inslag av mörka körsbär, inslag av plommon, inslag av lakrits	Box
-639601	Piedra Negra	158.67	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kaffe, inslag av örter, inslag av ceder, inslag av choklad och svart te.	Flaska
-274301	Ziggurat	185.33	9	10	10	Nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av hallon, inslag av peppar, inslag av salvia, inslag av vanilj, inslag av kakao	Flaska
-294201	Rubesco	132.00	10	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av kryddnejlika, inslag av kanel, inslag av vanilj	Flaska
-275401	Barbera d'Asti	105.33	7	7	10	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av örter, inslag av blåbär, inslag av hallon, inslag av lakrits	Flaska
-657301	Caravan	118.67	10	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, inslag av choklad, inslag av svarta vinbär, inslag av lakrits, inslag av vanilj	Flaska
-642001	Apothic Red	132.00	8	6	9	Generöst fruktig smak med fatkaraktär och viss sötma, inslag av plommon, inslag av vanilj, inslag av blåbär, inslag av mjölkchoklad	Flaska
-201101	Côtes-du-Rhône	153.33	8	8	9	Kryddig smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av skogshallon, inslag av örter, inslag av körsbär	Flaska
-7085601	Casa Vinironia	265.33	10	9	9	Kryddig, nyanserad smak med inslag av fat, inslag av torkade körsbär, inslag av russin, inslag av choklad, inslag av peppar, inslag av kanel, inslag av pomerans	Flaska
-7192601	Chateau Montelena	532.00	9	9	9	Nyanserad, mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av mjölkchoklad, inslag av plommon, inslag av mynta, inslag av kaffe, inslag av vanilj	Flaska
-213101	Scattered Earth	105.33	8	8	9	Fruktig, kryddig smak med inslag av fat, inslag av skogshallon, inslag av blåbär, inslag av lakrits, inslag av svartpeppar, inslag av örter, inslag av choklad	Flaska
-7963501	Ernst Kirchsteigers	132.00	8	8	9	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kryddor, inslag av vanilj	Flaska
-9400201	Beaujolais Nouveau	100.00	5	4	10	Bärig, ungdomlig smak med inslag av blåbär, inslag av örter, inslag av hallon, inslag av sötlakrits	Flaska
-7061901	Castiglion del Bosco	345.33	9	9	9	Nyanserad, kryddig, mogen smak med fatkaraktär, inslag av torkade körsbär, inslag av nypon, inslag av ceder, inslag av kakao, inslag av pomerans, inslag av tobak	Flaska
-7968701	Mas Janeil	132.00	7	7	9	Kryddig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av choklad, inslag av viol, inslag av lagerblad	Flaska
-7450301	Château de Saint Cosme	145.33	9	9	9	Kryddig, nyanserad smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av hallon, inslag av peppar, inslag av kanel, inslag av lakrits	Flaska
-208301	Gemtree Bloodstone	166.67	10	9	9	Generöst fruktig smak med rostad fatkaraktär, inslag av plommon, inslag av kaffe, inslag av peppar, inslag av björnbär, inslag av lakrits, inslag av lagerblad, inslag av vanilj	Flaska
-304001	Tenuta Vignega	180.00	6	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av hallon, inslag av muskot, inslag av russin	Flaska
-309701	Brunello di Montalcino	318.67	10	10	10	Kryddig, balanserad, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av kanel, inslag av pomerans, inslag av peppar, inslag av nougat	Flaska
-315701	Château Tanesse	136.00	9	10	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av peppar, inslag av plommon, inslag av örter, inslag av ceder, inslag av tobak	Flaska
-609001	Tajano Rosso Piceno	113.33	6	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av skogsbär, inslag av kanel, inslag av sötlakrits	Flaska
-7245801	Les Dauphins	132.00	7	6	9	Fruktig smak med inslag av hallon, inslag av blåbär, inslag av kryddor, inslag av viol, inslag av örter	Flaska
-7052601	Côtes-du-Rhône	118.67	8	8	9	Kryddig, fruktig smak med inslag av fat, inslag av björnbär, inslag av hallon, inslag av kanel, inslag av peppar och färska örter.	Flaska
-242801	The Big Zin	105.33	7	6	8	Generöst fruktig smak med liten sötma, inslag av fat, inslag av björnbär, inslag av mynta, inslag av lakrits, inslag av vanilj	Flaska
-7330801	P.Lex	132.00	9	8	9	Kryddig smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av kaffe, inslag av choklad, inslag av kryddnejlika, inslag av vanilj, inslag av blåbär	Flaska
-7050301	Châteauneuf-du-Pape	452.00	9	9	9	Kryddig, något utvecklad smak med inslag av fat, inslag av jordgubbar, inslag av tobak, inslag av peppar och kanel..	Flaska
-233701	Montepulciano d'Abruzzo	93.33	5	4	9	Bärig smak med inslag av skogshallon, inslag av blåbär, inslag av sötlakrits, inslag av örter	Flaska
-240801	Le Monde	118.67	7	7	10	Fruktig smak med inslag av plommon, inslag av blåbär, inslag av viol, inslag av peppar, inslag av lakrits, inslag av körsbär	Flaska
-7907501	Montico	118.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av lakrits, inslag av björnbär, inslag av kanel, inslag av choklad	Flaska
-535402	Tommasi Graticcio Appassionato	157.33	7	7	10	Kryddig, aningen utvecklad smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av jordgubbar, inslag av vanilj, inslag av choklad	Flaska
-7541601	Barone Montalto	118.67	9	6	8	Mycket fruktig smak med sötma, inslag av fat, inslag av blåbärssylt, inslag av sötlakrits, inslag av salvia, inslag av vanilj	Flaska
-7465908	The Wanted Zin	86.33	9	7	9	Mycket fruktig smak med fatkaraktär, inslag av mörka bär, inslag av choklad, inslag av kaffe, inslag av vanilj	Box
-7434501	Antiche Terre Venete	145.33	8	8	9	Kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av pinjenötter, inslag av vanilj	Flaska
-7461801	Masi Costasera	1198.67	10	9	9	Mogen, komplex smak med inslag av fat, inslag av katrinplommon, inslag av torkade körsbär, inslag av rosmarin, inslag av mörk choklad, inslag av ceder, inslag av tobak	Flaska
-265901	Coto de Imaz	146.67	8	8	10	Nyanserad, utvecklad, kryddig smak med fatkaraktär, mörka körsbär, dill, nötter, kryddnejlika, jordgubbar, vanilj	Flaska
-7636701	Ricossa	252.00	9	10	10	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av lavendel, inslag av tranbär, inslag av nypon, inslag av kanel	Flaska
-274201	Domaine Rimbert	158.67	8	8	9	Nyanserad, kryddig smak med inslag av katrinplommon, inslag av kryddpeppar, inslag av svarta oliver, inslag av örter, inslag av lakrits	Flaska
-7639601	Tina Montepulciano d'Abruzzo	113.33	8	7	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av vanilj, inslag av russin, inslag av salvia, inslag av mjölkchoklad	Flaska
-756401	Gato Negro	78.67	6	6	9	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, inslag av björnbär och grön paprika.	Flaska
-756404	Gato Negro	116.00	6	6	9	Mycket fruktig, ungdomlig smak med inslag av svarta vinbär, inslag av björnbär och grön paprika.	Flaska
-629808	Adobe	76.33	6	6	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av lakrits, inslag av viol	Box
-638001	Buena Vista	265.33	7	6	10	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mogna jordgubbar, inslag av körsbär, inslag av ingefära, inslag av kaffe, inslag av vanilj	Flaska
-246901	Les Pious	118.67	8	8	9	Fruktig, kryddig smak med inslag av björnbär, inslag av körsbär, inslag av peppar, inslag av lagerblad	PET-flaska
-7668008	Ruby Zin	83.00	7	3	8	Bärig smak med inslag av blåbär, inslag av hallon, inslag av örter, inslag av vanilj	Box
-288708	American Dream	106.33	9	9	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av choklad, inslag av kryddnejlika, inslag av lakrits, inslag av vanilj	Box
-2307101	Barbera d'Alba	265.33	9	8	10	Nyanserad, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av lavendel, inslag av kaffe	Flaska
-240201	Château Plince	532.00	10	10	10	Nyanserad smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kakao, inslag av kaffe, inslag av ceder, inslag av tobak	Flaska
-7138801	Antiche Terre Venete	105.33	8	7	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av kanel, inslag av russin, inslag av choklad, inslag av svarta vinbär, inslag av lakrits	Flaska
-7252601	Governo	132.00	9	7	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av russin, inslag av choklad, inslag av vanilj	Flaska
-7677701	Ti Amo	118.67	7	6	8	Fruktig smak med inslag av fat, inslag av mörka bär, inslag av muskot, inslag av vanilj, inslag av lakrits	Flaska
-7677801	Zupreme	86.67	5	4	8	Bärig smak med liten sötma, inslag av fat, inslag av mogna jordgubbar, inslag av mjölkchoklad, inslag av körsbär, inslag av vanilj	Flaska
-205701	La Seigneurie	158.67	7	7	10	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av färska örter, inslag av choklad, inslag av muskot, inslag av slånbär, inslag av körsbär	Flaska
-238908	Org de Rac	76.33	8	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av rosmarin, inslag av choklad, inslag av skogshallon, inslag av kanel	Box
-3264801	Wannborga	252.00	5	4	11	Fruktig, ungdomlig smak med inslag av blåbär, inslag av mynta, inslag av muskot och svarta vinbär.	Flaska
-7100201	Casa Capriolo	132.00	8	7	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av skogshallon, inslag av örter, inslag av vanilj	Flaska
-462401	Gemtree Cinnabar GSM	158.67	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av plommon, inslag av körsbär, inslag av vanilj, inslag av choklad, inslag av lagerblad, inslag av lakrits	Flaska
-683201	Vinha da Urze	132.00	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av torkade örter, inslag av björnbär, inslag av svarta oliver och mörk choklad.	Flaska
-2201301	Barbaresco	318.67	8	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av kanel, inslag av nypon, inslag av rosor, inslag av hasselnötter, inslag av pomerans	Flaska
-629201	Gardo & Morris	145.33	5	5	9	Bärig, kryddig smak med inslag av fat, inslag av hallon, inslag av jordgubbar, inslag av örter, inslag av ingefära, inslag av viol	Flaska
-629202	Gardo & Morris	176.00	5	5	9	Bärig, kryddig smak med inslag av fat, inslag av hallon, inslag av jordgubbar, inslag av örter, inslag av ingefära, inslag av viol	Flaska
-302401	Château d'Arsac	278.67	9	10	10	Nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av kakao, inslag av plommon, inslag av kaffe, inslag av lagerblad	Flaska
-634601	Castelforte	105.33	8	8	10	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av kanel, inslag av russin, inslag av mjölkchoklad, inslag av vanilj	Flaska
-7500808	Smart Dog	73.00	8	8	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av körsbär, inslag av kryddor, inslag av viol, inslag av vanilj	Box
-7408701	Lynx	118.67	8	6	9	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av blåbärssylt, inslag av björnbär, inslag av kryddnejlika, inslag av choklad, inslag av vanilj	Flaska
-836208	McManis	93.00	7	7	8	Generöst fruktig smak med fatkaraktär, inslag av björnbär, inslag av smörkola, inslag av blåbär, inslag av mynta, inslag av kokos	Box
-281101	Château Mont-Redon	345.33	9	9	9	Kryddig, balanserad smak med inslag av fat, inslag av björnbär, inslag av vitpeppar, inslag av lagerblad, inslag av körsbär, inslag av lavendel, inslag av eneträ	Flaska
-7396601	Zensa	118.67	8	6	8	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av vanilj, inslag av russin, inslag av smörkola	Flaska
-2234601	Barra of Mendocino	200.00	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av örter, inslag av ceder, inslag av plommon, inslag av vanilj	Flaska
-7699801	San Román	480.00	10	10	10	Fruktig smak med tydligt rostad fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av kakao, inslag av örter, inslag av kaffe, inslag av blåbär, inslag av kokos	Flaska
-1068208	Terre de Mistral Reserve	86.33	8	7	10	Kryddig smak med inslag av björnbär, inslag av hallon, inslag av kryddpeppar, inslag av viol, inslag av blåbär	Box
-7253401	Amazin'	118.67	8	6	8	Mycket fruktig smak med liten sötma, inslag av fat, inslag av blåbärssylt, inslag av choklad, inslag av vanilj	Flaska
-7431201	LAB	105.33	8	8	9	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av kanel, inslag av vanilj, inslag av skogshallon och mörk choklad.	Flaska
-7431208	LAB	66.33	8	8	9	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av kanel, inslag av vanilj, inslag av skogshallon och mörk choklad.	Box
-7297201	Falling Feather	118.67	7	5	8	Generöst fruktig smak med inslag av skogshallon, inslag av sötlakrits, inslag av örter	Flaska
-7297208	Falling Feather	79.67	6	4	8	Generöst fruktig smak med inslag av skogshallon, inslag av sötlakrits, inslag av örter	Box
-8041901	Heartwood	118.67	6	6	8	Generöst fruktig smak med fatkaraktär, inslag av vanilj, inslag av björnbär, inslag av choklad, inslag av jordgubbar	Flaska
-8160301	Vinistella	105.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av vanilj, inslag av hallon	Flaska
-220802	Ser Lapo	226.67	8	9	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av kanel, inslag av nougat, inslag av pomerans, inslag av sandelträ	Flaska
-539501	Gevrey-Chambertin La Justice	598.67	7	6	10	Nyanserad, kryddig smak med karaktär av rostade ekfat, inslag av skogshallon, inslag av choklad, inslag av kaffe, inslag av mineral, inslag av sandelträ	Flaska
-1233001	Brunello di Montalcino	398.67	9	9	9	Nyanserad, kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av salvia, inslag av nypon, inslag av vanilj	Flaska
-625301	Penfolds Koonunga Hill	132.00	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av svarta vinbär, inslag av plommon, inslag av kaffe, inslag av mynta, inslag av vanilj och mörk choklad.	Flaska
-268001	Manifesto	105.33	9	9	9	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av kaffe, inslag av svarta vinbär, inslag av vanilj, inslag av peppar	Flaska
-7823601	Gran Maestro	105.33	8	6	9	Mycket fruktig smak med inslag av mörka körsbär, inslag av plommon, inslag av vanilj, inslag av hallon, inslag av lakrits	Flaska
-7178601	Zensa	118.67	7	7	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av mörka körsbär, inslag av lakrits, inslag av mjölkchoklad	Flaska
-206501	Château Vignelaure	305.33	9	9	9	Nyanserad, utvecklad smak med fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av choklad, inslag av katrinplommon, inslag av lagerblad, inslag av örter, inslag av kaffe	Flaska
-7382101	Campo Leòn	405.33	10	9	9	Kryddig, mogen smak med inslag av fat, inslag av torkade fikon, inslag av tobak, inslag av katrinplommon, inslag av choklad, inslag av nötter, inslag av nypon	Flaska
-7038401	Borgogno	145.33	8	8	10	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av kanel, inslag av blåbär, inslag av vanilj	Flaska
-302701	Ribera 1 One	132.00	10	10	10	Nyanserad, kryddig smak med tydlig rostad fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av korinter, inslag av kaffe, inslag av vanilj	Flaska
-7021501	Bolla Le Poiane	345.33	10	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av körsbär, inslag av russin, inslag av choklad, inslag av kanel, inslag av tobak	Flaska
-303401	Casa Vinironia Palloncino	92.00	8	8	9	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av korinter, inslag av choklad, inslag av kaffe, inslag av peppar, inslag av vanilj	PET-flaska
-1235706	Brunello di Montalcino	399.33	9	9	10	Nyanserad, utvecklad smak med fatkaraktär, inslag av russin, inslag av ceder, inslag av torkade tranbär, inslag av kakao, inslag av nypon, inslag av kanel, inslag av salvia	Magnum
-7668001	Ruby Zin	132.00	7	3	8	Bärig smak med inslag av blåbär, inslag av hallon, inslag av örter, inslag av vanilj	Flaska
-7429901	Prohibition	132.00	8	6	8	Mycket fruktig smak med liten sötma, inslag av fat, inslag av blåbärssylt, inslag av vanilj, inslag av mynta, inslag av choklad	Flaska
-7107501	P.Lex Appassivo	132.00	8	8	9	Mycket fruktig smak med inslag av mörka körsbär, inslag av russin, inslag av viol, inslag av örter	Flaska
-7022701	Barolo Fontanafredda	278.67	9	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av rosor, inslag av jordgubbar, inslag av sandelträ, inslag av nougat, inslag av pomerans	Flaska
-7099804	OHH	133.69	5	4	9	Bärig smak med inslag av blåbär, inslag av svarta vinbär, inslag av lakrits	Flaska
-600801	Barefoot	105.33	7	5	9	Generöst fruktig smak med inslag av viol, inslag av björnbär, inslag av blåbär, inslag av vanilj	Flaska
-7542101	Brunello di Montalcino	318.67	8	9	9	Nyanserad, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av tobak, inslag av kakao, inslag av nötter, inslag av pomerans	Flaska
-7849801	Amarone della Valpolicella	1013.33	10	10	10	Nyanserad, kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av katrinplommon, inslag av kaffe, inslag av kakao, inslag av romrussin, inslag av pomerans	Flaska
-7297701	Grillo	118.67	8	7	9	Kryddig, fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av kanel, inslag av russin, inslag av örter, inslag av lakrits	Flaska
-8160308	Vinistella	76.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av vanilj, inslag av hallon	Box
-284901	Simonsig Cape Blend	105.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av viol, inslag av gräs, inslag av sötlakrits	Flaska
-214901	Viña Pedrosa	225.33	10	10	10	Nyanserad, kryddig smak med tydlig karaktär av rostade ekfat, inslag av mörka körsbär, inslag av plommon, inslag av kaffe, inslag av örter, inslag av vanilj, inslag av kakao	Flaska
-625001	Camden Park	101.33	7	5	9	Mycket fruktig smak med inslag av fat, inslag av hallon, inslag av blåbär, inslag av vanilj, inslag av sötlakrits	Flaska
-627101	Black Mountain	68.00	7	6	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av lakrits	Papp
-657801	District 7	166.67	6	6	9	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av jordgubbar, inslag av sandelträ, inslag av kardemumma, inslag av pomerans, inslag av nougat	Flaska
-236201	Torres Las Mulas	118.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av viol, inslag av blåbär, inslag av choklad, inslag av örter	Flaska
-241301	Jacob's Creek Lighter Alcohol	105.33	6	6	8	Fruktig smak med inslag av blåbärssylt, inslag av björnbär, inslag av kryddor, inslag av choklad	Flaska
-1265801	Zonnebloem	133.33	9	8	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av viol, inslag av björnbär, inslag av kaffe, inslag av vanilj	Flaska
-602401	Alto Pina	100.00	8	8	9	Fruktig smak med fatkaraktär, inslag av plommon, inslag av lavendel, inslag av kokos, inslag av björnbär, inslag av kaffe, inslag av kryddnejlika	Flaska
-681302	Château Boutisse	306.67	10	10	10	Nyanserad smak med tydligt rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kaffe, inslag av kakao, inslag av ceder, inslag av lagerblad, inslag av tobak	Flaska
-7515801	Villa Cavallo	145.33	8	7	9	Kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av russin, inslag av nougat, inslag av choklad, inslag av ceder	Flaska
-223501	Black Stallion	252.00	6	5	9	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av choklad, inslag av körsbär, inslag av kaffe, inslag av mynta	Flaska
-646707	Jacob's Creek Barossa	126.00	9	7	9	Mycket fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, inslag av choklad, inslag av mörka körsbär, inslag av kryddnejlika, inslag av vanilj	Box
-231201	Cecchi	105.33	5	5	9	Ungdomlig, bärig smak med inslag av skogshallon, inslag av körsbär, inslag av viol, inslag av lakrits	Flaska
-7895201	Bellflower	158.67	8	6	9	Generöst fruktig smak med fatkaraktär, inslag av skogshallon, inslag av blåbär, inslag av mynta, inslag av choklad, inslag av vanilj	Flaska
-7896307	Hardys Nottage Hill	79.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av lakrits, inslag av kryddor, inslag av vanilj	Box
-7217108	Casa Nostra	56.33	8	7	9	Mycket fruktig smak med inslag av mörka körsbär, inslag av blåbärssylt, inslag av örter, inslag av lakrits	Box
-302501	Conero Riserva	145.33	9	9	9	Smakrikt vin med tydlig fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av korinter, inslag av kaffe, inslag av kakao, inslag av vanilj	Flaska
-293602	Saint Clair Pioneer Block 23	240.00	6	6	9	Balanserad, kryddig smak med fatkaraktär, inslag av mogna jordgubbar, inslag av körsbär, inslag av ingefära, inslag av hallon, inslag av örter, inslag av choklad	Flaska
-228401	Ferrandière	105.33	5	5	9	Kryddig, bärig smak med inslag av fat, inslag av jordgubbar, inslag av muskot, inslag av skogsbär, inslag av lingon, inslag av kanel, inslag av örter	Flaska
-217901	Domaine de Verquière	185.33	8	8	9	Kryddig, nyanserad smak med inslag av fat, inslag av hallon, inslag av blåbär, inslag av viol, inslag av färska örter, inslag av lakrits, inslag av svartpeppar	Flaska
-655708	The Econic	103.00	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av blåbär, inslag av skogshallon, inslag av pepparmynta, inslag av kanel, inslag av vanilj	Box
-7501501	Antiche Terre Venete	132.00	4	4	10	Bärig smak med inslag av körsbär, inslag av lakrits, inslag av hallon, inslag av basilika	Flaska
-7604601	Rocca di Montemassi	118.67	7	6	9	Mycket fruktig smak med inslag av fat, inslag av körsbär, inslag av lakrits, inslag av blåbär, inslag av örter	Flaska
-7518201	Fontanafredda	238.67	9	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av hallon, inslag av nypon, inslag av rosor, inslag av örter, inslag av muskot, inslag av kanel	Flaska
-7541608	Barone Montalto	83.00	8	6	8	Mycket fruktig smak med sötma, inslag av fat, inslag av blåbärssylt, inslag av sötlakrits, inslag av salvia, inslag av vanilj	Box
-208701	Dig This!	105.33	8	8	10	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av svarta vinbär, inslag av örter, inslag av blåbär, inslag av körsbär, inslag av vanilj, inslag av lakrits	Flaska
-284501	Châteauneuf-du-Pape	366.67	10	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av plommon, inslag av kakao, inslag av viol, inslag av peppar, inslag av hallon, inslag av örter	Flaska
-238201	Nuevo Mundo Organic	100.00	7	7	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av tobak, inslag av jordgubbar, inslag av lakrits	Flaska
-229301	Château de Pierreux	158.67	6	6	10	Ungdomlig, bärig, något kryddig smak med inslag av skogsbär, inslag av färska örter, inslag av mörka körsbär, inslag av peppar, inslag av jordgubbar	Flaska
-7606501	Cycliste	118.67	8	9	9	Fruktig smak med inslag av fat, inslag av björnbär, inslag av hallon, inslag av färska örter, inslag av kryddnejlika, inslag av peppar	Flaska
-7360402	Barolo	424.00	9	10	10	Mogen, kryddig smak med fatkaraktär, inslag av tobak, inslag av torkade körsbär, inslag av valnötter, inslag av kanel, inslag av kryddpeppar och svart te.	Flaska
-7576401	Belleruche Côtes-du-Rhône	145.33	8	8	9	Kryddig, nyanserad smak med inslag av björnbär, inslag av hallon, inslag av peppar, inslag av lavendel, inslag av lakrits	Flaska
-225501	Francisco Gomez	105.33	8	7	9	Fruktig, något kryddig smak med inslag av mörka körsbär, inslag av plommon, inslag av vanilj, inslag av tobak	Flaska
-3273701	Lepores	356.00	9	8	9	Nyanserad fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av lakrits, inslag av örter, inslag av vanilj	Flaska
-1235601	Rust en Vrede Estate	372.00	10	9	10	Fruktigt, smakrikt vin med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av svartpeppar, inslag av mörk choklad, inslag av ceder, inslag av tobak, inslag av och kaffe.	Flaska
-620701	Black Stallion	305.33	10	9	9	Nyanserad, mycket fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av choklad, inslag av blåbär, inslag av kryddnejlika, inslag av kaffe	Flaska
-671801	Rawson's Retreat	113.33	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av choklad, inslag av blåbär, inslag av peppar	Flaska
-652901	Tapiz	206.67	10	10	9	Mycket fruktig smak med tydlig fatkaraktär, inslag av blåbär, inslag av viol, inslag av plommon, inslag av björnbär, inslag av svarta oliver, inslag av vanilj	Flaska
-7211501	Amore Assoluto	118.67	5	5	9	Bärig smak med inslag av körsbär, inslag av blåbär, inslag av örter	Flaska
-7280501	Grande Alberone	132.00	8	8	9	Kryddig smak med tydlig rostad fatkaraktär och liten sötma, inslag av plommon, inslag av choklad, inslag av kaffe, inslag av kardemumma, inslag av körsbär	Flaska
-7420101	Borgogno	212.00	6	5	10	Bärig, nyanserad smak med inslag av fat, inslag av mörka körsbär, inslag av skogshallon, inslag av örter, inslag av viol, inslag av salvia	Flaska
-233001	Barolo Serralunga	412.00	8	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av rosor, inslag av kanel, inslag av kakao, inslag av sandelträ, inslag av nypon, inslag av rosépeppar	Flaska
-233002	Barolo Serralunga	450.67	9	11	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av rosor, inslag av kanel, inslag av pinjenötter, inslag av kakao, inslag av sandelträ, inslag av nypon, inslag av örter	Flaska
-231301	Prugneto	118.67	8	7	9	Mycket fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av skogshallon, inslag av vanilj, inslag av choklad	Flaska
-7244501	Baron De Ley	172.00	8	8	10	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, inslag av mörka körsbär, inslag av viol, inslag av tobak, inslag av choklad, inslag av skogshallon, inslag av kokos	Flaska
-7287508	Leva Reserve	53.00	6	5	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av svarta vinbär, inslag av kryddor, inslag av smörkola	Box
+1235701	Brunello di Montalcino	412	9	9	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av kakao, inslag av salvia, inslag av korinter, inslag av peppar, inslag av nötter, inslag av kanel, inslag av pomerans	Flaska
+1236301	Ca' Montini	385.33	10	9	9	Kryddig, något utvecklad smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av kardemumma, inslag av russin, inslag av kanel, inslag av nötter	Flaska
+1236601	Capitel de'Roari	286.67	10	10	10	Kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av choklad, inslag av romrussin, inslag av pomerans, inslag av nötter, inslag av tobak, inslag av vanilj	Flaska
+1236602	Capitel de'Roari	317.33	10	10	10	Kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av choklad, inslag av romrussin, inslag av pomerans, inslag av nötter, inslag av tobak, inslag av vanilj	Flaska
+1237801	Prego Rosso	79	5	5	9	Bärig smak med inslag av jordgubbar, inslag av körsbär och färska örter.	Pappförpackning
+1260101	Conde Valdemar	238.67	9	9	9	Utvecklad, kryddig, nyanserad smak med fatkaraktär, inslag av plommon, inslag av korinter, inslag av dill, inslag av torkad frukt, inslag av kakao, inslag av kanel, inslag av nötter, inslag av vanilj	Flaska
+1261501	Viña Herminia	78.67	5	5	9	Bärig, aningen kryddig smak med inslag av blåbär, inslag av skogshallon, inslag av lakrits, inslag av örter	Flaska
+1267001	El Coto	132	7	8	10	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av korinter, inslag av plommon, inslag av lagerblad, inslag av vanilj	Flaska
+1269701	Torres Gran Coronas	158.67	8	8	9	Fruktig, något utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kakao, inslag av mörka körsbär, inslag av peppar, inslag av vanilj	Flaska
+1279701	Castillo de Gredos	73	4	4	9	Bärig, något kryddig smak med inslag av körsbär, inslag av blåbär	Pappförpackning
+1279708	Castillo de Gredos	65	4	4	9	Bärig, något kryddig smak med inslag av körsbär, inslag av blåbär	Box
+1307411	Rio Maggio	118.67	8	8	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av peppar, inslag av plommon, inslag av hallon, inslag av vanilj	Pappförpackning
+1651001	Viña Maipo	92	6	6	9	Ungdomlig, fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av färska örter. och vanilj.	Flaska
+1655401	Trapiche	132	9	8	9	Fruktigt, smakrikt vin med rostad fatkaraktär, inslag av björnbär, inslag av choklad, inslag av skogshallon, inslag av viol, inslag av mynta, inslag av svartpeppar, inslag av kaffe	Flaska
+2003301	Gemtree	185.33	9	8	9	Nyanserad, fruktig smak med fatkaraktär, inslag av björnbär, inslag av viol, inslag av blåbär, inslag av svartpeppar, inslag av choklad, inslag av mörka körsbär, inslag av vanilj	Flaska
+200401	Cannonau di Sardegna	212	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av pomerans, inslag av lagerblad, inslag av hallon, inslag av svarta oliver, inslag av kakao	Flaska
+200701	Château Courac	185.33	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av katrinplommon, inslag av lakrits, inslag av charkuterier, inslag av lagerblad, inslag av vitpeppar	Flaska
+2007511	Porta 6	105.33	7	7	9	Fruktig smak med inslag av mörka körsbär, inslag av hallon, inslag av timjan, inslag av björnbär, inslag av lakritsrot	Pappförpackning
+2007601	Monterustico	174.67	7	7	10	Nyanserad, fruktig smak med inslag mörka körsbär, basilika, skogshallon, blåbär och blodapelsin. 	Flaska
+2007801	Basalte du Coiron	132	8	8	9	Smakrikt, kryddigt vin med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av plommon, inslag av svartpeppar, inslag av ceder, inslag av lakrits, inslag av skogshallon	Flaska
+204301	Lat 42	172	9	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, inslag av choklad, inslag av plommon, inslag av dill, inslag av kaffe, inslag av vanilj	Flaska
+204601	Perdeberg Cellar Reserve Collection	132	7	7	9	Fruktigt, smakrikt vin med inslag av fat, inslag av svarta vinbär, inslag av svartpeppar, inslag av hallon, inslag av örter, inslag av vanilj	Flaska
+206602	Jacob's Creek	138.67	7	7	9	Fruktig smak med inslag av fat, inslag av björnbär, inslag av svarta vinbär, inslag av hallon, inslag av choklad	Flaska
+207001	Ramnista	225.33	6	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av svart te, inslag av torkade tranbär, inslag av sandelträ, inslag av kakao, inslag av vanilj	Flaska
+207401	Chianti	132	6	6	10	Kryddig smak med inslag av körsbär, inslag av hallon, inslag av blodapelsin, inslag av örter	Flaska
+207701	Copertino	132	7	7	10	Mogen, kryddig smak med inslag av torkade körsbär, inslag av nypon, inslag av pomerans, inslag av kanel, inslag av nötter	Flaska
+208606	The Chocolate Block	366	10	9	9	Mycket fruktig smak med fatkaraktär, inslag av björnbär, inslag av choklad, inslag av svarta vinbär, inslag av plommon, inslag av peppar, inslag av vanilj	Flaska
+208608	The Chocolate Block	476.33	10	9	9	Mycket fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av kaffe, inslag av plommon, inslag av kardemumma, inslag av vanilj	Flaska
+211101	Château Mayne Lalande	332	9	9	9	Nyanserad, något utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av tobak, inslag av ceder, inslag av plommon, inslag av kakao, inslag av kaffe	Flaska
+213201	Renne	73.33	6	6	9	Mycket fruktig smak med inslag av blåbär, inslag av björnbär, inslag av sötlakrits, inslag av örter, inslag av vitpeppar, inslag av skogshallon	Flaska
+215207	Château la Carelle	140	9	9	9	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av kakao, inslag av ceder, inslag av plommon, inslag av kaffe, inslag av blåbär, inslag av vanilj	Box
+215907	Gallo Family Vineyards	109.5	8	6	8	Mycket fruktig smak med tydlig rostad fatkaraktär, inslag av blåbär, inslag av vanilj, inslag av björnbär, inslag av choklad, inslag av plommon, inslag av viol, inslag av kokos	Påse
+216101	Alegoria Malbec	172	9	9	9	Fruktig, nyanserad smak med fatkaraktär, inslag av björnbär, inslag av färska örter, inslag av mörka körsbär, inslag av svartpeppar, inslag av plommon, inslag av mörk choklad, inslag av ceder	Flaska
+216301	Tamaral	212	10	10	10	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av plommon, inslag av vanilj, inslag av kakao, inslag av mörka körsbär, inslag av kardemumma, inslag av ceder, inslag av viol och svarta vinbär.	Flaska
+216508	Hope	85	8	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av viol, inslag av björnbär, inslag av peppar, inslag av hallon, inslag av vanilj	Box
+217707	Welmoed	99.33	8	8	9	Fruktig, något kryddig smak med inslag av fat, inslag av svarta vinbär, inslag av viol, inslag av körsbär, inslag av örter, inslag av svartpeppar, inslag av vanilj, inslag av skogshallon	Box
+2231001	Lambrusco Reggiano	113.33	5	-1	8	Bärigt, ungdomligt, spritsigt vin med sötma, inslag av blåbär, inslag av körsbär, inslag av mandel, inslag av örter	Flaska
+2232501	Marquis de Beys Red	300	10	9	9	Nyanserad, något utvecklad, fruktig smak med fatkaraktär, inslag av plommon, inslag av ceder, inslag av svarta vinbär, inslag av kaffe, inslag av björnbär, inslag av mörk choklad, inslag av vanilj	Flaska
+223301	Château Pech-Latt	220	9	9	9	Nyanserad, fruktig smak med inslag av björnbär, inslag av viol, inslag av plommon, inslag av lagerblad, inslag av rosmarin, inslag av lakrits, inslag av blåbär	Flaska
+2233508	Candidato Ecologico	61.67	7	7	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av svarta vinbär, inslag av lakrits, inslag av skogshallon, inslag av örter	Box
+224601	Finca Negra	212	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av mörk choklad, inslag av plommon, inslag av ceder, inslag av blåbär, inslag av örter, inslag av vanilj	Flaska
+2246701	Piccini	132	6	6	9	Bärig smak med inslag av körsbär, inslag av örter, inslag av blåbär, inslag av skogshallon	Flaska
+225701	Abbotts & Delaunay	132	8	8	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av skogshallon, inslag av choklad, inslag av lavendel, inslag av blåbär, inslag av vanilj	Flaska
+2265201	Navajas	132	8	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av vanilj, inslag av tobak, inslag av katrinplommon, inslag av nougat, inslag av dill	Flaska
+2266201	Faustino VII	132	7	7	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av choklad, inslag av jordgubbar, inslag av örter, inslag av kanel, inslag av vanilj	Flaska
+2266202	Faustino VII	157.33	7	7	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av choklad, inslag av jordgubbar, inslag av örter, inslag av kanel, inslag av vanilj	Flaska
+2267401	Viña Albali	118.67	8	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av körsbär, inslag av lagerblad, inslag av skogshallon, inslag av choklad, inslag av kryddnejlika, inslag av vanilj	Flaska
+227301	Château d'Eternes	182.67	7	7	9	Fruktig smak med inslag av svarta vinbär, inslag av plommon, inslag av muskot, inslag av blåbär, inslag av kryddor	Flaska
+229801	Domaine des Pasquiers	212	9	9	9	Nyanserad, kryddig smak med inslag av björnbär, inslag av viol, inslag av plommon, inslag av svartpeppar, inslag av lagerblad, inslag av skogshallon, inslag av blåbär och charkuterier. 	Flaska
+230001	Villa Antinori	238.67	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av salvia, inslag av plommon, inslag av kaffe, inslag av svarta vinbär, inslag av vanilj, inslag av ceder, inslag av kakao	Flaska
+230006	Villa Antinori	266	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av salvia, inslag av plommon, inslag av kaffe, inslag av vanilj, inslag av kakao	Flaska
+231001	Ruffino	145.33	5	5	9	Bärig smak med inslag av körsbär, inslag av färska örter, inslag av hallon, inslag av viol	Flaska
+231002	Ruffino	200	5	5	9	Bärig smak med inslag av körsbär, inslag av färska örter, inslag av hallon, inslag av viol	Flaska
+231701	Beaujolais Villages	172	5	5	10	Bärig, ungdomlig smak med inslag av körsbär, inslag av blåbär, inslag av viol, inslag av färska örter, inslag av skogshallon, inslag av lakrits	Flaska
+233401	Ciù Ciù di Bartolomei	132	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av örter, inslag av skogshallon, inslag av blåbär, inslag av choklad	Flaska
+233408	Ciù Ciù di Bartolomei	86.33	8	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av basilika, inslag av skogshallon, inslag av björnbär, inslag av vanilj	Box
+233701	Montepulciano d'Abruzzo	105.33	5	5	9	Bärig smak med inslag av körsbär, inslag av viol, inslag av skogshallon, inslag av blåbär	Flaska
+234301	Teroldego d'Isera	172	7	7	9	Fruktig, nyanserad smak med inslag av fat, inslag av körsbär, inslag av färska örter, inslag av skogshallon, inslag av viol	Flaska
+235501	Botteotto	158.67	8	8	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av salvia, inslag av plommon, inslag av choklad, inslag av vanilj	Flaska
+236608	El Gran Botánico	73	7	7	9	Mycket fruktig, ungdomlig smak med inslag av björnbär, inslag av viol, inslag av hallon, inslag av peppar, inslag av körsbär	Box
+236802	Paolo Scavino	317.33	9	9	10	Nyanserad, kryddig smak med inslag av fat, inslag av körsbär, inslag av rosor, inslag av jordgubbar, inslag av nypon, inslag av skogshallon, inslag av svart te, inslag av blodapelsin	Flaska
+237601	Quercia al Poggio	252	9	9	10	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, inslag av nougat, inslag av ceder, inslag av mörk choklad, inslag av pomerans, inslag av vanilj	Flaska
+238101	Reflection Ridge Cabernet Sauvignon	132	9	9	9	Fruktigt, smakrikt vin med rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av mörk choklad, inslag av kaffe, inslag av skogshallon, inslag av peppar, inslag av vanilj	Flaska
+238601	Masi Modello	132	5	5	9	Bärig, ungdomlig smak med inslag av skogshallon, inslag av blåbär, inslag av örter, inslag av lakrits	Flaska
+238808	Monlusso	99.67	9	8	9	Fruktig, kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av kanel, inslag av plommon, inslag av kakao	Box
+239001	Cantina Zaccagnini	158.67	7	7	9	Kryddig smak med inslag av fat, inslag av inslag av körsbär, inslag av timjan, inslag av kryddnejlika, inslag av vanilj, inslag av hallon	Flaska
+239701	Domaine Laougué	201.33	10	10	10	Nyanserad, fruktig smak med inslag av plommon, inslag av svarta vinbär, inslag av lagerblad, inslag av peppar, inslag av svart te, inslag av vanilj	Flaska
+239901	Langhe Rosso	180	7	8	10	Fruktig, något kryddig smak med inslag av fat, inslag av körsbär, inslag av timjan, inslag av jordgubbar, inslag av hallon, inslag av peppar, inslag av blodapelsin	Flaska
+240001	DeAetna Rosso	252	7	8	10	Nyanserad, kryddig smak med inslag av fat, inslag av körsbär, inslag av jordgubbar, inslag av sandelträ, inslag av timjan, inslag av lingon, inslag av lagerblad, inslag av kanel, inslag av blodapelsin	Flaska
+241801	Leale	113.33	6	6	10	Fruktig smak med inslag av körsbär, inslag av färska örter, inslag av hallon, inslag av blåbär	Pappförpackning
+242901	Vigno	412	9	9	10	Nyanserad, fruktig smak med tydlig fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av lakrits, inslag av timjan, inslag av mörk choklad, inslag av skogshallon	Flaska
+243701	Gran Palaza	79	6	6	9	Fruktig smak med inslag av skogshallon, inslag av körsbär, inslag av peppar, inslag av plommon	Pappförpackning
+244208	Sangre de Toro	85	6	6	9	Fruktig smak med inslag av fat, inslag av skogshallon, inslag av viol, inslag av vanilj, inslag av blåbär, inslag av lakrits	Box
+244501	CHILL OUT	89	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av viol, inslag av kryddor	Flaska
+245801	Teodosio	185.33	9	9	9	Kryddig, nyanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av rosmarin, inslag av  plommon, inslag av ceder, inslag av mörk choklad, inslag av lakrits och svarta oliver.	Flaska
+246001	Alamos Organic Malbec	158.67	9	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av choklad, inslag av plommon, inslag av kryddor, inslag av vanilj	Flaska
+246801	Barolo Cascina Rocca	348	9	11	10	Nyanserad, kryddig smak med fatkaraktär, inslag av nypon, inslag av mogna jordgubbar, inslag av kanel, inslag av körsbär, inslag av rosor, inslag av nougat, inslag av svart te, inslag av pomerans	Flaska
+252501	Baron de Ley	172	9	9	9	Nyanserad, kryddig, utvecklad, balanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av katrinplommon, inslag av mörk choklad, inslag av dill och vanilj. 	Flaska
+2576407	McManis	114.5	9	8	9	Smakrikt, fruktigt vin med rostad fatkaraktär, inslag av svarta vinbär, inslag av mörk choklad, inslag av plommon, inslag av körsbär, inslag av kaffe, inslag av vanilj	Box
+259301	Château Pierre de Montignac	218.67	9	9	9	Nyanserad, fruktig smak med tydlig rostad fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av kakao, inslag av korinter, inslag av ceder, inslag av kaffe, inslag av vanilj	Flaska
+259401	Savigny-lès-Beaune Les Lavières 1er Cru	665.33	5	5	10	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av sandelträ, inslag av skogshallon, inslag av kanel, inslag av choklad, inslag av lingon	Flaska
+262001	La Revedere	118.67	6	5	9	Fruktig smak med liten sötma, inslag av skogshallon, inslag av körsbär, inslag av blåbär och färska örter.	Flaska
+263401	Domaine Boyar	105.33	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av mörk choklad, inslag av plommon, inslag av vanilj	Flaska
+268501	Señorío de los Llanos	101.33	7	7	9	Utvecklad, kryddig smak med fatkaraktär, inslag av torkade körsbär, inslag av russin, inslag av tobak, inslag av bergamott, inslag av nötter, inslag av vanilj	Flaska
+268601	Sangre de Toro	132	8	8	9	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av ceder, inslag av vanilj	Flaska
+268602	Sangre de Toro	157.33	8	8	9	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av ceder, inslag av vanilj	Flaska
+269507	Spring Village	106	6	6	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av blåbär, inslag av vitpeppar, inslag av vanilj, inslag av jordgubbar	Påse
+275401	Barbera d'Asti	145.33	8	7	10	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av lavendel, inslag av blåbär, inslag av örter	Flaska
+276801	Baron de Ley	292	9	9	9	Nyanserad, kryddig, utvecklad, balanserad smak med rostad fatkaraktär, inslag av mörka körsbär, inslag av kardemumma, inslag av choklad, inslag av fikon, inslag av dill, inslag av ceder, inslag av vanilj	Flaska
+278601	Campo Viejo	129.33	7	7	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av kanel, inslag av skogshallon, inslag av choklad	Flaska
+279401	Bikandi	145.33	8	8	9	Fruktig, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av ceder, inslag av choklad, inslag av dill, inslag av vanilj	Flaska
+281102	Château Mont-Redon	530.67	8	8	9	Kryddig, nyanserad smak med inslag av fat, inslag av björnbär, inslag av plommon, inslag av lagerblad, inslag av körsbär, inslag av sandelträ, inslag av vitpeppar, inslag av viol	Flaska
+284201	Cecchi Organic	225.33	8	8	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av bergamott, inslag av skogshallon och salvia. 	Flaska
+284501	Châteauneuf-du-Pape	452	10	10	10	Nyanserad, kryddig, balanserad smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av plommon, inslag av svartpeppar, inslag av skogshallon, inslag av choklad och viol. 	Flaska
+285201	Château Pineraie	185.33	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av blåbär, inslag av ceder, inslag av plommon, inslag av lakrits, inslag av  kakao, inslag av lagerblad och svarta oliver.	Flaska
+2900202	Allesverloren	173.33	9	8	9	Fruktig smak med fatkaraktär, inslag av björnbär, inslag av plommon, inslag av svartpeppar, inslag av skogshallon, inslag av timjan, inslag av choklad	Flaska
+295501	Punt Road	225.33	6	5	10	Nyanserad, kryddig smak med fatkaraktär, inslag av skogshallon, inslag av jordgubbar, inslag av lingon, inslag av sandelträ, inslag av örter	Flaska
+296201	Casillero del Diablo	116	7	7	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av färska örter, inslag av mörka körsbär, inslag av skogshallon, inslag av choklad, inslag av vanilj	Flaska
+297401	Ruppertsberger	118.67	4	4	10	Bärig smak med inslag av jordgubbar, inslag av lingon, inslag av kryddor, inslag av skogshallon, inslag av blodapelsin	Flaska
+301301	Château Tayac	192	9	9	9	Kryddig, nyanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av muskot, inslag av plommon, inslag av ceder, inslag av kakao, inslag av kaffe, inslag av vanilj	Flaska
+302701	Ribera 1 One	172	10	10	10	Nyanserad, fruktig smak med tydlig rostad fatkaraktär, inslag av plommon, inslag av choklad, inslag av svarta vinbär, inslag av korinter, inslag av ceder, inslag av örter, inslag av vanilj	Flaska
+303401	Casa Vinironia Palloncino	118.67	8	8	9	Kryddig, fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av örter, inslag av plommon, inslag av svartpeppar, inslag av vanilj	Flaska
+304001	Tenuta Vignega	198.67	7	7	10	Kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av hallon, inslag av kanel, inslag av blåbär, inslag av tobak, inslag av vanilj	Flaska
+307101	Château Capbern	529.33	9	9	9	Nyanserad, något utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av kaffe, inslag av plommon, inslag av kakao, inslag av ceder, inslag av peppar	Flaska
+310802	Fleur du Cap	144	9	8	9	Smakrikt, fruktigt, något kryddigt vin med inslag av fat, inslag av björnbär, inslag av mörk choklad, inslag av plommon, inslag av svarta oliver, inslag av lakrits	Flaska
+321001	Garzón	198.67	9	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av plommon, inslag av svartpeppar, inslag av mörka körsbär, inslag av kakao, inslag av lagerblad och svarta oliver.	Flaska
+330501	Rutini	212	10	9	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av svarta vinbär, inslag av björnbär, inslag av mörk choklad, inslag av sötlakrits, inslag av svart te, inslag av vanilj	Flaska
+353101	Château de la Liquière Faugères	238.67	9	9	9	Nyanserad, kryddig smak med inslag av björnbär, inslag av lavendel, inslag av svartpeppar, inslag av skogshallon, inslag av lakrits, inslag av torkade tranbär och lagerblad. 	Flaska
+360101	Château Quinsac	193.33	9	9	9	Nyanserad, något utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av plommon, inslag av kaffe, inslag av korinter och mörk choklad.	Flaska
+362602	Château Plantier Rose	354.67	9	9	9	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av plommon, inslag av mörka körsbär, inslag av kakao, inslag av viol, inslag av vanilj	Flaska
+371308	Castillo Manzano	66.33	6	6	9	Fruktig, ungdomlig smak med inslag av fat, inslag av mörka körsbär, inslag av blåbär, inslag av kryddor, inslag av vanilj	Box
+395801	Château de Seguin	158.67	8	8	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av blåbär, inslag av kakao, inslag av kryddor	Flaska
+450501	Dehesa La Granja	172	10	10	10	Nyanserad, något utvecklad, kryddig smak med tydlig fatkaraktär, inslag av plommon, inslag av tobak, inslag av kakao, inslag av mörka körsbär, inslag av vanilj, inslag av fikon, inslag av hasselnötter, inslag av kaffe	Flaska
+463801	Stellenbosch Reserve	198.67	9	9	10	Fruktig, balanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av plommon, inslag av mörk choklad, inslag av björnbär, inslag av kaffe, inslag av vanilj	Flaska
+464101	Cono Sur	132	6	5	9	Kryddig smak med fatkaraktär, inslag av skogshallon, inslag av kanel, inslag av jordgubbar, inslag av choklad, inslag av peppar, inslag av mynta	Flaska
+464304	JP Chenet	156	5	5	9	Bärig smak med inslag av svarta vinbär, inslag av blåbär, inslag av lavendel, inslag av lakrits, inslag av örter	Flaska
+464501	Dark Horse	148	8	8	9	Generöst fruktig smak med inslag av fat, inslag av blåbärssylt, inslag av björnbär, inslag av mynta, inslag av choklad, inslag av vanilj, inslag av sötlakrits	Flaska
+466301	Hermitage Rouge	998.67	10	9	9	Komplext, smakrikt vin med fatkaraktär, inslag av björnbär, inslag av lagerblad, inslag av plommon, inslag av rökta charkuterier, inslag av vitpeppar, inslag av skogshallon, inslag av kakao, inslag av lakrits	Flaska
+5031210	Massimo	68.67	8	6	8	Fruktig smak med fatkaraktär, inslag av plommon, inslag av mörka körsbär, inslag av choklad, inslag av russin, inslag av vanilj	Box
+5038608	Ecoltura	69	9	8	9	Fruktig smak med fatkaraktär och liten sötma, inslag av plommon, inslag av choklad, inslag av mörka körsbär, inslag av viol, inslag av vanilj	Box
+512306	Masi Campofiorin	199.33	8	8	10	Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, inslag av nougat, inslag av plommon, inslag av salvia, inslag av vanilj, inslag av hallon	Flaska
+5262308	Maggio Piemonte	99.67	8	9	10	Kryddig smak med inslag av fat, inslag av mogna jordgubbar, inslag av kanel, inslag av körsbär, inslag av rosor, inslag av blodapelsin	Box
+5270401	Dievole	198.67	8	8	10	Kryddig, nyanserad smak med fatkaraktär, inslag av körsbär, inslag av nougat, inslag av hallon, inslag av ceder, inslag av nougat, inslag av kanel, inslag av kakao, inslag av vanilj	Flaska
+532801	Monti Garbi	212	8	8	10	Kryddig, något utvecklad smak med inslag av fat, inslag av torkade körsbär, inslag av vanilj, inslag av pinjenötter, inslag av kanel	Flaska
+5328508	Il Capolavoro	73	8	7	9	Fruktig smak med inslag av mörka körsbär, inslag av salvia, inslag av russin, inslag av peppar, inslag av plommon	Box
+535402	Tommasi Graticcio Appassionato	200	7	6	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av russin, inslag av kryddnejlika, inslag av vanilj	Flaska
+549101	La Dame de Malescot	496	9	9	9	Komplex smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av plommon, inslag av kaffe, inslag av kakao, inslag av korinter	Flaska
+5563708	Les Sorts	95.67	8	8	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av plommon, inslag av peppar, inslag av skogshallon, inslag av vanilj	Box
+569701	Château Tour Sieujean	438.67	9	9	9	Nyanserad, fruktig smak med tydlig rostad fatkaraktär, inslag av svarta vinbär, inslag av kaffe, inslag av plommon, inslag av ceder, inslag av kakao, inslag av körsbär, inslag av vanilj	Flaska
+607508	Lindeman's	83	8	7	9	Generöst fruktig smak med fatkaraktär, inslag av björnbär, inslag av skogshallon, inslag av örter, inslag av svarta vinbär, inslag av vanilj	Box
+613908	Ramos	93	7	7	9	Fruktig smak med inslag av mörka körsbär, inslag av örter, inslag av blåbär, inslag av skogshallon, inslag av lakrits	Box
+620301	Chateau Ste Michelle	206.67	9	8	9	Fruktig, balanserad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av kakao, inslag av mörka körsbär, inslag av lavendel, inslag av kaffe, inslag av plommon, inslag av vanilj	Flaska
+638001	Buena Vista	358.67	6	5	9	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mogna jordgubbar, inslag av nougat, inslag av körsbär, inslag av choklad, inslag av kaffe, inslag av sandelträ, inslag av vanilj	Flaska
+642008	Apothic Red	109.67	8	6	8	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av björnbär, inslag av vanilj, inslag av blåbär, inslag av mintchoklad	Box
+643001	Lindemans	105.33	6	5	9	Fruktig smak med liten sötma, inslag av björnbär, inslag av svarta vinbär, inslag av skogshallon, inslag av sötlakrits, inslag av vanilj, inslag av örter	Flaska
+645002	Novas Gran Reserva	173.33	9	9	9	Fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av färska örter, inslag av plommon, inslag av mörka körsbär, inslag av lakrits, inslag av vanilj	Flaska
+650701	Three Finger Jack	198.67	10	7	8	Mycket fruktig smak med tydlig fatkaraktär, inslag av björnbär, inslag av vanilj, inslag av romrussin, inslag av choklad, inslag av jordgubbar	Flaska
+652901	Tapiz	265.33	10	9	9	Mycket fruktigt smakrikt vin med rostad fatkaraktär, inslag av blåbär, inslag av lavendel, inslag av plommon, inslag av svarta vinbär, inslag av mörk choklad, inslag av kaffe, inslag av vanilj	Flaska
+657815	District 7	197.33	6	6	9	Nyanserad, kryddig smak med rostad fatkaraktär, inslag av mogna jordgubbar, inslag av kaffe, inslag av skogshallon, inslag av lagerblad, inslag av kardemumma, inslag av nougat	Burk
+658102	Cameleon	184	9	8	9	Mycket fruktig smak med inslag av fat, inslag av björnbär, inslag av sötlakrits, inslag av svarta vinbär, inslag av viol, inslag av choklad	Flaska
+659701	Gnarly Head	158.67	8	6	8	Mycket fruktig smak med inslag av fat, inslag av blåbärssylt, inslag av svartpeppar, inslag av mogna jordgubbar, inslag av vanilj	Flaska
+661101	Noble Vines 667	198.67	6	5	9	Kryddig, nyanserad smak med fatkaraktär, inslag av jordgubbar, inslag av färska örter, inslag av körsbär, inslag av vanilj, inslag av skogshallon, inslag av choklad	Flaska
+662007	Santa Inés	126	8	8	9	Fruktig smak med fatkaraktär, inslag av av svarta vinbär, inslag av choklad, inslag av plommon, inslag av kryddnejlika, inslag av lakrits	Box
+671104	Spring Village	181.82	6	4	8	Mycket fruktig smak med sötma, inslag av fat, inslag av plommon, inslag av sötlakrits, inslag av skogshallon, inslag av vanilj	Flaska
+681601	The Great Bonza	118.67	9	8	9	Mycket fruktig smak med rostad fatkaraktär, inslag av björnbär, inslag av plommon, inslag av vanilj, inslag av svarta vinbär, inslag av kardemumma, inslag av mintchoklad	Flaska
+689401	Hope	132	9	8	9	Fruktig, kryddig smak med inslag av fat, inslag av björnbär, inslag av plommon, inslag av eukalyptus, inslag av svartpeppar, inslag av lakrits, inslag av vanilj	Flaska
+699802	Masi Bonacosta	184	5	5	10	Bärig, ungdomlig smak med inslag av körsbär, inslag av blåbär, inslag av färska örter, inslag av skogshallon	Flaska
+7002101	19 Crimes	185.33	8	7	8	Mycket fruktig smak med fatkaraktär, inslag av plommon, inslag av choklad, inslag av blåbärssylt, inslag av mörka körsbär, inslag av vanilj	Flaska
+7003915	Underwood	218.67	5	4	9	Bärig smak med inslag av mogna jordgubbar, inslag av körsbär, inslag av mynta, inslag av skogshallon	Burk
+7036001	Amarone della Valpolicella	369.33	10	9	10	Kryddig, nyanserad smak med inslag av fat, inslag av torkade körsbär, inslag av peppar, inslag av kryddnejlika, inslag av kokos, inslag av apelsinchoklad	Flaska
+7047001	Ripresa	118.67	7	7	9	Kryddig, utvecklad smak med inslag av mörka körsbär, inslag av katrinplommon, inslag av skogshallon, inslag av slånbär, inslag av lakrits och lagerblad. 	Flaska
+7052101	The Butcher	225.33	5	5	9	Nyanserad, kryddig smak med fatkaraktär, inslag av jordgubbar, inslag av nougat, inslag av skogshallon, inslag av sandelträ, inslag av körsbär	Flaska
+7063501	Amarone della Valpolicella	332	9	9	9	Kryddig smak med liten sötma, inslag av fat, inslag av mörka körsbär, inslag av katrinplommon, inslag av choklad, inslag av peppar, inslag av salvia, inslag av kanel	Flaska
+7076901	Bevanti	158.67	8	8	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av salvia, inslag av plommon, inslag av choklad, inslag av vanilj	Flaska
+7104601	Le Chef	99	6	6	9	Fruktig, ungdomlig smak med liten sötma, inslag av fat, inslag av blåbär, inslag av kryddor, inslag av skogshallon, inslag av örter, inslag av vanilj, inslag av lakrits	Flaska
+7146101	Otello	254.67	5	3	10	Bärig, pärlande smak med inslag av blåbär, inslag av hallon, inslag av färska örter, inslag av körsbär	Flaska
+7160801	Casa Belfi	252	6	6	10	Fruktig smak med inslag av mogna jordgubbar, inslag av körsbär, inslag av dragon, inslag av tranbär, inslag av kryddor	Flaska
+7166201	Chianti	129.33	8	8	10	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av salvia, inslag av skogshallon, inslag av kanel, inslag av kakao, inslag av pomerans	Flaska
+7178501	Gran Appasso	132	8	7	9	Fruktig smak med inslag av fat, inslag av körsbär, inslag av örter, inslag av björnbär, inslag av choklad, inslag av vanilj	Flaska
+7180501	Valpolicella Ripasso	158.67	7	7	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av vanilj, inslag av choklad, inslag av skogshallon, inslag av lagerblad, inslag av jordgubbar	Flaska
+7183206	Delas Saint Esprit	199.33	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av lagerblad, inslag av plommon, inslag av hallon, inslag av lakrits, inslag av svartpeppar	Flaska
+7203401	Alain Jaume	180	8	8	9	Kryddig, fruktig smak med inslag av skogshallon, inslag av lagerblad, inslag av björnbär, inslag av viol, inslag av svartpeppar, inslag av örter	Flaska
+7211401	Bodega Paniza	130.67	8	8	9	Mycket fruktig smak med liten sötma, inslag av fat, inslag av svarta vinbär, inslag av körsbär, inslag av viol, inslag av svartpeppar, inslag av vanilj, inslag av mynta	Flaska
+7213901	GW :s Röda	158.67	6	6	9	Fruktig smak med inslag av mörka körsbär, inslag av viol, inslag av skogshallon, inslag av kryddor, inslag av plommon	Flaska
+7214301	Dominio Alto	172	8	8	9	Kryddig, utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av tobak, inslag av korinter, inslag av kanel, inslag av pomerans, inslag av nötter, inslag av kakao, inslag av dill, inslag av vanilj	Flaska
+7215201	Capitano Rosso	95	8	7	9	Mycket fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av blåbär, inslag av choklad och vanilj,	Flaska
+7217108	Casa Nostra	73	8	7	9	Mycket fruktig smak med inslag av mörka körsbär, inslag av blåbärssylt, inslag av nötter, inslag av lakrits	Box
+7218608	GW :s Låda	89.67	7	7	10	Fruktig smak med inslag av mörka körsbär, inslag av örter, inslag av plommon och svarta vinbär.	Box
+7238701	Lynx	172	8	8	9	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av björnbär, inslag av mörka körsbär, inslag av vanilj, inslag av blåbär, inslag av viol, inslag av kryddnejlika, inslag av apelsinchoklad	Flaska
+7238901	Castelgufo	158.67	8	8	10	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av svart te, inslag av kakao, inslag av kaffe, inslag av nötter och örter. 	Flaska
+7249201	Escada	118.67	8	8	9	Mycket fruktig smak med fatkaraktär och liten sötma, inslag av mörka körsbär, inslag av mjölkchoklad, inslag av jordgubbar, inslag av kryddor, inslag av plommon	Flaska
+7267508	Lynx	99.67	9	8	9	Fruktigt, smakrikt vin med fatkaraktär, inslag av blåbär, inslag av plommon, inslag av choklad, inslag av kryddnejlika, inslag av viol, inslag av vanilj	Box
+7278201	Piemonte	172	5	5	10	Bärig smak med inslag av skogshallon, inslag av körsbär, inslag av färska örter, inslag av viol	Flaska
+7294501	Viva Valentina	158.67	7	7	9	Kryddig smak med fatkaraktär och liten sötma, inslag av mörka körsbär, inslag av kryddnejlika, inslag av russin, inslag av blåbär, inslag av kaffe, inslag av vanilj	Flaska
+7301801	Santa Duc	158.67	8	7	9	Kryddig, fruktig smak med inslag av skogshallon, inslag av lagerblad, inslag av blåbär, inslag av lakrits, inslag av svartpeppar	Flaska
+7327901	Langhe	158.67	7	8	10	Nyanserad, fruktig smak med inslag av mörka körsbär, inslag av skogshallon, inslag av rosor, inslag av blåbär, inslag av lakrits, inslag av blodapelsin	Flaska
+7345601	Replica	132	7	5	8	Mycket fruktig smak med liten sötma och tydlig fatkaraktär, inslag av björnbär, inslag av kaffe, inslag av kokos, inslag av vanilj, inslag av choklad	Flaska
+7352801	Ville di Antané	172	8	8	10	Kryddig smak med inslag av körsbär, inslag av salvia, inslag av mogna jordgubbar, inslag av nötter, inslag av pomerans	Flaska
+7354601	Massimo	99	7	6	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av russin, inslag av choklad, inslag av hallon, inslag av vanilj	Flaska
+7357001	Casa Marrone	153.33	9	8	9	Kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av romrussin, inslag av peppar, inslag av vanilj	Flaska
+7366101	Borgogno	412	8	9	10	Nyanserad, kryddig, utvecklad smak med fatkaraktär, inslag av torkade körsbär, inslag av nougat, inslag av tranbär, inslag av blodapelsin, inslag av tobak och svart te.	Flaska
+7396608	Zensa	100	7	6	8	Generöst fruktig smak med fatkaraktär och liten sötma, inslag av mörka körsbär, inslag av choklad, inslag av russin, inslag av kaffe, inslag av sötlakrits, inslag av vanilj	Box
+7401404	Petit Paul Sapin	192.51	5	5	9	Bärig smak med inslag av blåbär, inslag av färska örter, inslag av lingon och svarta vinbär.	Flaska
+7408301	Substance Cs	265.33	9	9	9	Nyanserad, fruktig smak med fatkaraktär, inslag av svarta vinbär, inslag av plommon, inslag av mörk choklad, inslag av örter, inslag av nougat, inslag av peppar, inslag av kaffe	Flaska
+7412801	Bollo	158.67	7	7	9	Kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av kryddnejlika, inslag av blåbär, inslag av muskot, inslag av choklad	Flaska
+7413401	Philipp Kuhn	260	5	5	10	Nyanserad, kryddig smak med inslag av fat, inslag av mogna jordgubbar, inslag av sandelträ, inslag av skogshallon, inslag av körsbär, inslag av lagerblad, inslag av nougat, inslag av blodapelsin	Flaska
+7418901	Zecci	212	9	9	9	Nyanserad, kryddig smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av kryddor, inslag av korinter, inslag av kaffe, inslag av vanilj	Flaska
+7420101	Borgogno	265.33	7	7	10	Nyanserad, fruktig smak med inslag av fat, inslag av körsbär, inslag av blåbär, inslag av bergamott, inslag av lakrits, inslag av örter	Flaska
+7425501	Pietro Di Campo	132	7	6	10	Fruktig, nyanserad smak med inslag av mörka körsbär, inslag av blåbär, inslag av bergamott, inslag av örter	Flaska
+7431201	LAB	113.33	9	8	9	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av svarta vinbär, inslag av blåbär, inslag av choklad, inslag av vanilj	Flaska
+7432508	Amicale	99.67	8	8	9	Mycket fruktig smak med liten sötma, inslag av fat, inslag av mörka körsbär, inslag av plommon, inslag av choklad, inslag av nötter, inslag av kanel, inslag av kryddnejlika	Box
+745108	Roodeberg	89.67	8	7	9	Fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av örter, inslag av plommon, inslag av choklad, inslag av vanilj, inslag av skogshallon	Box
+7465908	The Wanted Zin	93	8	6	8	Mycket fruktig smak med fatkaraktär och liten sötma, inslag av katrinplommon, inslag av körsbär, inslag av chokladpraliner, inslag av kardemumma, inslag av vanilj	Box
+7478901	Farmers Market	118.67	7	6	9	Kryddig, fruktig smak med inslag av fat, inslag av plommon, inslag av svartpeppar, inslag av fikon, inslag av vanilj	Flaska
+7487101	Vivaldi	132	5	5	10	Bärig smak med inslag av körsbär, inslag av blåbär, inslag av hallon, inslag av lavendel, inslag av kryddor	Flaska
+7496001	Livio Pavese	172	8	7	10	Fruktig smak med fatkaraktär, inslag av mörka körsbär, inslag av blåbär, inslag av muskot, inslag av skogshallon, inslag av choklad och plommon. 	Flaska
+7513001	Pizza Wine	105.33	6	5	9	Fruktig, ungdomlig smak med inslag av körsbär, inslag av blåbär, inslag av hallon, inslag av kryddor	Flaska
+7518401	Villa Righetti	305.33	10	10	10	Nyanserad, kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av choklad, inslag av romrussin, inslag av plommon, inslag av pinjenötter, inslag av kanel, inslag av salvia, inslag av vanilj	Flaska
+7535501	G Tocka	226.67	8	9	9	Fruktig smak med inslag av svarta vinbär, inslag av skogshallon, inslag av timjan, inslag av peppar och mörka körsbär.	Flaska
+7541601	Barone Montalto	132	8	9	9	Kryddig, fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av örter, inslag av skogshallon, inslag av kryddnejlika, inslag av lakrits, inslag av vanilj	Flaska
+7548801	Grandicone	109	9	9	9	Kryddigt, smakrikt vin med inslag av fat, inslag av russin, inslag av torkade körsbär, inslag av kryddpeppar, inslag av choklad, inslag av vanilj	Flaska
+756408	Gato Negro	69.67	6	6	9	Mycket fruktig, ungdomlig smak med inslag av fat, inslag av svarta vinbär, inslag av kryddor, inslag av blåbär, inslag av vanilj	Box
+7570701	Castelmare	265.33	10	9	9	Nyanserad, kryddig smak med inslag av mörka körsbär, inslag av choklad, inslag av kryddnejlika, inslag av  romrussin, inslag av nötter, inslag av vanilj	Flaska
+7576401	Belleruche Côtes-du-Rhône	198.67	7	7	9	Nyanserad, kryddig smak med inslag av björnbär, inslag av vitpeppar, inslag av timjan, inslag av skogshallon, inslag av viol, inslag av lagerblad	Flaska
+7582501	Grandiosa	99	8	8	9	Mycket fruktig, ungdomlig smak med inslag av mörka körsbär, inslag av färska örter, inslag av blåbär, inslag av skogshallon, inslag av viol	Flaska
+7600201	Marzemino	194.67	5	-1	8	Bärig, pärlande smak med sötma, inslag av skogshallon, inslag av skumbanan, inslag av blåbär	Flaska
+7630802	Villa Righetti	237.33	9	8	9	Kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av choklad, inslag av russin, inslag av salvia, inslag av kanel	Flaska
+7636501	Prescription	132	8	5	8	Mycket fruktig smak med liten sötma och fatkaraktär, inslag av mörka körsbär, inslag av mjölkchoklad, inslag av hallon, inslag av vanilj och mynta. 	Flaska
+7638508	Montecone	66.33	7	6	9	Fruktig smak med inslag av körsbär, inslag av sötlakrits, inslag av skogshallon, inslag av vanilj	Box
+7651301	Enzo Bartoli	132	7	7	10	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av färska örter, inslag av skogshallon, inslag av blåbär, inslag av viol	Flaska
+7653501	Piemonte Barbera	158.67	8	7	9	Mycket fruktig smak med fatkaraktär och liten sötma, inslag av mörka körsbär, inslag av vanilj, inslag av hallon, inslag av örter	Flaska
+7656001	Barolo	292	8	10	10	Nyanserad, kryddig smak med fatkaraktär, inslag av nypon, inslag av sandelträ, inslag av torkade körsbär, inslag av nougat, inslag av kanel, inslag av blodapelsin och svart te.	Flaska
+7659801	Viva Valentina	145.33	7	6	9	Fruktig, kryddig smak med liten sötma, inslag av fat, inslag av mörka körsbär, inslag av russin, inslag av kanel, inslag av vanilj	Flaska
+7668601	Casa Marrone	193.33	9	8	9	Kryddigt, smakrikt vin med liten sötma, inslag av fat, inslag av romrussin, inslag av choklad, inslag av vanilj, inslag av mörka körsbär, inslag av plommon, inslag av nötter	Flaska
+7712301	Zupreme	105.33	7	6	9	Fruktig smak med fatkaraktär, inslag av skogshallon, inslag av mogna jordgubbar, inslag av choklad, inslag av vanilj	Flaska
+7735001	Enzo Bartoli	438.67	8	10	10	Kryddig, nyanserad smak med inslag av fat, inslag av torkade tranbär, inslag av rosor, inslag av kanel, inslag av nougat, inslag av svart te och pomerans. 	Flaska
+7757301	Buffalo Barrel	158.67	8	5	8	Mycket fruktig smak med fatkaraktär och liten sötma, inslag av mogna jordgubbar, inslag av mjölkchoklad, inslag av mynta, inslag av blåbär, inslag av vanilj	Flaska
+7796101	Marastoni	105.33	7	7	9	Fruktig smak med inslag av fat, inslag av mörka körsbär, inslag av hallon, inslag av kryddnejlika, inslag av plommon, inslag av choklad	Flaska
+7843501	Montelciego	132	7	7	9	Kryddig smak med fatkaraktär, inslag av körsbär, inslag av nougat, inslag av plommon, inslag av jordgubbar, inslag av kanel, inslag av vanilj, inslag av dill	Flaska
+7846008	Casas Honestos	66.33	7	7	9	Fruktig, något kryddig smak med inslag av fat, inslag av mörka körsbär, inslag av muskot, inslag av svarta vinbär, inslag av choklad	Box
+7861401	Jean-Claude Boisset	252	5	5	10	Bärig, något kryddig smak med inslag av fat, inslag av hallon, inslag av lingon, inslag av färska örter, inslag av muskot och jordgubbar. 	Flaska
+7896307	Hardys Nottage Hill	99.33	7	7	9	Mycket fruktig smak med inslag av fat, inslag av svarta vinbär, inslag av björnbär, inslag av choklad, inslag av svartpeppar, inslag av vanilj	Box
+7900001	Amarone della Valpolicella	372	9	8	9	Nyanserad, utvecklad, kryddig smak med fatkaraktär, inslag av torkad frukt, inslag av kanel, inslag av pomerans, inslag av svarta oliver, inslag av choklad	Flaska
+7903901	Saint Louis	99	5	4	9	Bärig smak med inslag av jordgubbar, inslag av körsbär, inslag av blodapelsin, inslag av kanel och färska örter.	Flaska
+7909701	Brigaldara	212	8	8	9	Kryddig smak med inslag av fat, inslag av körsbär, inslag av kanel, inslag av mogna jordgubbar, inslag av salvia, inslag av choklad	Flaska
+7912501	Ecoltura	158.67	6	6	10	Kryddig, bärig smak med inslag fat, körsbär, färska örter, skogshallon, blodapelsin, kryddor, vanilj	Flaska
+7930701	Juan Gil	238.67	9	9	9	Nyanserad, kryddig, balanserad smak med fatkaraktär, inslag av körsbär, inslag av peppar, inslag av svarta vinbär, inslag av mörk choklad, inslag av plommon, inslag av lagerblad, inslag av vanilj	Flaska
+9023101	Promis	478.67	9	9	9	Nyanserad, balanserad smak med fatkaraktär, inslag av mörka körsbär, inslag av plommon, inslag av ceder, inslag av viol, inslag av kakao, inslag av fikon, inslag av vanilj	Flaska
+9063301	Chocalán Origen	198.67	9	9	9	Mycket fruktig smak med tydlig fatkaraktär, inslag av svarta vinbär, inslag av färska örter, inslag av kakao, inslag av blåbär, inslag av kaffe, inslag av skogshallon, inslag av ceder, inslag av plommon, inslag av vanilj	Flaska
+9201401	Rosso Colli Tortonesi	228	10	10	10	Smakrikt, fruktigt vin med inslag av plommon, inslag av svartpeppar, inslag av mörka körsbär, inslag av viol, inslag av svarta oliver, inslag av blåbär, inslag av svart te och färska örter.	Flaska
+9203001	David & Nadia	225.33	6	7	10	Nyanserad, fruktig smak med inslag av fat, inslag av skogshallon, inslag av lingon, inslag av rökig mineral, inslag av färska örter, inslag av vitpeppar, inslag av nougat, inslag av blodapelsin	Flaska
+9210801	Longridge Wine	305.33	9	9	9	Nyanserad, fruktig, balanserad smak med tydlig fatkaraktär, inslag av svarta vinbär, inslag av rosmarin, inslag av hallon, inslag av choklad, inslag av kaffe, inslag av plommon, inslag av kardemumma, inslag av vanilj	Flaska
+9220801	Château Montus	374.67	10	10	10	Nyanserad, fruktig smak med fatkaraktär, inslag av plommon, inslag av kakao, inslag av ceder, inslag av fikon, inslag av björnbär, inslag av svarta oliver, inslag av lagerblad, inslag av peppar	Flaska
+9236301	Château Tour Seran	348	9	9	9	Nyanserad, något utvecklad smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av korinter, inslag av kaffe, inslag av plommon, inslag av kakao	Flaska
+9244801	Burn Cottage	534.67	6	6	10	Komplex, kryddig smak med fatkaraktär, inslag av mogna jordgubbar, inslag av choklad, inslag av ingefära, inslag av skogshallon, inslag av ceder, inslag av mörka körsbär, inslag av kanel	Flaska
+9259701	Hey Malbec	206.67	9	9	10	Mycket fruktigt, smakrikt vin med inslag av fat, inslag av björnbär, inslag av plommon, inslag av mörka körsbär, inslag av färska örter, inslag av viol, inslag av svartpeppar, inslag av lakrits, inslag av vanilj	Flaska
+9286201	Supersónico Garnacha	334.67	6	6	10	Nyanserad, fruktig smak med inslag av fat, inslag av körsbär, inslag av örter, inslag av vanilj, inslag av peppar, inslag av jordgubbar, inslag av skogshallon	Flaska
+9292401	Mamete Prevostini	468	9	10	10	Nyanserad, kryddig smak med inslag av fat, inslag av torkade körsbär, inslag av rökig mineral, inslag av hallon, inslag av sandelträ, inslag av blodapelsin, inslag av salvia, inslag av rosor, inslag av svart te, inslag av vanilj	Flaska
+9308201	Gigondas	292	9	9	9	Nyanserad, kryddig smak med inslag av fat, inslag av björnbär, inslag av plommon, inslag av timjan, inslag av vitpeppar, inslag av lavendel, inslag av rökta charkuterier, inslag av skogshallon	Flaska
+9319501	Domaine Bressy Masson Rasteau	268	8	8	9	Smakrikt, kryddigt vin med inslag av björnbär, inslag av svartpeppar, inslag av skogshallon, inslag av lavendel, inslag av blåbär, inslag av muskot, inslag av lagerblad	Flaska
+9329001	Viña Alberdi	292	9	8	9	Kryddig, nyanserad, utvecklad smak med fatkaraktär, inslag av körsbär, inslag av kardemumma, inslag av choklad, inslag av plommon, inslag av dill, inslag av nougat, inslag av ceder, inslag av vanilj	Flaska
+9353102	Viña Tondonia	560	8	9	9	Nyanserad, mogen smak med fatkaraktär, inslag av torkade körsbär, inslag av dill, inslag av kakao, inslag av kanel, inslag av tobak, inslag av hasselnötter, inslag av kaffe, inslag av vanilj, inslag av bergamott	Flaska
+9362501	Schuster	265.33	6	6	10	Nyanserad, kryddig smak med inslag av fat, inslag av skogshallon, inslag av lavendel, inslag av mörka körsbär, inslag av vitpeppar, inslag av jordgubbar, inslag av lakrits	Flaska
+9363101	Franco Molino	734.67	9	11	10	Komplex, kryddig, något utvecklad smak med fatkaraktär, inslag av nypon, inslag av kanel, inslag av muskot, inslag av pomerans, inslag av svart te, inslag av timjan, inslag av kakao och torkade körsbär.	Flaska
+9386601	Loop RD by Quartz Reef	401.33	5	5	10	Nyanserad, bärig, något kryddig smak med inslag av fat, inslag av mogna jordgubbar, inslag av skogshallon, inslag av nougat, inslag av blodapelsin, inslag av kanel, inslag av sandelträ och örter. 	Flaska
+9412901	Rayos Uva	225.33	9	9	9	Nyanserad, fruktig smak med inslag av fat, inslag av katrinplommon, inslag av mörka körsbär, inslag av torkade örter, inslag av kakao, inslag av svart te, inslag av kryddor och vanilj. 	Flaska
+9486201	Fleurie	292	6	6	10	Nyanserad, bärig, något kryddig smak med inslag av körsbär, inslag av hallon, inslag av mineral, inslag av viol, inslag av lagerblad, inslag av muskot, inslag av blodapelsin	Flaska
+9497901	Castell'in Villa	332	9	9	10	Nyanserad, kryddig, något utvecklad smak med fatkaraktär, inslag av mörka körsbär, inslag av salvia, inslag av choklad, inslag av pinjenötter, inslag av mogna jordgubbar, inslag av kanel, inslag av pomerans	Flaska
+9499101	Alberto Ballarin	265.33	8	10	10	Nyanserad, kryddig smak med inslag av körsbär, inslag av rosor, inslag av jordgubbar, inslag av salvia, inslag av nötter, inslag av nypon, inslag av svart te, inslag av blodapelsin	Flaska
+9510401	Domaine de l'Hortus	372	8	8	9	Nyanserad, kryddig, smak med inslag av fat, inslag av skogshallon, inslag av plommon, inslag av lavendel, inslag av mynta, inslag av kryddpeppar, inslag av blodapelsin, inslag av lagerblad	Flaska
+9511701	Chinon Gabare	265.33	6	6	10	Nyanserad, fruktig smak med inslag av svarta vinbär, inslag av blåbär, inslag av lavendel, inslag av skogshallon, inslag av lakrits, inslag av lagerblad	Flaska
+9521101	Roda	429.33	10	10	10	Komplex, kryddig smak med tydlig fatkaraktär, inslag av mörka körsbär, inslag av kakao, inslag av vanilj, inslag av svarta vinbär, inslag av ceder, inslag av katrinplommon, inslag av tobak, inslag av dill	Flaska
+9533101	Innocent Bystander	225.33	5	5	9	Nyanserad, bärig, något kryddig smak med inslag av fat, inslag av inslag av hallon, inslag av körsbär, inslag av sandelträ, inslag av körsbär, inslag av lakrits, inslag av blodapelsin	Flaska
+9582001	Flechas de los Andes	278.67	9	9	9	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av korinter, inslag av kakao, inslag av björnbär, inslag av ceder, inslag av viol, inslag av kaffe, inslag av vanilj	Flaska
+9599201	Esprit de Gloria	428	8	8	9	Nyanserad, fruktig smak med rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av plommon, inslag av kakao, inslag av skogshallon, inslag av kaffe	Flaska
+9599301	Confidences de Prieuré-Lichine	398.67	9	9	9	Nyanserad, balanserad smak med tydlig rostad fatkaraktär, inslag av svarta vinbär, inslag av ceder, inslag av mörk choklad, inslag av tobak, inslag av plommon, inslag av kaffe, inslag av svarta oliver, inslag av lavendel, inslag av vanilj	Flaska
